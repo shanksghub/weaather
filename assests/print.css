@@ -1,0 +1,16 @@
+@media print {
+
+  body {
+    zoom: 90%;
+  }
+
+  button,
+  input,
+  select {
+    display: none !important;
+  }
+
+  nav {
+    display: none !important;
+  }
+}
