@@ -1,0 +1,141 @@
+City,Disaster,Year,Count
+Chicago,Cyclone,2026,10
+Chicago,Cyclone,2027,9
+Chicago,Cyclone,2028,9
+Chicago,Cyclone,2029,8
+Chicago,Cyclone,2030,9
+Chicago,Drought,2026,2
+Chicago,Drought,2027,1
+Chicago,Drought,2028,5
+Chicago,Drought,2029,1
+Chicago,Drought,2030,3
+Chicago,Heatwave,2026,3
+Chicago,Heatwave,2027,4
+Chicago,Heatwave,2028,3
+Chicago,Heatwave,2029,2
+Chicago,Heatwave,2030,1
+Chicago,Windstorm,2026,2
+Chicago,Windstorm,2027,2
+Chicago,Windstorm,2029,1
+Chicago,Windstorm,2030,2
+Houston,Cyclone,2026,8
+Houston,Cyclone,2027,7
+Houston,Cyclone,2028,10
+Houston,Cyclone,2029,9
+Houston,Cyclone,2030,8
+Houston,Drought,2026,12
+Houston,Drought,2027,12
+Houston,Drought,2028,12
+Houston,Drought,2029,12
+Houston,Drought,2030,12
+Houston,Heatwave,2026,6
+Houston,Heatwave,2027,6
+Houston,Heatwave,2028,6
+Houston,Heatwave,2029,7
+Houston,Heatwave,2030,7
+Houston,Windstorm,2026,4
+Houston,Windstorm,2027,2
+Houston,Windstorm,2028,1
+Houston,Windstorm,2029,2
+Houston,Windstorm,2030,5
+London,Cyclone,2026,11
+London,Cyclone,2027,8
+London,Cyclone,2028,8
+London,Cyclone,2029,10
+London,Cyclone,2030,8
+London,Drought,2026,4
+London,Drought,2027,3
+London,Drought,2028,6
+London,Drought,2029,5
+London,Drought,2030,3
+London,Windstorm,2026,3
+London,Windstorm,2027,3
+London,Windstorm,2028,4
+London,Windstorm,2029,3
+London,Windstorm,2030,3
+Los Angeles,Cyclone,2026,9
+Los Angeles,Cyclone,2027,8
+Los Angeles,Cyclone,2028,11
+Los Angeles,Cyclone,2029,8
+Los Angeles,Cyclone,2030,8
+Los Angeles,Drought,2029,1
+Los Angeles,Drought,2030,1
+Los Angeles,Heatwave,2026,4
+Los Angeles,Heatwave,2027,4
+Los Angeles,Heatwave,2028,4
+Los Angeles,Heatwave,2029,5
+Los Angeles,Heatwave,2030,3
+Los Angeles,Windstorm,2026,4
+Los Angeles,Windstorm,2027,5
+Los Angeles,Windstorm,2028,3
+Los Angeles,Windstorm,2029,5
+Los Angeles,Windstorm,2030,3
+New York City,Cyclone,2026,11
+New York City,Cyclone,2027,10
+New York City,Cyclone,2028,11
+New York City,Cyclone,2029,10
+New York City,Cyclone,2030,11
+New York City,Drought,2026,2
+New York City,Drought,2027,4
+New York City,Drought,2028,2
+New York City,Drought,2029,2
+New York City,Drought,2030,1
+New York City,Windstorm,2026,2
+New York City,Windstorm,2027,2
+New York City,Windstorm,2028,2
+New York City,Windstorm,2029,4
+New York City,Windstorm,2030,5
+San Francisco Bay Area,Cyclone,2026,11
+San Francisco Bay Area,Cyclone,2027,12
+San Francisco Bay Area,Cyclone,2028,12
+San Francisco Bay Area,Cyclone,2029,10
+San Francisco Bay Area,Cyclone,2030,12
+San Francisco Bay Area,Drought,2030,1
+San Francisco Bay Area,Windstorm,2026,1
+San Francisco Bay Area,Windstorm,2027,2
+San Francisco Bay Area,Windstorm,2028,1
+San Francisco Bay Area,Windstorm,2029,2
+San Francisco Bay Area,Windstorm,2030,2
+Toronto,Cyclone,2026,10
+Toronto,Cyclone,2027,9
+Toronto,Cyclone,2028,9
+Toronto,Cyclone,2029,8
+Toronto,Cyclone,2030,10
+Toronto,Drought,2026,2
+Toronto,Drought,2027,1
+Toronto,Drought,2028,5
+Toronto,Drought,2029,1
+Toronto,Drought,2030,3
+Toronto,Heatwave,2027,1
+Toronto,Heatwave,2028,2
+Toronto,Heatwave,2029,2
+Toronto,Heatwave,2030,1
+Toronto,Windstorm,2026,2
+Toronto,Windstorm,2027,2
+Toronto,Windstorm,2029,1
+Toronto,Windstorm,2030,1
+Vancouver,Cyclone,2026,10
+Vancouver,Cyclone,2027,7
+Vancouver,Cyclone,2028,9
+Vancouver,Cyclone,2029,7
+Vancouver,Cyclone,2030,8
+Vancouver,Drought,2026,5
+Vancouver,Drought,2027,2
+Vancouver,Drought,2028,3
+Vancouver,Drought,2029,5
+Vancouver,Drought,2030,3
+Vancouver,Windstorm,2026,3
+Vancouver,Windstorm,2027,6
+Vancouver,Windstorm,2028,2
+Vancouver,Windstorm,2029,2
+Vancouver,Windstorm,2030,4
+Vancouver,Flood,2026,10
+Vancouver,Cyclone,2027,7
+Vancouver,Flood,2028,9
+Vancouver,Cyclone,2029,7
+Vancouver,Cyclone,2030,8
+Vancouver,Flood,2026,3
+Vancouver,Windstorm,2027,6
+Vancouver,Flood,2028,2
+Vancouver,Flood,2029,2
+

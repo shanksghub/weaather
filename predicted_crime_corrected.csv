@@ -1,0 +1,2401 @@
+City,Month,Disaster,Value,Unit,Threshold,Above/Below,Severity,Scale
+New York City,2026-01,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2026-02,Heatwave,8.850224824151931,°C,32.0,Below,Low,2.8726944419340477
+New York City,2026-03,Heatwave,9.48452210262101,°C,32.0,Below,Low,2.998153863192635
+New York City,2026-04,Heatwave,13.958144344688234,°C,32.0,Below,Medium,3.883004037505119
+New York City,2026-05,Heatwave,19.71958988012693,°C,32.0,Below,Medium,5.022576359545673
+New York City,2026-06,Heatwave,29.60049378276756,°C,32.0,Below,High,6.976947798958124
+New York City,2026-07,Heatwave,29.630393547974545,°C,32.0,Below,High,6.982861756602226
+New York City,2026-08,Heatwave,29.63832114584396,°C,32.0,Below,High,6.984429778213588
+New York City,2026-09,Heatwave,29.59316995010929,°C,32.0,Below,High,6.975499197745582
+New York City,2026-10,Heatwave,19.36936841539146,°C,32.0,Below,Medium,4.953305082859613
+New York City,2026-11,Heatwave,13.593642743103135,°C,32.0,Below,Medium,3.8109082528707163
+New York City,2026-12,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2027-01,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2027-02,Heatwave,12.56174257696016,°C,32.0,Below,Medium,3.6068058516221995
+New York City,2027-03,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2027-04,Heatwave,14.312797935057064,°C,32.0,Below,Medium,3.9531519566359483
+New York City,2027-05,Heatwave,19.31565453842355,°C,32.0,Below,Medium,4.94268086587698
+New York City,2027-06,Heatwave,29.60088335189493,°C,32.0,Below,High,6.977024852918338
+New York City,2027-07,Heatwave,29.62996883730218,°C,32.0,Below,High,6.982777751898175
+New York City,2027-08,Heatwave,29.62091938744398,°C,32.0,Below,High,6.980987836064612
+New York City,2027-09,Heatwave,29.60710708685417,°C,32.0,Below,High,6.978255862750097
+New York City,2027-10,Heatwave,24.42628063853817,°C,32.0,Below,High,5.953525803343741
+New York City,2027-11,Heatwave,14.016856852236057,°C,32.0,Below,Medium,3.8946169475200714
+New York City,2027-12,Heatwave,13.089265999158195,°C,32.0,Below,Medium,3.7111461751516526
+New York City,2028-01,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2028-02,Heatwave,9.473177415050474,°C,32.0,Below,Low,2.9959099659140684
+New York City,2028-03,Heatwave,16.517566566592166,°C,32.0,Below,Medium,4.3892392707563825
+New York City,2028-04,Heatwave,18.23124639928548,°C,32.0,Below,Medium,4.728192766743513
+New York City,2028-05,Heatwave,23.272151757770214,°C,32.0,Below,High,5.725247444987159
+New York City,2028-06,Heatwave,29.61529473215655,°C,32.0,Below,High,6.97987531986583
+New York City,2028-07,Heatwave,29.63210778600752,°C,32.0,Below,High,6.983200820506198
+New York City,2028-08,Heatwave,30.1379169086902,°C,32.0,Below,High,7.0832462123960145
+New York City,2028-09,Heatwave,29.05198177249254,°C,32.0,Below,High,6.868456084270995
+New York City,2028-10,Heatwave,19.352343017248547,°C,32.0,Below,Medium,4.9499375820516915
+New York City,2028-11,Heatwave,13.099489570124234,°C,32.0,Below,Medium,3.713168323661719
+New York City,2028-12,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2029-01,Heatwave,9.62654610271291,°C,32.0,Below,Low,3.026245184819247
+New York City,2029-02,Heatwave,8.602508544921875,°C,32.0,Below,Low,2.823697950724841
+New York City,2029-03,Heatwave,13.16283398125259,°C,32.0,Below,Medium,3.7256973907567414
+New York City,2029-04,Heatwave,19.17093659697108,°C,32.0,Below,Medium,4.9140567021028865
+New York City,2029-05,Heatwave,24.751565427078205,°C,32.0,Below,High,6.01786478555245
+New York City,2029-06,Heatwave,29.59501136706701,°C,32.0,Below,High,6.975863416722477
+New York City,2029-07,Heatwave,31.59413607293871,°C,32.0,Below,High,7.371275847353982
+New York City,2029-08,Heatwave,31.40075714907833,°C,32.0,Below,High,7.333026892652983
+New York City,2029-09,Heatwave,29.61131905203282,°C,32.0,Below,High,6.9790889590467575
+New York City,2029-10,Heatwave,23.056291815375083,°C,32.0,Below,High,5.682551907161159
+New York City,2029-11,Heatwave,13.515943603761244,°C,32.0,Below,Medium,3.7955399241942134
+New York City,2029-12,Heatwave,12.35766714590567,°C,32.0,Below,Medium,3.5664412050404137
+New York City,2030-01,Heatwave,9.003306304534101,°C,32.0,Below,Low,2.9029728533131864
+New York City,2030-02,Heatwave,12.41617573650287,°C,32.0,Below,Medium,3.5780137817550686
+New York City,2030-03,Heatwave,14.352648997394072,°C,32.0,Below,Medium,3.9610342089915123
+New York City,2030-04,Heatwave,19.22346345529661,°C,32.0,Below,Medium,4.92444613536982
+New York City,2030-05,Heatwave,24.05529538732248,°C,32.0,Below,High,5.880147599632496
+New York City,2030-06,Heatwave,25.756804763091623,°C,32.0,Below,High,6.2166938671260015
+New York City,2030-07,Heatwave,29.611521868949648,°C,32.0,Below,High,6.979129074768314
+New York City,2030-08,Heatwave,29.6388636643624,°C,32.0,Below,High,6.984537084458871
+New York City,2030-09,Heatwave,29.60190212201839,°C,32.0,Below,High,6.97722635829196
+New York City,2030-10,Heatwave,21.51351477435807,°C,32.0,Below,Medium,5.377401749234908
+New York City,2030-11,Heatwave,19.158944967115005,°C,32.0,Below,Medium,4.911684844311975
+New York City,2030-12,Heatwave,12.2123835106318,°C,32.0,Below,Medium,3.537705151113466
+New York City,2026-01,Drought,0.0020282123126647,mm,0.0621003741262693,Below,Low,1.0033132443804194
+New York City,2026-01,Flood,0.0020282123126647,mm,50.0,Below,Low,1.0033132443804194
+New York City,2026-02,Drought,0.0182629338594141,mm,0.0621003741262693,Below,Low,1.0298339392783662
+New York City,2026-02,Flood,0.0182629338594141,mm,50.0,Below,Low,1.0298339392783662
+New York City,2026-03,Drought,0.0364362124055259,mm,0.0621003741262693,Below,Low,1.059521419548906
+New York City,2026-03,Flood,0.0364362124055259,mm,50.0,Below,Low,1.059521419548906
+New York City,2026-04,Drought,0.0138482446083005,mm,0.0621003741262693,Below,Low,1.0226221970651792
+New York City,2026-04,Flood,0.0138482446083005,mm,50.0,Below,Low,1.0226221970651792
+New York City,2026-05,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2026-06,Drought,0.3905235569111028,mm,0.0621003741262693,Above,Low,1.6379509542850181
+New York City,2026-06,Flood,0.3905235569111028,mm,50.0,Below,Low,1.6379509542850181
+New York City,2026-07,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2026-08,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2026-09,Drought,0.4956131243358726,mm,0.0621003741262693,Above,Low,1.8096230304955006
+New York City,2026-09,Flood,0.4956131243358726,mm,50.0,Below,Low,1.8096230304955006
+New York City,2026-10,Drought,0.0351249027251919,mm,0.0621003741262693,Below,Low,1.0573792920200342
+New York City,2026-10,Flood,0.0351249027251919,mm,50.0,Below,Low,1.0573792920200342
+New York City,2026-11,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2026-11,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2026-12,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2026-12,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-01,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-02,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-03,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-04,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-05,Drought,0.0188615078903154,mm,0.0621003741262693,Below,Low,1.0308117570500879
+New York City,2027-05,Flood,0.0188615078903154,mm,50.0,Below,Low,1.0308117570500879
+New York City,2027-06,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2027-07,Drought,0.0981159623195104,mm,0.0621003741262693,Above,Low,1.160280143629269
+New York City,2027-07,Flood,0.0981159623195104,mm,50.0,Below,Low,1.160280143629269
+New York City,2027-08,Drought,2.7143602591399394,mm,0.0621003741262693,Above,Medium,5.434121033026015
+New York City,2027-08,Flood,2.7143602591399394,mm,50.0,Below,Medium,5.434121033026015
+New York City,2027-09,Drought,0.4749202367314746,mm,0.0621003741262693,Above,Low,1.7758195706003956
+New York City,2027-09,Flood,0.4749202367314746,mm,50.0,Below,Low,1.7758195706003956
+New York City,2027-10,Drought,3.1578379558136787,mm,0.0621003741262693,Above,High,6.15857674073006
+New York City,2027-10,Flood,3.1578379558136787,mm,50.0,Below,High,6.15857674073006
+New York City,2027-11,Drought,0.0170164676625746,mm,0.0621003741262693,Below,Low,1.027797738681282
+New York City,2027-11,Flood,0.0170164676625746,mm,50.0,Below,Low,1.027797738681282
+New York City,2027-12,Drought,0.001033879507821,mm,0.0621003741262693,Below,Low,1.001688923515516
+New York City,2027-12,Flood,0.001033879507821,mm,50.0,Below,Low,1.001688923515516
+New York City,2028-01,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2028-01,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2028-02,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2028-02,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2028-03,Drought,0.0186324193004417,mm,0.0621003741262693,Below,Low,1.0304375228152016
+New York City,2028-03,Flood,0.0186324193004417,mm,50.0,Below,Low,1.0304375228152016
+New York City,2028-04,Drought,0.0112633752033318,mm,0.0621003741262693,Below,Low,1.018399609530012
+New York City,2028-04,Flood,0.0112633752033318,mm,50.0,Below,Low,1.018399609530012
+New York City,2028-05,Drought,0.0187845737021845,mm,0.0621003741262693,Below,Low,1.030686079001052
+New York City,2028-05,Flood,0.0187845737021845,mm,50.0,Below,Low,1.030686079001052
+New York City,2028-06,Drought,0.0023099699779454,mm,0.0621003741262693,Below,Low,1.0037735176936726
+New York City,2028-06,Flood,0.0023099699779454,mm,50.0,Below,Low,1.0037735176936726
+New York City,2028-07,Drought,0.0076867447198422,mm,0.0621003741262693,Below,Low,1.012556902247218
+New York City,2028-07,Flood,0.0076867447198422,mm,50.0,Below,Low,1.012556902247218
+New York City,2028-08,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2028-09,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2028-10,Drought,0.095027901865617,mm,0.0621003741262693,Above,Low,1.1552355539276045
+New York City,2028-10,Flood,0.095027901865617,mm,50.0,Below,Low,1.1552355539276045
+New York City,2028-11,Drought,1.459540037173292,mm,0.0621003741262693,Above,Medium,3.3842734786517563
+New York City,2028-11,Flood,1.459540037173292,mm,50.0,Below,Medium,3.3842734786517563
+New York City,2028-12,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-01,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-02,Drought,0.3092594730153074,mm,0.0621003741262693,Above,Low,1.5051996798664515
+New York City,2029-02,Flood,0.3092594730153074,mm,50.0,Below,Low,1.5051996798664515
+New York City,2029-03,Drought,0.0329665778969587,mm,0.0621003741262693,Below,Low,1.053853498608955
+New York City,2029-03,Flood,0.0329665778969587,mm,50.0,Below,Low,1.053853498608955
+New York City,2029-04,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-05,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-06,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-07,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-08,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-09,Drought,0.0008316467847054,mm,0.0621003741262693,Below,Low,1.001358560451839
+New York City,2029-09,Flood,0.0008316467847054,mm,50.0,Below,Low,1.001358560451839
+New York City,2029-10,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2029-11,Drought,0.0184344643765754,mm,0.0621003741262693,Below,Low,1.03011414787315
+New York City,2029-11,Flood,0.0184344643765754,mm,50.0,Below,Low,1.03011414787315
+New York City,2029-12,Drought,0.2659850912807118,mm,0.0621003741262693,Above,Low,1.4345075727320187
+New York City,2029-12,Flood,0.2659850912807118,mm,50.0,Below,Low,1.4345075727320187
+New York City,2030-01,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-02,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-03,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-04,Drought,0.01436805777968,mm,0.0621003741262693,Below,Low,1.023471352776436
+New York City,2030-04,Flood,0.01436805777968,mm,50.0,Below,Low,1.023471352776436
+New York City,2030-05,Drought,0.036417154469668,mm,0.0621003741262693,Below,Low,1.0594902869113172
+New York City,2030-05,Flood,0.036417154469668,mm,50.0,Below,Low,1.0594902869113172
+New York City,2030-06,Drought,0.0027289746487023,mm,0.0621003741262693,Below,Low,1.0044579947881493
+New York City,2030-06,Flood,0.0027289746487023,mm,50.0,Below,Low,1.0044579947881493
+New York City,2030-07,Drought,0.0339699890148077,mm,0.0621003741262693,Below,Low,1.05549264961238
+New York City,2030-07,Flood,0.0339699890148077,mm,50.0,Below,Low,1.05549264961238
+New York City,2030-08,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-09,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-10,Drought,0.4943136706588044,mm,0.0621003741262693,Above,Low,1.8075002706807233
+New York City,2030-10,Flood,0.4943136706588044,mm,50.0,Below,Low,1.8075002706807233
+New York City,2030-11,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2030-12,Drought,0.0,mm,0.0621003741262693,Below,Low,1.0
+New York City,2030-12,Flood,0.0,mm,50.0,Below,Low,1.0
+New York City,2026-01,Cyclone,1005.173850300274,hPa,1011.0,Below,Medium,4.441120604907162
+New York City,2026-02,Cyclone,1032.7766078384343,hPa,1011.0,Above,Very High,9.734632995044294
+New York City,2026-03,Cyclone,1013.4821490250886,hPa,1011.0,Above,High,6.03444265542928
+New York City,2026-04,Cyclone,1011.5806542772,hPa,1011.0,Above,High,5.6697839435664
+New York City,2026-05,Cyclone,1015.9498498091676,hPa,1011.0,Above,High,6.507685397847842
+New York City,2026-06,Cyclone,1013.549338235763,hPa,1011.0,Above,High,6.047327850638379
+New York City,2026-07,Cyclone,1016.131596815584,hPa,1011.0,Above,High,6.54253988762138
+New York City,2026-08,Cyclone,1013.5845485080844,hPa,1011.0,Above,High,6.054080292402054
+New York City,2026-09,Cyclone,1018.952401709368,hPa,1011.0,Above,High,7.083499088337544
+New York City,2026-10,Cyclone,1019.6269732062808,hPa,1011.0,Above,High,7.212864879853286
+New York City,2026-11,Cyclone,1024.0478643629106,hPa,1011.0,Above,Very High,8.060680250499294
+New York City,2026-12,Cyclone,1032.9516570352223,hPa,1011.0,Above,Very High,9.76820301393823
+New York City,2027-01,Cyclone,1019.5958084872748,hPa,1011.0,Above,High,7.20688827313327
+New York City,2027-02,Cyclone,1026.0783186297813,hPa,1011.0,Above,Very High,8.450070144042638
+New York City,2027-03,Cyclone,1019.616475913112,hPa,1011.0,Above,High,7.210851763903728
+New York City,2027-04,Cyclone,1012.4164211192962,hPa,1011.0,Above,High,5.830062934815213
+New York City,2027-05,Cyclone,1010.4693545275916,hPa,1011.0,Below,Medium,5.456664693231512
+New York City,2027-06,Cyclone,1015.323191221072,hPa,1011.0,Above,High,6.387508093247595
+New York City,2027-07,Cyclone,1019.5957802790988,hPa,1011.0,Above,High,7.206882863516897
+New York City,2027-08,Cyclone,1019.195211133076,hPa,1011.0,Above,High,7.130063808947913
+New York City,2027-09,Cyclone,1024.08313332616,hPa,1011.0,Above,Very High,8.067443947701994
+New York City,2027-10,Cyclone,1013.4393544001954,hPa,1011.0,Above,High,6.026235726219755
+New York City,2027-11,Cyclone,1021.1945298121996,hPa,1011.0,Above,High,7.513482682411619
+New York City,2027-12,Cyclone,1009.3624653272392,hPa,1011.0,Below,Medium,5.244391274951694
+New York City,2028-01,Cyclone,1010.4852810073496,hPa,1011.0,Below,Medium,5.459718990173181
+New York City,2028-02,Cyclone,1023.9862203488829,hPa,1011.0,Above,Very High,8.048858484084025
+New York City,2028-03,Cyclone,1015.8628760378572,hPa,1011.0,Above,High,6.4910060231363715
+New York City,2028-04,Cyclone,1012.0502307707012,hPa,1011.0,Above,High,5.759836866106093
+New York City,2028-05,Cyclone,1015.3920922855486,hPa,1011.0,Above,High,6.40072157882043
+New York City,2028-06,Cyclone,1014.1496308140752,hPa,1011.0,Above,High,6.1624488198607414
+New York City,2028-07,Cyclone,1012.1581650705,hPa,1011.0,Above,High,5.780535941280585
+New York City,2028-08,Cyclone,1017.654144029048,hPa,1011.0,Above,High,6.834526024437537
+New York City,2028-09,Cyclone,1019.6023853320348,hPa,1011.0,Above,High,7.20814954600346
+New York City,2028-10,Cyclone,1023.2965366112712,hPa,1011.0,Above,Very High,7.916594546132317
+New York City,2028-11,Cyclone,1013.6765427496264,hPa,1011.0,Above,High,6.071722466621447
+New York City,2028-12,Cyclone,1012.0065605284682,hPa,1011.0,Above,High,5.751462015585409
+New York City,2029-01,Cyclone,1013.5353024803228,hPa,1011.0,Above,High,6.04463614691186
+New York City,2029-02,Cyclone,1016.0119605178928,hPa,1011.0,Above,High,6.519596664529891
+New York City,2029-03,Cyclone,1005.3129703751256,hPa,1011.0,Below,Medium,4.467800324820128
+New York City,2029-04,Cyclone,1009.2374045276324,hPa,1011.0,Below,Medium,5.220407769270286
+New York City,2029-05,Cyclone,1015.405028761654,hPa,1011.0,Above,High,6.4032024685088444
+New York City,2029-06,Cyclone,1015.4714298748796,hPa,1011.0,Above,High,6.415936526513482
+New York City,2029-07,Cyclone,1019.6384132233848,hPa,1011.0,Above,High,7.215058786465675
+New York City,2029-08,Cyclone,1023.2563236365704,hPa,1011.0,Above,Very High,7.908882712286416
+New York City,2029-09,Cyclone,1019.5635249893844,hPa,1011.0,Above,High,7.2006971128535975
+New York City,2029-10,Cyclone,1011.5011888904012,hPa,1011.0,Above,High,5.654544487543756
+New York City,2029-11,Cyclone,1021.5995548069036,hPa,1011.0,Above,High,7.591156256322378
+New York City,2029-12,Cyclone,1012.742473701142,hPa,1011.0,Above,High,5.892591592665828
+New York City,2030-01,Cyclone,1027.745805161128,hPa,1011.0,Above,Very High,8.76985198474704
+New York City,2030-02,Cyclone,1017.5988001125424,hPa,1011.0,Above,High,6.8239124577554495
+New York City,2030-03,Cyclone,1013.548711419827,hPa,1011.0,Above,High,6.047207643158418
+New York City,2030-04,Cyclone,1011.6449464821292,hPa,1011.0,Above,High,5.682113566174264
+New York City,2030-05,Cyclone,1010.709339299674,hPa,1011.0,Below,High,5.50268771693507
+New York City,2030-06,Cyclone,1016.9501357926353,hPa,1011.0,Above,High,6.699515009068608
+New York City,2030-07,Cyclone,1015.3715461176168,hPa,1011.0,Above,High,6.396781342256512
+New York City,2030-08,Cyclone,1015.4635546503788,hPa,1011.0,Above,High,6.414426257171277
+New York City,2030-09,Cyclone,1015.3301798328472,hPa,1011.0,Above,High,6.388848332641101
+New York City,2030-10,Cyclone,1025.8999333628112,hPa,1011.0,Above,Very High,8.415860351067481
+New York City,2030-11,Cyclone,1019.6046083533008,hPa,1011.0,Above,High,7.2085758653883545
+New York City,2030-12,Cyclone,1023.2423617945576,hPa,1011.0,Above,Very High,7.906205183290201
+New York City,2026-01,Windstorm,12.553808258916138,m/s,11.0,Above,High,5.988412442480043
+New York City,2026-02,Windstorm,10.723142661179065,m/s,11.0,Below,Medium,5.192308112788096
+New York City,2026-03,Windstorm,10.881494342365324,m/s,11.0,Below,Medium,5.261170748958357
+New York City,2026-04,Windstorm,12.316428639465196,m/s,11.0,Above,High,5.885182806734923
+New York City,2026-05,Windstorm,7.223980286742834,m/s,11.0,Below,Medium,3.670622054980869
+New York City,2026-06,Windstorm,10.050927845936062,m/s,11.0,Below,Medium,4.899981034833749
+New York City,2026-07,Windstorm,7.134459537061006,m/s,11.0,Below,Medium,3.6316920305640297
+New York City,2026-08,Windstorm,5.829615063896967,m/s,11.0,Below,Low,3.064252332158939
+New York City,2026-09,Windstorm,5.744310191051402,m/s,11.0,Below,Low,3.0271556725067765
+New York City,2026-10,Windstorm,7.137855589715166,m/s,11.0,Below,Medium,3.6331688771411326
+New York City,2026-11,Windstorm,6.81451554521641,m/s,11.0,Below,Medium,3.492557500761722
+New York City,2026-12,Windstorm,10.906717076885773,m/s,11.0,Below,Medium,5.2721393978384254
+New York City,2027-01,Windstorm,15.722542392286242,m/s,11.0,Above,High,7.366404669097998
+New York City,2027-02,Windstorm,5.699746730615669,m/s,11.0,Below,Low,3.007776292764896
+New York City,2027-03,Windstorm,10.532594280545108,m/s,11.0,Below,Medium,5.10944404901479
+New York City,2027-04,Windstorm,16.558763442202462,m/s,11.0,Above,High,7.730053387488053
+New York City,2027-05,Windstorm,9.848708565481898,m/s,11.0,Below,Medium,4.8120416291248365
+New York City,2027-06,Windstorm,7.065455295730974,m/s,11.0,Below,Medium,3.6016840513034523
+New York City,2027-07,Windstorm,5.837079952397664,m/s,11.0,Below,Low,3.067498599562128
+New York City,2027-08,Windstorm,5.986294011295172,m/s,11.0,Below,Low,3.132387544045519
+New York City,2027-09,Windstorm,7.152487372256751,m/s,11.0,Below,Medium,3.63953182264405
+New York City,2027-10,Windstorm,7.168177056553536,m/s,11.0,Below,Medium,3.646354819490449
+New York City,2027-11,Windstorm,9.960400390760093,m/s,11.0,Below,Medium,4.8606132228692545
+New York City,2027-12,Windstorm,10.953397295498531,m/s,11.0,Below,Medium,5.292439295424593
+New York City,2028-01,Windstorm,8.793938459258241,m/s,11.0,Below,Medium,4.353352150591854
+New York City,2028-02,Windstorm,12.917750503542605,m/s,11.0,Above,High,6.146680559313115
+New York City,2028-03,Windstorm,10.824305454159436,m/s,11.0,Below,Medium,5.236300930261127
+New York City,2028-04,Windstorm,7.2451988461458,m/s,11.0,Below,Medium,3.679849402144331
+New York City,2028-05,Windstorm,8.40592728370173,m/s,11.0,Below,Medium,4.1846171411989666
+New York City,2028-06,Windstorm,8.532283951454213,m/s,11.0,Below,Medium,4.239566057269462
+New York City,2028-07,Windstorm,7.095603154220615,m/s,11.0,Below,Medium,3.614794496326405
+New York City,2028-08,Windstorm,7.074526174726299,m/s,11.0,Below,Medium,3.6056287182329103
+New York City,2028-09,Windstorm,5.014246473850541,m/s,11.0,Below,Low,2.709671754672167
+New York City,2028-10,Windstorm,10.831433686228134,m/s,11.0,Below,Medium,5.2394007953702735
+New York City,2028-11,Windstorm,12.532495428713226,m/s,11.0,Above,High,5.979144099630589
+New York City,2028-12,Windstorm,7.857131299871161,m/s,11.0,Below,Medium,3.945961397962666
+New York City,2029-01,Windstorm,7.213803767451811,m/s,11.0,Below,Medium,3.6661965765762976
+New York City,2029-02,Windstorm,9.198998983067296,m/s,11.0,Below,Medium,4.529501435961224
+New York City,2029-03,Windstorm,18.628614568631303,m/s,11.0,Above,Very High,8.63017269142027
+New York City,2029-04,Windstorm,11.818967143688033,m/s,11.0,Above,High,5.668850970307354
+New York City,2029-05,Windstorm,7.229536537372507,m/s,11.0,Below,Medium,3.6730383101334234
+New York City,2029-06,Windstorm,7.1531151052120965,m/s,11.0,Below,Medium,3.6398048058280126
+New York City,2029-07,Windstorm,7.150548058085481,m/s,11.0,Below,Medium,3.6386884701441238
+New York City,2029-08,Windstorm,5.574027262998413,m/s,11.0,Below,Low,2.953104476885261
+New York City,2029-09,Windstorm,6.982689371861137,m/s,11.0,Below,Medium,3.5656915082496146
+New York City,2029-10,Windstorm,5.845324303644818,m/s,11.0,Below,Low,3.071083833114052
+New York City,2029-11,Windstorm,16.45289830023086,m/s,11.0,Above,High,7.684015652365251
+New York City,2029-12,Windstorm,14.365766575614712,m/s,11.0,Above,High,6.7763815084460965
+New York City,2030-01,Windstorm,21.2401186521304,m/s,11.0,Above,Very High,9.765841439689627
+New York City,2030-02,Windstorm,16.485822839365934,m/s,11.0,Above,High,7.698333596718903
+New York City,2030-03,Windstorm,16.616646346798426,m/s,11.0,Above,Very High,7.755225014147206
+New York City,2030-04,Windstorm,11.743632489896736,m/s,11.0,Above,High,5.636090074962389
+New York City,2030-05,Windstorm,6.992119414126126,m/s,11.0,Below,Medium,3.569792365055803
+New York City,2030-06,Windstorm,7.261454228930939,m/s,11.0,Below,Medium,3.6869184051517867
+New York City,2030-07,Windstorm,5.82366374793103,m/s,11.0,Below,Low,3.061664274343408
+New York City,2030-08,Windstorm,7.320230235145733,m/s,11.0,Below,Medium,3.712478416268748
+New York City,2030-09,Windstorm,3.903493008148742,m/s,11.0,Below,Low,2.226636707551267
+New York City,2030-10,Windstorm,7.292201977937362,m/s,11.0,Below,Medium,3.700289725475145
+New York City,2030-11,Windstorm,7.265254053104566,m/s,11.0,Below,Medium,3.6885708404629827
+New York City,2030-12,Windstorm,17.0161122476258,m/s,11.0,Above,Very High,7.9289413573210075
+San Francisco Bay Area,2026-01,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2026-02,Heatwave,13.91322628976572,°C,32.0,Below,Medium,3.8741195706061897
+San Francisco Bay Area,2026-03,Heatwave,13.371114437417694,°C,32.0,Below,Medium,3.766893760939847
+San Francisco Bay Area,2026-04,Heatwave,16.744307559446902,°C,32.0,Below,Medium,4.434087001788448
+San Francisco Bay Area,2026-05,Heatwave,20.60617459957344,°C,32.0,Below,Medium,5.197936414797572
+San Francisco Bay Area,2026-06,Heatwave,24.95367012314912,°C,32.0,Below,High,6.057839634985665
+San Francisco Bay Area,2026-07,Heatwave,27.00731380699369,°C,32.0,Below,High,6.4640355257647455
+San Francisco Bay Area,2026-08,Heatwave,28.05770874023437,°C,32.0,Below,High,6.671796058389752
+San Francisco Bay Area,2026-09,Heatwave,26.61853048118265,°C,32.0,Below,High,6.387136991422981
+San Francisco Bay Area,2026-10,Heatwave,22.908871858323455,°C,32.0,Below,High,5.6533933042134965
+San Francisco Bay Area,2026-11,Heatwave,17.131416324261455,°C,32.0,Below,Medium,4.51065432005754
+San Francisco Bay Area,2026-12,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2027-01,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2027-02,Heatwave,16.11521672805707,°C,32.0,Below,Medium,4.309657378165053
+San Francisco Bay Area,2027-03,Heatwave,12.857929046578883,°C,32.0,Below,Medium,3.665389396474664
+San Francisco Bay Area,2027-04,Heatwave,16.787441829171637,°C,32.0,Below,Medium,4.442618648856426
+San Francisco Bay Area,2027-05,Heatwave,20.08644797430451,°C,32.0,Below,Medium,5.095138241398034
+San Francisco Bay Area,2027-06,Heatwave,24.955849626322276,°C,32.0,Below,High,6.058270724974567
+San Francisco Bay Area,2027-07,Heatwave,26.96483854490071,°C,32.0,Below,High,6.455634225647467
+San Francisco Bay Area,2027-08,Heatwave,26.813560309001566,°C,32.0,Below,High,6.425712483005381
+San Francisco Bay Area,2027-09,Heatwave,26.52206812498749,°C,32.0,Below,High,6.368057433946882
+San Francisco Bay Area,2027-10,Heatwave,24.341707299746343,°C,32.0,Below,High,5.93679780765639
+San Francisco Bay Area,2027-11,Heatwave,17.40405020116408,°C,32.0,Below,Medium,4.564579332150045
+San Francisco Bay Area,2027-12,Heatwave,16.260296759923513,°C,32.0,Below,Medium,4.338353160808283
+San Francisco Bay Area,2028-01,Heatwave,13.080870240959678,°C,32.0,Below,Medium,3.7094855548078995
+San Francisco Bay Area,2028-02,Heatwave,13.762370759424824,°C,32.0,Below,Medium,3.844281436071061
+San Francisco Bay Area,2028-03,Heatwave,17.419445479077307,°C,32.0,Below,Medium,4.567624406948049
+San Francisco Bay Area,2028-04,Heatwave,19.748488709579043,°C,32.0,Below,Medium,5.028292339325476
+San Francisco Bay Area,2028-05,Heatwave,23.112686723555,°C,32.0,Below,High,5.693706412757115
+San Francisco Bay Area,2028-06,Heatwave,26.22077140730396,°C,32.0,Below,High,6.3084631189296045
+San Francisco Bay Area,2028-07,Heatwave,26.56649103324473,°C,32.0,Below,High,6.376843964411002
+San Francisco Bay Area,2028-08,Heatwave,28.05770874023437,°C,32.0,Below,High,6.671796058389752
+San Francisco Bay Area,2028-09,Heatwave,26.18342632808621,°C,32.0,Below,High,6.301076531938685
+San Francisco Bay Area,2028-10,Heatwave,21.34217545071393,°C,32.0,Below,Medium,5.3435120683031
+San Francisco Bay Area,2028-11,Heatwave,17.176694936266962,°C,32.0,Below,Medium,4.519610102543812
+San Francisco Bay Area,2028-12,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2029-01,Heatwave,12.861098280409577,°C,32.0,Below,Medium,3.6660162480405285
+San Francisco Bay Area,2029-02,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2029-03,Heatwave,16.194089752629818,°C,32.0,Below,Medium,4.325257892863294
+San Francisco Bay Area,2029-04,Heatwave,19.361138739170872,°C,32.0,Below,Medium,4.951677312331774
+San Francisco Bay Area,2029-05,Heatwave,23.45902646352529,°C,32.0,Below,High,5.76220991231555
+San Francisco Bay Area,2029-06,Heatwave,24.990962112191117,°C,32.0,Below,High,6.065215721123198
+San Francisco Bay Area,2029-07,Heatwave,27.028033447039046,°C,32.0,Below,High,6.468133720943905
+San Francisco Bay Area,2029-08,Heatwave,27.24364202135101,°C,32.0,Below,High,6.510779539978248
+San Francisco Bay Area,2029-09,Heatwave,26.61669057714662,°C,32.0,Below,High,6.386773071691072
+San Francisco Bay Area,2029-10,Heatwave,24.40667134961471,°C,32.0,Below,High,5.949647227598363
+San Francisco Bay Area,2029-11,Heatwave,17.468023079207075,°C,32.0,Below,Medium,4.577232705462464
+San Francisco Bay Area,2029-12,Heatwave,13.393529563965672,°C,32.0,Below,Medium,3.7713273111056855
+San Francisco Bay Area,2030-01,Heatwave,12.72015380859375,°C,32.0,Below,Medium,3.638138449311375
+San Francisco Bay Area,2030-02,Heatwave,13.28191491069206,°C,32.0,Below,Medium,3.749250738686074
+San Francisco Bay Area,2030-03,Heatwave,16.24987764956194,°C,32.0,Below,Medium,4.33629233601782
+San Francisco Bay Area,2030-04,Heatwave,19.4246434795444,°C,32.0,Below,Medium,4.964238091393713
+San Francisco Bay Area,2030-05,Heatwave,22.657203834362555,°C,32.0,Below,High,5.603615186433086
+San Francisco Bay Area,2030-06,Heatwave,24.0071054637552,°C,32.0,Below,High,5.87061598074263
+San Francisco Bay Area,2030-07,Heatwave,26.396846908409387,°C,32.0,Below,High,6.343289581562108
+San Francisco Bay Area,2030-08,Heatwave,27.001620049909228,°C,32.0,Below,High,6.462909341729513
+San Francisco Bay Area,2030-09,Heatwave,26.49081461994308,°C,32.0,Below,High,6.361875716338637
+San Francisco Bay Area,2030-10,Heatwave,23.70246868345069,°C,32.0,Below,High,5.810361025458368
+San Francisco Bay Area,2030-11,Heatwave,19.9176921872332,°C,32.0,Below,Medium,5.061759565343955
+San Francisco Bay Area,2030-12,Heatwave,14.672671117732277,°C,32.0,Below,Medium,4.02433227343297
+San Francisco Bay Area,2026-01,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-01,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-02,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-03,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-04,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-04,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-05,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-06,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-07,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-08,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-09,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-09,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-10,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-10,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-11,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-11,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-12,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2026-12,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-01,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-02,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-03,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-04,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-05,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-06,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-07,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-08,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-08,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-09,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-09,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-10,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-10,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-11,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-11,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2027-12,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-01,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-01,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-02,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-02,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-03,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-03,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-04,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-04,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-05,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-06,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-06,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-07,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-07,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-08,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-09,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-10,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-10,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-11,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-11,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2028-12,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-01,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-02,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-02,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-03,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-03,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-04,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-05,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-06,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-07,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-08,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-09,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-10,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-11,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-11,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2029-12,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2029-12,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-01,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-02,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-03,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-04,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-04,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-05,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-05,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-06,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-06,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-07,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-07,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-08,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-09,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-10,Drought,0.0009536743164062,mm,9.756336713004153e-06,Above,Low,1.0015579020252725
+San Francisco Bay Area,2030-10,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+San Francisco Bay Area,2030-11,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2030-12,Drought,0.0,mm,9.756336713004153e-06,Below,Low,1.0
+San Francisco Bay Area,2030-12,Flood,0.0,mm,50.0,Below,Low,1.0
+San Francisco Bay Area,2026-01,Cyclone,1001.27685546875,hPa,1011.0,Below,Medium,3.69377532983985
+San Francisco Bay Area,2026-02,Cyclone,1033.3687890498268,hPa,1011.0,Above,Very High,9.848198408767134
+San Francisco Bay Area,2026-03,Cyclone,1015.0432375185898,hPa,1011.0,Above,High,6.3338200372370475
+San Francisco Bay Area,2026-04,Cyclone,1013.2926121036415,hPa,1011.0,Above,High,5.9980942565172795
+San Francisco Bay Area,2026-05,Cyclone,1014.624356799574,hPa,1011.0,Above,High,6.253489285027453
+San Francisco Bay Area,2026-06,Cyclone,1013.7907552876604,hPa,1011.0,Above,High,6.093625549469472
+San Francisco Bay Area,2026-07,Cyclone,1014.5579162438484,hPa,1011.0,Above,High,6.240747662946576
+San Francisco Bay Area,2026-08,Cyclone,1014.71239609873,hPa,1011.0,Above,High,6.270373001093026
+San Francisco Bay Area,2026-09,Cyclone,1013.5069927485712,hPa,1011.0,Above,High,6.0392070547067975
+San Francisco Bay Area,2026-10,Cyclone,1019.0040931401024,hPa,1011.0,Above,High,7.093412200412608
+San Francisco Bay Area,2026-11,Cyclone,1024.5363234338745,hPa,1011.0,Above,Very High,8.15435437492863
+San Francisco Bay Area,2026-12,Cyclone,1034.1603509104384,hPa,1011.0,Above,Very High,10.0
+San Francisco Bay Area,2027-01,Cyclone,1023.167512584871,hPa,1011.0,Above,Very High,7.891850993556795
+San Francisco Bay Area,2027-02,Cyclone,1026.645445248941,hPa,1011.0,Above,Very High,8.558830719182591
+San Francisco Bay Area,2027-03,Cyclone,1014.691056616876,hPa,1011.0,Above,High,6.266280626936684
+San Francisco Bay Area,2027-04,Cyclone,1013.9638513040366,hPa,1011.0,Above,High,6.126820997645388
+San Francisco Bay Area,2027-05,Cyclone,1013.4630104795943,hPa,1011.0,Above,High,6.030772365330081
+San Francisco Bay Area,2027-06,Cyclone,1013.6142299150608,hPa,1011.0,Above,High,6.059772437303497
+San Francisco Bay Area,2027-07,Cyclone,1016.73452080034,hPa,1011.0,Above,High,6.6581654942008806
+San Francisco Bay Area,2027-08,Cyclone,1017.2561861385576,hPa,1011.0,Above,High,6.758207742789361
+San Francisco Bay Area,2027-09,Cyclone,1020.8496380019532,hPa,1011.0,Above,High,7.447341135927645
+San Francisco Bay Area,2027-10,Cyclone,1014.0229442058916,hPa,1011.0,Above,High,6.13815352511864
+San Francisco Bay Area,2027-11,Cyclone,1023.6914026173235,hPa,1011.0,Above,Very High,7.992319882363389
+San Francisco Bay Area,2027-12,Cyclone,1014.6264343762812,hPa,1011.0,Above,High,6.253887711815995
+San Francisco Bay Area,2028-01,Cyclone,1013.7665320766812,hPa,1011.0,Above,High,6.088980148832587
+San Francisco Bay Area,2028-02,Cyclone,1023.1478865214544,hPa,1011.0,Above,Very High,7.888087209821722
+San Francisco Bay Area,2028-03,Cyclone,1018.033028677878,hPa,1011.0,Above,High,6.907186539614017
+San Francisco Bay Area,2028-04,Cyclone,1015.3357006508068,hPa,1011.0,Above,High,6.389907086217885
+San Francisco Bay Area,2028-05,Cyclone,1013.8086771903784,hPa,1011.0,Above,High,6.09706251818396
+San Francisco Bay Area,2028-06,Cyclone,1013.8837491230368,hPa,1011.0,Above,High,6.111459420563342
+San Francisco Bay Area,2028-07,Cyclone,1013.5006410645068,hPa,1011.0,Above,High,6.037988961976513
+San Francisco Bay Area,2028-08,Cyclone,1017.5989232044412,hPa,1011.0,Above,High,6.823936063675635
+San Francisco Bay Area,2028-09,Cyclone,1019.055721104359,hPa,1011.0,Above,High,7.10331314121868
+San Francisco Bay Area,2028-10,Cyclone,1019.0471700657712,hPa,1011.0,Above,High,7.101673267787534
+San Francisco Bay Area,2028-11,Cyclone,1014.4570507685366,hPa,1011.0,Above,High,6.2214042099397
+San Francisco Bay Area,2028-12,Cyclone,1018.1203644000384,hPa,1011.0,Above,High,6.92393532736534
+San Francisco Bay Area,2029-01,Cyclone,1017.4593859246896,hPa,1011.0,Above,High,6.7971763343902545
+San Francisco Bay Area,2029-02,Cyclone,1014.99460949988,hPa,1011.0,Above,High,6.3244944102886445
+San Francisco Bay Area,2029-03,Cyclone,1009.5089253928988,hPa,1011.0,Below,Medium,5.272478619890251
+San Francisco Bay Area,2029-04,Cyclone,1005.9622016893928,hPa,1011.0,Below,Medium,4.592306508718147
+San Francisco Bay Area,2029-05,Cyclone,1013.637994657812,hPa,1011.0,Above,High,6.06432991530285
+San Francisco Bay Area,2029-06,Cyclone,1013.7319648999322,hPa,1011.0,Above,High,6.082351036572345
+San Francisco Bay Area,2029-07,Cyclone,1018.0233220541448,hPa,1011.0,Above,High,6.905325054111107
+San Francisco Bay Area,2029-08,Cyclone,1018.8166955679402,hPa,1011.0,Above,High,7.057474074710818
+San Francisco Bay Area,2029-09,Cyclone,1016.997740699424,hPa,1011.0,Above,High,6.7086444289669265
+San Francisco Bay Area,2029-10,Cyclone,1013.7708693408092,hPa,1011.0,Above,High,6.0898119266493245
+San Francisco Bay Area,2029-11,Cyclone,1019.1702181632112,hPa,1011.0,Above,High,7.125270787980254
+San Francisco Bay Area,2029-12,Cyclone,1015.346421890032,hPa,1011.0,Above,High,6.391963149370207
+San Francisco Bay Area,2030-01,Cyclone,1034.1517620142713,hPa,1011.0,Above,Very High,9.998352866440415
+San Francisco Bay Area,2030-02,Cyclone,1016.9319858147052,hPa,1011.0,Above,High,6.696034301283497
+San Francisco Bay Area,2030-03,Cyclone,1013.9553199013732,hPa,1011.0,Above,High,6.1251848898890735
+San Francisco Bay Area,2030-04,Cyclone,1013.8895136701952,hPa,1011.0,Above,High,6.112564915250416
+San Francisco Bay Area,2030-05,Cyclone,1012.9440024232402,hPa,1011.0,Above,High,5.9312397163513255
+San Francisco Bay Area,2030-06,Cyclone,1014.3546606758572,hPa,1011.0,Above,High,6.201768373792653
+San Francisco Bay Area,2030-07,Cyclone,1013.9503762077768,hPa,1011.0,Above,High,6.124236814202459
+San Francisco Bay Area,2030-08,Cyclone,1013.8076133331392,hPa,1011.0,Above,High,6.096858497210003
+San Francisco Bay Area,2030-09,Cyclone,1016.1730112417622,hPa,1011.0,Above,High,6.550482129544193
+San Francisco Bay Area,2030-10,Cyclone,1026.883394606375,hPa,1011.0,Above,Very High,8.604463401716597
+San Francisco Bay Area,2030-11,Cyclone,1024.88167240157,hPa,1011.0,Above,Very High,8.22058359267582
+San Francisco Bay Area,2030-12,Cyclone,1024.855859070296,hPa,1011.0,Above,Very High,8.215633247090196
+San Francisco Bay Area,2026-01,Windstorm,9.757217085775968,m/s,11.0,Below,Medium,4.772254590348421
+San Francisco Bay Area,2026-02,Windstorm,9.194882542628424,m/s,11.0,Below,Medium,4.527711313253747
+San Francisco Bay Area,2026-03,Windstorm,10.550656687554516,m/s,11.0,Below,Medium,5.117298875391941
+San Francisco Bay Area,2026-04,Windstorm,7.564024034699356,m/s,11.0,Below,Medium,3.8184973962597435
+San Francisco Bay Area,2026-05,Windstorm,8.31083415260985,m/s,11.0,Below,Medium,4.143263846812603
+San Francisco Bay Area,2026-06,Windstorm,8.87554372673059,m/s,11.0,Below,Medium,4.388839957234811
+San Francisco Bay Area,2026-07,Windstorm,5.795590711932712,m/s,11.0,Below,Low,3.049456110529391
+San Francisco Bay Area,2026-08,Windstorm,2.636380386307438,m/s,11.0,Below,Low,1.675605516654295
+San Francisco Bay Area,2026-09,Windstorm,5.686153818580954,m/s,11.0,Below,Low,3.001865122457586
+San Francisco Bay Area,2026-10,Windstorm,8.23095595394579,m/s,11.0,Below,Medium,4.108527093206123
+San Francisco Bay Area,2026-11,Windstorm,6.15496869754858,m/s,11.0,Below,Low,3.2057393611123604
+San Francisco Bay Area,2026-12,Windstorm,14.107136382317996,m/s,11.0,Above,High,6.663910603368133
+San Francisco Bay Area,2027-01,Windstorm,13.834041106230153,m/s,11.0,Above,High,6.545149245760988
+San Francisco Bay Area,2027-02,Windstorm,2.592644214630127,m/s,11.0,Below,Low,1.6565859012316322
+San Francisco Bay Area,2027-03,Windstorm,9.567724867978296,m/s,11.0,Below,Medium,4.6898498217122855
+San Francisco Bay Area,2027-04,Windstorm,9.566388841121498,m/s,11.0,Below,Medium,4.689268821683337
+San Francisco Bay Area,2027-05,Windstorm,10.521342715122028,m/s,11.0,Below,Medium,5.104551063665528
+San Francisco Bay Area,2027-06,Windstorm,3.8602668703567695,m/s,11.0,Below,Low,2.207838891339181
+San Francisco Bay Area,2027-07,Windstorm,5.325519951935861,m/s,11.0,Below,Low,2.8450357249834646
+San Francisco Bay Area,2027-08,Windstorm,2.716246474537909,m/s,11.0,Below,Low,1.710337003778121
+San Francisco Bay Area,2027-09,Windstorm,3.4874910981006706,m/s,11.0,Below,Low,2.0457293249256416
+San Francisco Bay Area,2027-10,Windstorm,3.4918118673802407,m/s,11.0,Below,Low,2.0476083044264954
+San Francisco Bay Area,2027-11,Windstorm,6.384152196514594,m/s,11.0,Below,Medium,3.305404737490399
+San Francisco Bay Area,2027-12,Windstorm,16.01675632556222,m/s,11.0,Above,High,7.494349929240668
+San Francisco Bay Area,2028-01,Windstorm,6.397378648504816,m/s,11.0,Below,Medium,3.3111565447614235
+San Francisco Bay Area,2028-02,Windstorm,11.533300993888233,m/s,11.0,Above,High,5.54462289775103
+San Francisco Bay Area,2028-03,Windstorm,9.550630088876728,m/s,11.0,Below,Medium,4.682415789153468
+San Francisco Bay Area,2028-04,Windstorm,4.136527777886792,m/s,11.0,Below,Low,2.327976891900912
+San Francisco Bay Area,2028-05,Windstorm,3.36654103318841,m/s,11.0,Below,Low,1.9931315864461525
+San Francisco Bay Area,2028-06,Windstorm,8.333012289931103,m/s,11.0,Below,Medium,4.152908487083211
+San Francisco Bay Area,2028-07,Windstorm,3.9645541307936862,m/s,11.0,Below,Low,2.253190450721828
+San Francisco Bay Area,2028-08,Windstorm,3.564049653948548,m/s,11.0,Below,Low,2.0790224604173435
+San Francisco Bay Area,2028-09,Windstorm,3.966771886845899,m/s,11.0,Below,Low,2.2541548896655375
+San Francisco Bay Area,2028-10,Windstorm,10.309322799092309,m/s,11.0,Below,Medium,5.012349640674444
+San Francisco Bay Area,2028-11,Windstorm,9.575112038765663,m/s,11.0,Below,Medium,4.693062291895408
+San Francisco Bay Area,2028-12,Windstorm,9.54883249613174,m/s,11.0,Below,Medium,4.681634067265495
+San Francisco Bay Area,2029-01,Windstorm,8.296319664834162,m/s,11.0,Below,Medium,4.136951909462729
+San Francisco Bay Area,2029-02,Windstorm,8.473364964485842,m/s,11.0,Below,Medium,4.213943867894972
+San Francisco Bay Area,2029-03,Windstorm,17.39777061820473,m/s,11.0,Above,Very High,8.094913712761915
+San Francisco Bay Area,2029-04,Windstorm,9.175144279571011,m/s,11.0,Below,Medium,4.519127704810989
+San Francisco Bay Area,2029-05,Windstorm,6.095045758741548,m/s,11.0,Below,Low,3.1796805816765565
+San Francisco Bay Area,2029-06,Windstorm,6.851072114382336,m/s,11.0,Below,Medium,3.508454911532783
+San Francisco Bay Area,2029-07,Windstorm,6.590866989515052,m/s,11.0,Below,Medium,3.3952991135700414
+San Francisco Bay Area,2029-08,Windstorm,4.075067237422381,m/s,11.0,Below,Low,2.301249453296392
+San Francisco Bay Area,2029-09,Windstorm,3.9669558933348488,m/s,11.0,Below,Low,2.2542349088469353
+San Francisco Bay Area,2029-10,Windstorm,3.004599134158931,m/s,11.0,Below,Low,1.8357333629418298
+San Francisco Bay Area,2029-11,Windstorm,9.544121786942254,m/s,11.0,Below,Medium,4.679585514003609
+San Francisco Bay Area,2029-12,Windstorm,16.99619025723328,m/s,11.0,Above,Very High,7.920277851092906
+San Francisco Bay Area,2030-01,Windstorm,9.789109234097287,m/s,11.0,Below,Medium,4.7861235773404545
+San Francisco Bay Area,2030-02,Windstorm,15.760156571204856,m/s,11.0,Above,High,7.382762004228964
+San Francisco Bay Area,2030-03,Windstorm,13.886825997690057,m/s,11.0,Above,High,6.568103891702602
+San Francisco Bay Area,2030-04,Windstorm,10.508835780944276,m/s,11.0,Below,Medium,5.0991121541987265
+San Francisco Bay Area,2030-05,Windstorm,3.899343031748129,m/s,11.0,Below,Low,2.224832001009159
+San Francisco Bay Area,2030-06,Windstorm,3.8061513821442183,m/s,11.0,Below,Low,2.1843056067662587
+San Francisco Bay Area,2030-07,Windstorm,3.477387650158811,m/s,11.0,Below,Low,2.0413356231696937
+San Francisco Bay Area,2030-08,Windstorm,5.781699959617272,m/s,11.0,Below,Low,3.0434154179667137
+San Francisco Bay Area,2030-09,Windstorm,2.592644214630127,m/s,11.0,Below,Low,1.6565859012316322
+San Francisco Bay Area,2030-10,Windstorm,6.47578110325705,m/s,11.0,Below,Medium,3.3452515393709716
+San Francisco Bay Area,2030-11,Windstorm,5.989812185402943,m/s,11.0,Below,Low,3.133917497764685
+San Francisco Bay Area,2030-12,Windstorm,8.476245744975696,m/s,11.0,Below,Medium,4.215196637283166
+Los Angeles,2026-01,Heatwave,13.97457923565373,°C,32.0,Below,Medium,3.886254740257551
+Los Angeles,2026-02,Heatwave,15.79904260241133,°C,32.0,Below,Medium,4.2471204192864125
+Los Angeles,2026-03,Heatwave,15.935987362984475,°C,32.0,Below,Medium,4.2742071040147
+Los Angeles,2026-04,Heatwave,20.958337223603248,°C,32.0,Below,Medium,5.267591638774446
+Los Angeles,2026-05,Heatwave,27.63795463740225,°C,32.0,Below,High,6.588771728001108
+Los Angeles,2026-06,Heatwave,35.52310462385827,°C,32.0,Above,Very High,8.148397454640826
+Los Angeles,2026-07,Heatwave,35.56676203642942,°C,32.0,Above,Very High,8.157032575586074
+Los Angeles,2026-08,Heatwave,35.78135196570567,°C,32.0,Above,Very High,8.19947691398825
+Los Angeles,2026-09,Heatwave,35.50469387009028,°C,32.0,Above,Very High,8.144755940494267
+Los Angeles,2026-10,Heatwave,25.365641320234012,°C,32.0,Below,High,6.1393245628198585
+Los Angeles,2026-11,Heatwave,16.415487997739184,°C,32.0,Below,Medium,4.369048866972671
+Los Angeles,2026-12,Heatwave,7.01702880859375,°C,32.0,Below,Low,2.5101015080331184
+Los Angeles,2027-01,Heatwave,14.097978599168163,°C,32.0,Below,Medium,3.910662243262396
+Los Angeles,2027-02,Heatwave,17.08285459608473,°C,32.0,Below,Medium,4.501049160900822
+Los Angeles,2027-03,Heatwave,14.795427600703867,°C,32.0,Below,Medium,4.048612619308845
+Los Angeles,2027-04,Heatwave,20.793977236090893,°C,32.0,Below,Medium,5.2350824201299355
+Los Angeles,2027-05,Heatwave,25.76561105549387,°C,32.0,Below,High,6.218435688170681
+Los Angeles,2027-06,Heatwave,34.71520273467082,°C,32.0,Above,Very High,7.9886002950253605
+Los Angeles,2027-07,Heatwave,35.58163665564013,°C,32.0,Above,Very High,8.15997466785253
+Los Angeles,2027-08,Heatwave,35.58320272525108,°C,32.0,Above,Very High,8.160284425112586
+Los Angeles,2027-09,Heatwave,35.533391490189686,°C,32.0,Above,Very High,8.15043212251709
+Los Angeles,2027-10,Heatwave,27.681195704666408,°C,32.0,Below,High,6.597324498851171
+Los Angeles,2027-11,Heatwave,16.04844306403587,°C,32.0,Below,Medium,4.296450029611336
+Los Angeles,2027-12,Heatwave,12.102765999879946,°C,32.0,Below,Medium,3.516023599062782
+Los Angeles,2028-01,Heatwave,14.47875540066605,°C,32.0,Below,Medium,3.985977144912174
+Los Angeles,2028-02,Heatwave,15.458474948903817,°C,32.0,Below,Medium,4.179758596748606
+Los Angeles,2028-03,Heatwave,20.91457798120608,°C,32.0,Below,Medium,5.258936376624948
+Los Angeles,2028-04,Heatwave,25.461480561368624,°C,32.0,Below,High,6.158280872636656
+Los Angeles,2028-05,Heatwave,28.50540742921304,°C,32.0,Below,High,6.760347626123194
+Los Angeles,2028-06,Heatwave,35.53459129177196,°C,32.0,Above,Very High,8.150669434605991
+Los Angeles,2028-07,Heatwave,35.56250026657648,°C,32.0,Above,Very High,8.15618962828449
+Los Angeles,2028-08,Heatwave,39.03091430664063,°C,32.0,Above,Very High,8.842216879105845
+Los Angeles,2028-09,Heatwave,34.24803434050206,°C,32.0,Above,Very High,7.896197760201032
+Los Angeles,2028-10,Heatwave,20.759802701388832,°C,32.0,Below,Medium,5.228322943948909
+Los Angeles,2028-11,Heatwave,16.183787549432346,°C,32.0,Below,Medium,4.323220191465673
+Los Angeles,2028-12,Heatwave,7.01702880859375,°C,32.0,Below,Low,2.5101015080331184
+Los Angeles,2029-01,Heatwave,12.285088469044505,°C,32.0,Below,Medium,3.552085666866432
+Los Angeles,2029-02,Heatwave,7.01702880859375,°C,32.0,Below,Low,2.5101015080331184
+Los Angeles,2029-03,Heatwave,15.930459139646892,°C,32.0,Below,Medium,4.273113661359238
+Los Angeles,2029-04,Heatwave,21.213975662856505,°C,32.0,Below,Medium,5.318155076028301
+Los Angeles,2029-05,Heatwave,33.47649434103612,°C,32.0,Above,High,7.7435927197939955
+Los Angeles,2029-06,Heatwave,35.547514103946185,°C,32.0,Above,Very High,8.153225473535127
+Los Angeles,2029-07,Heatwave,36.359707962201306,°C,32.0,Above,Very High,8.31387155363877
+Los Angeles,2029-08,Heatwave,35.5851573715746,°C,32.0,Above,Very High,8.16067104004038
+Los Angeles,2029-09,Heatwave,35.541894749273816,°C,32.0,Above,Very High,8.152114005759726
+Los Angeles,2029-10,Heatwave,27.205721765201694,°C,32.0,Below,High,6.503279187143765
+Los Angeles,2029-11,Heatwave,16.47300091772493,°C,32.0,Below,Medium,4.380424507230373
+Los Angeles,2029-12,Heatwave,7.354773710488751,°C,32.0,Below,Low,2.5769050106857803
+Los Angeles,2030-01,Heatwave,7.01702880859375,°C,32.0,Below,Low,2.5101015080331184
+Los Angeles,2030-02,Heatwave,15.925124889057994,°C,32.0,Below,Medium,4.272058585112739
+Los Angeles,2030-03,Heatwave,19.949366035066348,°C,32.0,Below,Medium,5.068024423720409
+Los Angeles,2030-04,Heatwave,24.469219072267677,°C,32.0,Below,High,5.962018715466044
+Los Angeles,2030-05,Heatwave,27.551472502873928,°C,32.0,Below,High,6.5716661863009795
+Los Angeles,2030-06,Heatwave,30.9989468398258,°C,32.0,Below,High,7.253551715057665
+Los Angeles,2030-07,Heatwave,35.57081613271571,°C,32.0,Above,Very High,8.157834446555839
+Los Angeles,2030-08,Heatwave,35.58531069307497,°C,32.0,Above,Very High,8.16070136592598
+Los Angeles,2030-09,Heatwave,35.51689531595307,°C,32.0,Above,Very High,8.147169298376173
+Los Angeles,2030-10,Heatwave,26.621113915018487,°C,32.0,Below,High,6.387647975980075
+Los Angeles,2030-11,Heatwave,20.1197560065764,°C,32.0,Below,Medium,5.10172632965561
+Los Angeles,2030-12,Heatwave,7.01702880859375,°C,32.0,Below,Low,2.5101015080331184
+Los Angeles,2026-01,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-02,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-03,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-04,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-05,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-06,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-07,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-08,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-09,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-10,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-11,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-12,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2026-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-01,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-02,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-03,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-04,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-05,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-06,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-07,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-08,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-09,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-10,Drought,0.0005499744303453,mm,0.0095467093425658,Below,Low,1.0008984265006862
+Los Angeles,2027-10,Flood,0.0005499744303453,mm,50.0,Below,Low,1.0008984265006862
+Los Angeles,2027-11,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2027-12,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-01,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-02,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-03,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-04,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-05,Drought,0.0029014908744089,mm,0.0095467093425658,Below,Low,1.0047398136153918
+Los Angeles,2028-05,Flood,0.0029014908744089,mm,50.0,Below,Low,1.0047398136153918
+Los Angeles,2028-06,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-07,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-08,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-09,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-10,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-11,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2028-12,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-01,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-02,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-03,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-04,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-05,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-06,Drought,0.5744768813690577,mm,0.0095467093425658,Above,Low,1.938453182140552
+Los Angeles,2029-06,Flood,0.5744768813690577,mm,50.0,Below,Low,1.938453182140552
+Los Angeles,2029-07,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-08,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-09,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-10,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-11,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2029-12,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2029-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-01,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-02,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-03,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-04,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-05,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-06,Drought,0.0003058322216768,mm,0.0095467093425658,Below,Low,1.0004996009951692
+Los Angeles,2030-06,Flood,0.0003058322216768,mm,50.0,Below,Low,1.0004996009951692
+Los Angeles,2030-07,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-08,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-09,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-10,Drought,1.072406768798828,mm,0.0095467093425658,Above,Low,2.7518608274190752
+Los Angeles,2030-10,Flood,1.072406768798828,mm,50.0,Below,Low,2.7518608274190752
+Los Angeles,2030-11,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2030-12,Drought,0.0,mm,0.0095467093425658,Below,Low,1.0
+Los Angeles,2030-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Los Angeles,2026-01,Cyclone,1009.8937998105604,hPa,1011.0,Below,Medium,5.346287821587638
+Los Angeles,2026-02,Cyclone,1024.9754907291526,hPa,1011.0,Above,Very High,8.238575580570274
+Los Angeles,2026-03,Cyclone,1015.860847585007,hPa,1011.0,Above,High,6.4906170170640545
+Los Angeles,2026-04,Cyclone,1011.402540556119,hPa,1011.0,Above,High,5.635626226240796
+Los Angeles,2026-05,Cyclone,1009.8239301992072,hPa,1011.0,Below,Medium,5.332888593163422
+Los Angeles,2026-06,Cyclone,1011.201603997058,hPa,1011.0,Above,High,5.5970916644836795
+Los Angeles,2026-07,Cyclone,1011.421872739552,hPa,1011.0,Above,High,5.639333651210547
+Los Angeles,2026-08,Cyclone,1015.7653518108552,hPa,1011.0,Above,High,6.4723033372449486
+Los Angeles,2026-09,Cyclone,1009.920267883857,hPa,1011.0,Below,Medium,5.351363730171959
+Los Angeles,2026-10,Cyclone,1018.5206849905304,hPa,1011.0,Above,High,7.000706715255369
+Los Angeles,2026-11,Cyclone,1024.5795410111064,hPa,1011.0,Above,Very High,8.162642415724278
+Los Angeles,2026-12,Cyclone,1030.829345703125,hPa,1011.0,Above,Very High,9.361197253131397
+Los Angeles,2027-01,Cyclone,1024.9822076148514,hPa,1011.0,Above,Very High,8.239863709758833
+Los Angeles,2027-02,Cyclone,1024.303839575109,hPa,1011.0,Above,Very High,8.109769837127246
+Los Angeles,2027-03,Cyclone,1009.7192875923172,hPa,1011.0,Below,Medium,5.312820781628911
+Los Angeles,2027-04,Cyclone,1007.923795456007,hPa,1011.0,Below,Medium,4.9684906958825215
+Los Angeles,2027-05,Cyclone,1009.6996374751216,hPa,1011.0,Below,Medium,5.309052384985971
+Los Angeles,2027-06,Cyclone,1008.18390497033,hPa,1011.0,Below,Medium,5.018373137336335
+Los Angeles,2027-07,Cyclone,1012.6319785766716,hPa,1011.0,Above,High,5.871401415937103
+Los Angeles,2027-08,Cyclone,1016.2124072019312,hPa,1011.0,Above,High,6.558037280618785
+Los Angeles,2027-09,Cyclone,1018.1164042739427,hPa,1011.0,Above,High,6.923175875106818
+Los Angeles,2027-10,Cyclone,1016.2543206109284,hPa,1011.0,Above,High,6.566075214855344
+Los Angeles,2027-11,Cyclone,1023.0549405598946,hPa,1011.0,Above,Very High,7.8702625197178415
+Los Angeles,2027-12,Cyclone,1021.5611404034522,hPa,1011.0,Above,High,7.583789343058423
+Los Angeles,2028-01,Cyclone,1018.2172094923852,hPa,1011.0,Above,High,6.942507772366648
+Los Angeles,2028-02,Cyclone,1019.780065130511,hPa,1011.0,Above,High,7.242224047922721
+Los Angeles,2028-03,Cyclone,1019.7918011422385,hPa,1011.0,Above,High,7.244474718835
+Los Angeles,2028-04,Cyclone,1015.7211384999042,hPa,1011.0,Above,High,6.463824339847509
+Los Angeles,2028-05,Cyclone,1009.6300291829996,hPa,1011.0,Below,Medium,5.295703270996378
+Los Angeles,2028-06,Cyclone,1013.7085257749694,hPa,1011.0,Above,High,6.077856003848421
+Los Angeles,2028-07,Cyclone,1012.6987611099288,hPa,1011.0,Above,High,5.884208620679346
+Los Angeles,2028-08,Cyclone,1016.937846072641,hPa,1011.0,Above,High,6.697158150882582
+Los Angeles,2028-09,Cyclone,1018.4263102576524,hPa,1011.0,Above,High,6.982608022865126
+Los Angeles,2028-10,Cyclone,1018.4653430271354,hPa,1011.0,Above,High,6.990093523130599
+Los Angeles,2028-11,Cyclone,1017.6740086886514,hPa,1011.0,Above,High,6.8383355649006985
+Los Angeles,2028-12,Cyclone,1022.1515629718584,hPa,1011.0,Above,High,7.697017493432676
+Los Angeles,2029-01,Cyclone,1020.012369666456,hPa,1011.0,Above,High,7.286774196132001
+Los Angeles,2029-02,Cyclone,1016.4227320060008,hPa,1011.0,Above,High,6.598372270873163
+Los Angeles,2029-03,Cyclone,1007.859723017672,hPa,1011.0,Below,Medium,4.956203218961996
+Los Angeles,2029-04,Cyclone,1008.771607895512,hPa,1011.0,Below,Medium,5.131079728765472
+Los Angeles,2029-05,Cyclone,1007.9115377627694,hPa,1011.0,Below,Medium,4.966139979620269
+Los Angeles,2029-06,Cyclone,1007.840082060766,hPa,1011.0,Below,Medium,4.95243657903147
+Los Angeles,2029-07,Cyclone,1014.8140835288706,hPa,1011.0,Above,High,6.2898740842955405
+Los Angeles,2029-08,Cyclone,1014.4593936361788,hPa,1011.0,Above,High,6.221853512835434
+Los Angeles,2029-09,Cyclone,1016.0926205841712,hPa,1011.0,Above,High,6.535065229931139
+Los Angeles,2029-10,Cyclone,1015.7317998796424,hPa,1011.0,Above,High,6.465868923460647
+Los Angeles,2029-11,Cyclone,1018.2456404168202,hPa,1011.0,Above,High,6.9479601062702905
+Los Angeles,2029-12,Cyclone,1019.7737769093936,hPa,1011.0,Above,High,7.241018125784292
+Los Angeles,2030-01,Cyclone,1030.829345703125,hPa,1011.0,Above,Very High,9.361197253131397
+Los Angeles,2030-02,Cyclone,1017.365054662,hPa,1011.0,Above,High,6.779085978485258
+Los Angeles,2030-03,Cyclone,1014.9238331251642,hPa,1011.0,Above,High,6.310921287532007
+Los Angeles,2030-04,Cyclone,1009.3619177538842,hPa,1011.0,Below,Medium,5.244286264199229
+Los Angeles,2030-05,Cyclone,1005.3356036347204,hPa,1011.0,Below,Medium,4.472140812901032
+Los Angeles,2030-06,Cyclone,1009.9118774283452,hPa,1011.0,Below,Medium,5.349754652522761
+Los Angeles,2030-07,Cyclone,1011.0734580651545,hPa,1011.0,Above,High,5.572516508275492
+Los Angeles,2030-08,Cyclone,1009.9035251112674,hPa,1011.0,Below,Medium,5.348152888862867
+Los Angeles,2030-09,Cyclone,1016.2733721604728,hPa,1011.0,Above,High,6.5697288213265574
+Los Angeles,2030-10,Cyclone,1024.0888475811828,hPa,1011.0,Above,Very High,8.06853979762649
+Los Angeles,2030-11,Cyclone,1024.8349735697177,hPa,1011.0,Above,Very High,8.211627935087126
+Los Angeles,2030-12,Cyclone,1024.9378498418794,hPa,1011.0,Above,Very High,8.231357008191
+Los Angeles,2026-01,Windstorm,12.878924512666268,m/s,11.0,Above,High,6.129796241675072
+Los Angeles,2026-02,Windstorm,8.927516308802375,m/s,11.0,Below,Medium,4.411441352958729
+Los Angeles,2026-03,Windstorm,16.136968264864695,m/s,11.0,Above,High,7.546626677914846
+Los Angeles,2026-04,Windstorm,8.10330126443864,m/s,11.0,Below,Medium,4.05301370444318
+Los Angeles,2026-05,Windstorm,8.695361186087798,m/s,11.0,Below,Medium,4.310483702046568
+Los Angeles,2026-06,Windstorm,12.085914287003204,m/s,11.0,Above,High,5.784938680075213
+Los Angeles,2026-07,Windstorm,3.7258559798098942,m/s,11.0,Below,Low,2.1493874231658623
+Los Angeles,2026-08,Windstorm,4.291038916053584,m/s,11.0,Below,Low,2.3951693852936238
+Los Angeles,2026-09,Windstorm,3.6550501745811768,m/s,11.0,Below,Low,2.118595995075672
+Los Angeles,2026-10,Windstorm,6.88351893684725,m/s,11.0,Below,Medium,3.522565110512321
+Los Angeles,2026-11,Windstorm,6.887247154110352,m/s,11.0,Below,Medium,3.5241864060175496
+Los Angeles,2026-12,Windstorm,13.34848434490121,m/s,11.0,Above,High,6.3339944392889596
+Los Angeles,2027-01,Windstorm,15.443431596210493,m/s,11.0,Above,High,7.245027333174749
+Los Angeles,2027-02,Windstorm,3.905943515510828,m/s,11.0,Below,Low,2.227702363410704
+Los Angeles,2027-03,Windstorm,13.545939909099644,m/s,11.0,Above,High,6.419862240472558
+Los Angeles,2027-04,Windstorm,12.34407713800553,m/s,11.0,Above,High,5.897206351299615
+Los Angeles,2027-05,Windstorm,12.044849751730675,m/s,11.0,Above,High,5.767080883234732
+Los Angeles,2027-06,Windstorm,6.497376165754978,m/s,11.0,Below,Medium,3.354642617007335
+Los Angeles,2027-07,Windstorm,4.413331443587611,m/s,11.0,Below,Low,2.448350922532952
+Los Angeles,2027-08,Windstorm,4.676047738095428,m/s,11.0,Below,Low,2.562598756652319
+Los Angeles,2027-09,Windstorm,7.415587270332747,m/s,11.0,Below,Medium,3.753946475029894
+Los Angeles,2027-10,Windstorm,7.567167169629204,m/s,11.0,Below,Medium,3.819864256121835
+Los Angeles,2027-11,Windstorm,6.239278754567499,m/s,11.0,Below,Low,3.242403403694634
+Los Angeles,2027-12,Windstorm,16.506773483432045,m/s,11.0,Above,High,7.707444435132802
+Los Angeles,2028-01,Windstorm,3.627267360687256,m/s,11.0,Below,Low,2.1065140405891087
+Los Angeles,2028-02,Windstorm,7.305313568700188,m/s,11.0,Below,Medium,3.705991582869711
+Los Angeles,2028-03,Windstorm,15.478890161937883,m/s,11.0,Above,High,7.260447253522374
+Los Angeles,2028-04,Windstorm,6.776405633914327,m/s,11.0,Below,Medium,3.4759845857360245
+Los Angeles,2028-05,Windstorm,4.588590755888686,m/s,11.0,Below,Low,2.52456620593271
+Los Angeles,2028-06,Windstorm,6.099059879286204,m/s,11.0,Below,Low,3.1814262083761875
+Los Angeles,2028-07,Windstorm,4.6251775185368444,m/s,11.0,Below,Low,2.5404767469892606
+Los Angeles,2028-08,Windstorm,4.185646345132765,m/s,11.0,Below,Low,2.349337157861621
+Los Angeles,2028-09,Windstorm,5.602282511019582,m/s,11.0,Below,Low,2.965391879518477
+Los Angeles,2028-10,Windstorm,12.815611518906785,m/s,11.0,Above,High,6.102263223891819
+Los Angeles,2028-11,Windstorm,9.139094210595218,m/s,11.0,Below,Medium,4.503450556547101
+Los Angeles,2028-12,Windstorm,12.844633814249748,m/s,11.0,Above,High,6.1148841935591856
+Los Angeles,2029-01,Windstorm,6.241572064158676,m/s,11.0,Below,Low,3.2434006987206163
+Los Angeles,2029-02,Windstorm,13.413736761616263,m/s,11.0,Above,High,6.362370856879333
+Los Angeles,2029-03,Windstorm,21.10516458659212,m/s,11.0,Above,Very High,9.707153760182587
+Los Angeles,2029-04,Windstorm,11.484922073594038,m/s,11.0,Above,High,5.5235842831839355
+Los Angeles,2029-05,Windstorm,6.4088874845082255,m/s,11.0,Below,Medium,3.3161614097588075
+Los Angeles,2029-06,Windstorm,9.835200022219398,m/s,11.0,Below,Medium,4.8061671483936745
+Los Angeles,2029-07,Windstorm,4.0661892232529215,m/s,11.0,Below,Low,2.297388657786764
+Los Angeles,2029-08,Windstorm,4.079456777332444,m/s,11.0,Below,Low,2.3031583391858064
+Los Angeles,2029-09,Windstorm,5.972587328956669,m/s,11.0,Below,Low,3.126426898273357
+Los Angeles,2029-10,Windstorm,6.305173848311729,m/s,11.0,Below,Medium,3.2710593032210604
+Los Angeles,2029-11,Windstorm,15.725405769148267,m/s,11.0,Above,High,7.367649870144119
+Los Angeles,2029-12,Windstorm,16.710558172507202,m/s,11.0,Above,Very High,7.796064592466943
+Los Angeles,2030-01,Windstorm,9.584602425209576,m/s,11.0,Below,Medium,4.697189390666361
+Los Angeles,2030-02,Windstorm,12.721662314905602,m/s,11.0,Above,High,6.061407390817276
+Los Angeles,2030-03,Windstorm,14.36629323457374,m/s,11.0,Above,High,6.776610537427726
+Los Angeles,2030-04,Windstorm,13.357714534417813,m/s,11.0,Above,High,6.338008385826835
+Los Angeles,2030-05,Windstorm,10.291503147118815,m/s,11.0,Below,Medium,5.004600381548562
+Los Angeles,2030-06,Windstorm,6.231670398335853,m/s,11.0,Below,Low,3.239094746261327
+Los Angeles,2030-07,Windstorm,3.724263546995625,m/s,11.0,Below,Low,2.1486949194886478
+Los Angeles,2030-08,Windstorm,4.588293179613219,m/s,11.0,Below,Low,2.5244367984857106
+Los Angeles,2030-09,Windstorm,5.989310501321203,m/s,11.0,Below,Low,3.1336993296458844
+Los Angeles,2030-10,Windstorm,7.98891504161665,m/s,11.0,Below,Medium,4.0032703939454795
+Los Angeles,2030-11,Windstorm,6.723473086339938,m/s,11.0,Below,Medium,3.4529657283555797
+Los Angeles,2030-12,Windstorm,8.910679858549424,m/s,11.0,Below,Medium,4.40411966025877
+Chicago,2026-01,Heatwave,12.435764002879392,°C,32.0,Below,Medium,3.581888199392472
+Chicago,2026-02,Heatwave,12.71514908850562,°C,32.0,Below,Medium,3.6371485518183047
+Chicago,2026-03,Heatwave,11.323962944793696,°C,32.0,Below,Medium,3.361981978702426
+Chicago,2026-04,Heatwave,17.81505461348496,°C,32.0,Below,Medium,4.645873036939317
+Chicago,2026-05,Heatwave,22.58987486043252,°C,32.0,Below,High,5.590298001589437
+Chicago,2026-06,Heatwave,32.069616525347314,°C,32.0,Above,High,7.4653224472746595
+Chicago,2026-07,Heatwave,33.45992195245635,°C,32.0,Above,High,7.740314821006365
+Chicago,2026-08,Heatwave,32.348027424709024,°C,32.0,Above,High,7.520390112692217
+Chicago,2026-09,Heatwave,30.92844737957809,°C,32.0,Below,High,7.23960743091527
+Chicago,2026-10,Heatwave,22.48393471557593,°C,32.0,Below,High,5.569343805957638
+Chicago,2026-11,Heatwave,14.021206297644722,°C,32.0,Below,Medium,3.89547723641345
+Chicago,2026-12,Heatwave,8.58929443359375,°C,32.0,Below,Low,2.82108429492661
+Chicago,2027-01,Heatwave,14.02189904381356,°C,32.0,Below,Medium,3.8956142566031486
+Chicago,2027-02,Heatwave,13.986580795405764,°C,32.0,Below,Medium,3.888628562110176
+Chicago,2027-03,Heatwave,10.70139296111604,°C,32.0,Below,Low,3.2388421316677922
+Chicago,2027-04,Heatwave,20.574763879734128,°C,32.0,Below,Medium,5.191723601238183
+Chicago,2027-05,Heatwave,22.47912051032552,°C,32.0,Below,High,5.568391590923712
+Chicago,2027-06,Heatwave,32.48178531634049,°C,32.0,Above,High,7.546846457757035
+Chicago,2027-07,Heatwave,37.33127650282338,°C,32.0,Above,Very High,8.506040795029323
+Chicago,2027-08,Heatwave,32.22701026993622,°C,32.0,Above,High,7.49645379337393
+Chicago,2027-09,Heatwave,32.26132293976275,°C,32.0,Above,High,7.503240591685067
+Chicago,2027-10,Heatwave,24.10946953487162,°C,32.0,Below,High,5.890862854812365
+Chicago,2027-11,Heatwave,14.32198513838429,°C,32.0,Below,Medium,3.9549691191109324
+Chicago,2027-12,Heatwave,14.28065128364368,°C,32.0,Below,Medium,3.9467935811255583
+Chicago,2028-01,Heatwave,13.198355335279649,°C,32.0,Below,Medium,3.732723258074527
+Chicago,2028-02,Heatwave,12.164793704696736,°C,32.0,Below,Medium,3.52829223115765
+Chicago,2028-03,Heatwave,22.254588249637365,°C,32.0,Below,High,5.523980731164377
+Chicago,2028-04,Heatwave,14.287070731474904,°C,32.0,Below,Medium,3.9480633015501025
+Chicago,2028-05,Heatwave,24.35177890917804,°C,32.0,Below,High,5.938789899272317
+Chicago,2028-06,Heatwave,33.041587581503066,°C,32.0,Above,High,7.657571303331107
+Chicago,2028-07,Heatwave,38.118255615234375,°C,32.0,Above,Very High,8.661699580487117
+Chicago,2028-08,Heatwave,36.356712884740034,°C,32.0,Above,Very High,8.31327914894515
+Chicago,2028-09,Heatwave,26.052296305270417,°C,32.0,Below,High,6.2751399603490965
+Chicago,2028-10,Heatwave,22.317681320689136,°C,32.0,Below,High,5.536460085007242
+Chicago,2028-11,Heatwave,13.64071755904302,°C,32.0,Below,Medium,3.8202193115243603
+Chicago,2028-12,Heatwave,12.479110765088675,°C,32.0,Below,Medium,3.590461875939431
+Chicago,2029-01,Heatwave,13.848727352341912,°C,32.0,Below,Medium,3.8613621465470556
+Chicago,2029-02,Heatwave,8.58929443359375,°C,32.0,Below,Low,2.82108429492661
+Chicago,2029-03,Heatwave,11.752186269964009,°C,32.0,Below,Medium,3.4466814601111495
+Chicago,2029-04,Heatwave,19.057699544738803,°C,32.0,Below,Medium,4.891659230885007
+Chicago,2029-05,Heatwave,23.82051219699961,°C,32.0,Below,High,5.833709180015994
+Chicago,2029-06,Heatwave,29.95391448438164,°C,32.0,Below,High,7.0468518615962665
+Chicago,2029-07,Heatwave,38.118255615234375,°C,32.0,Above,Very High,8.661699580487117
+Chicago,2029-08,Heatwave,35.84195025840715,°C,32.0,Above,Very High,8.211462818688858
+Chicago,2029-09,Heatwave,31.059486453531004,°C,32.0,Below,High,7.2655260134765465
+Chicago,2029-10,Heatwave,22.509087872919704,°C,32.0,Below,High,5.574318918842866
+Chicago,2029-11,Heatwave,13.994283557637551,°C,32.0,Below,Medium,3.890152112856011
+Chicago,2029-12,Heatwave,12.552298202097823,°C,32.0,Below,Medium,3.604937822474672
+Chicago,2030-01,Heatwave,12.425793540446262,°C,32.0,Below,Medium,3.579916113922454
+Chicago,2030-02,Heatwave,13.689609254843363,°C,32.0,Below,Medium,3.8298897358942505
+Chicago,2030-03,Heatwave,14.134608845483347,°C,32.0,Below,Medium,3.917907441467178
+Chicago,2030-04,Heatwave,21.93216612558077,°C,32.0,Below,Medium,5.460207963318461
+Chicago,2030-05,Heatwave,24.768645617969696,°C,32.0,Below,High,6.021243123970367
+Chicago,2030-06,Heatwave,24.05486192558545,°C,32.0,Below,High,5.880061864031049
+Chicago,2030-07,Heatwave,31.21124410891763,°C,32.0,Below,High,7.295542581831245
+Chicago,2030-08,Heatwave,36.54215254613599,°C,32.0,Above,Very High,8.349957774862126
+Chicago,2030-09,Heatwave,29.46578351280609,°C,32.0,Below,High,6.950303080336997
+Chicago,2030-10,Heatwave,23.06478981784816,°C,32.0,Below,High,5.684232750684087
+Chicago,2030-11,Heatwave,22.22242822246895,°C,32.0,Below,High,5.517619710026231
+Chicago,2030-12,Heatwave,13.777892841720927,°C,32.0,Below,Medium,3.8473515918603107
+Chicago,2026-01,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-02,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-03,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-04,Drought,0.1234932743769369,mm,0.0115479307937854,Above,Low,1.2017359794110505
+Chicago,2026-04,Flood,0.1234932743769369,mm,50.0,Below,Low,1.2017359794110505
+Chicago,2026-05,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-06,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-07,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-08,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-09,Drought,0.4854916006360662,mm,0.0115479307937854,Above,Low,1.7930887252305823
+Chicago,2026-09,Flood,0.4854916006360662,mm,50.0,Below,Low,1.7930887252305823
+Chicago,2026-10,Drought,0.000632757332787,mm,0.0115479307937854,Below,Low,1.001033658884691
+Chicago,2026-10,Flood,0.000632757332787,mm,50.0,Below,Low,1.001033658884691
+Chicago,2026-11,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2026-12,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2026-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-01,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-02,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-03,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-04,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-05,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-06,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-07,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-08,Drought,0.451492114707039,mm,0.0115479307937854,Above,Low,1.737547890088183
+Chicago,2027-08,Flood,0.451492114707039,mm,50.0,Below,Low,1.737547890088183
+Chicago,2027-09,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-10,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-11,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2027-12,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-01,Drought,0.0032499082337901,mm,0.0115479307937854,Below,Low,1.0053089807833464
+Chicago,2028-01,Flood,0.0032499082337901,mm,50.0,Below,Low,1.0053089807833464
+Chicago,2028-02,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-03,Drought,0.017169388653873,mm,0.0115479307937854,Above,Low,1.028047547151482
+Chicago,2028-03,Flood,0.017169388653873,mm,50.0,Below,Low,1.028047547151482
+Chicago,2028-04,Drought,0.144003499406282,mm,0.0115479307937854,Above,Low,1.235241045619002
+Chicago,2028-04,Flood,0.144003499406282,mm,50.0,Below,Low,1.235241045619002
+Chicago,2028-05,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-06,Drought,0.4898800086172966,mm,0.0115479307937854,Above,Low,1.800257534921761
+Chicago,2028-06,Flood,0.4898800086172966,mm,50.0,Below,Low,1.800257534921761
+Chicago,2028-07,Drought,0.1560927097952173,mm,0.0115479307937854,Above,Low,1.2549897218964978
+Chicago,2028-07,Flood,0.1560927097952173,mm,50.0,Below,Low,1.2549897218964978
+Chicago,2028-08,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-09,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-10,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2028-11,Drought,0.0174842204284414,mm,0.0115479307937854,Above,Low,1.028561849624331
+Chicago,2028-11,Flood,0.0174842204284414,mm,50.0,Below,Low,1.028561849624331
+Chicago,2028-12,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-01,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-02,Drought,0.0005295940220743,mm,0.0115479307937854,Below,Low,1.0008651335003662
+Chicago,2029-02,Flood,0.0005295940220743,mm,50.0,Below,Low,1.0008651335003662
+Chicago,2029-03,Drought,0.0007925392517752,mm,0.0115479307937854,Below,Low,1.0012946752200493
+Chicago,2029-03,Flood,0.0007925392517752,mm,50.0,Below,Low,1.0012946752200493
+Chicago,2029-04,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-05,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-06,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-07,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-08,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-09,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-10,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2029-11,Drought,0.0143516518000722,mm,0.0115479307937854,Above,Low,1.023444552318022
+Chicago,2029-11,Flood,0.0143516518000722,mm,50.0,Below,Low,1.023444552318022
+Chicago,2029-12,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2029-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-01,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-02,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-03,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-04,Drought,0.4496856219719741,mm,0.0115479307937854,Above,Low,1.7345968420813507
+Chicago,2030-04,Flood,0.4496856219719741,mm,50.0,Below,Low,1.7345968420813507
+Chicago,2030-05,Drought,0.0031949372413667,mm,0.0115479307937854,Below,Low,1.005219181342432
+Chicago,2030-05,Flood,0.0031949372413667,mm,50.0,Below,Low,1.005219181342432
+Chicago,2030-06,Drought,0.0385614278014836,mm,0.0115479307937854,Above,Low,1.06299312609751
+Chicago,2030-06,Flood,0.0385614278014836,mm,50.0,Below,Low,1.06299312609751
+Chicago,2030-07,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-08,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-09,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-10,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-11,Drought,0.0,mm,0.0115479307937854,Below,Low,1.0
+Chicago,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Chicago,2030-12,Drought,0.0234848499674526,mm,0.0115479307937854,Above,Low,1.0383643500701478
+Chicago,2030-12,Flood,0.0234848499674526,mm,50.0,Below,Low,1.0383643500701478
+Chicago,2026-01,Cyclone,1006.1532447288452,hPa,1011.0,Below,Medium,4.6289437430594
+Chicago,2026-02,Cyclone,1030.0103834329525,hPa,1011.0,Above,Very High,9.204140954744553
+Chicago,2026-03,Cyclone,1009.7669907349429,hPa,1011.0,Below,Medium,5.321969040681954
+Chicago,2026-04,Cyclone,1012.58163403117,hPa,1011.0,Above,High,5.861746602463478
+Chicago,2026-05,Cyclone,1013.5657837693922,hPa,1011.0,Above,High,6.050481689015145
+Chicago,2026-06,Cyclone,1013.2451656831106,hPa,1011.0,Above,High,5.988995230284085
+Chicago,2026-07,Cyclone,1017.806330584202,hPa,1011.0,Above,High,6.863711565563501
+Chicago,2026-08,Cyclone,1012.5189810150432,hPa,1011.0,Above,High,5.849731334905951
+Chicago,2026-09,Cyclone,1018.3726015077432,hPa,1011.0,Above,High,6.972308039875738
+Chicago,2026-10,Cyclone,1018.3452043527134,hPa,1011.0,Above,High,6.967053956858696
+Chicago,2026-11,Cyclone,1024.8220363754883,hPa,1011.0,Above,Very High,8.209146907680637
+Chicago,2026-12,Cyclone,1026.2220596604393,hPa,1011.0,Above,Very High,8.477636046677814
+Chicago,2027-01,Cyclone,1011.3724976297684,hPa,1011.0,Above,High,5.6298647510456865
+Chicago,2027-02,Cyclone,1022.2864603951424,hPa,1011.0,Above,High,7.722887415325953
+Chicago,2027-03,Cyclone,1018.3928521063898,hPa,1011.0,Above,High,6.976191593708914
+Chicago,2027-04,Cyclone,1010.708067156788,hPa,1011.0,Below,High,5.502443752029778
+Chicago,2027-05,Cyclone,1008.8329515869532,hPa,1011.0,Below,Medium,5.142843900886738
+Chicago,2027-06,Cyclone,1015.912830760502,hPa,1011.0,Above,High,6.500586078422528
+Chicago,2027-07,Cyclone,1018.4101906956446,hPa,1011.0,Above,High,6.9795166976200305
+Chicago,2027-08,Cyclone,1019.4583709527916,hPa,1011.0,Above,High,7.180531222007097
+Chicago,2027-09,Cyclone,1025.9353096864295,hPa,1011.0,Above,Very High,8.422644637279896
+Chicago,2027-10,Cyclone,1012.392628979486,hPa,1011.0,Above,High,5.825500202751248
+Chicago,2027-11,Cyclone,1015.2533702555749,hPa,1011.0,Above,High,6.374118193871079
+Chicago,2027-12,Cyclone,1008.774613223192,hPa,1011.0,Below,Medium,5.131656074780475
+Chicago,2028-01,Cyclone,1008.7872467027538,hPa,1011.0,Below,Medium,5.134078857377418
+Chicago,2028-02,Cyclone,1018.484636136988,hPa,1011.0,Above,High,6.993793454773579
+Chicago,2028-03,Cyclone,1014.2725961199465,hPa,1011.0,Above,High,6.186030462719674
+Chicago,2028-04,Cyclone,1013.7762305036116,hPa,1011.0,Above,High,6.090840062395571
+Chicago,2028-05,Cyclone,1012.9524554812588,hPa,1011.0,Above,High,5.932860799581642
+Chicago,2028-06,Cyclone,1012.7784786326316,hPa,1011.0,Above,High,5.899496430006187
+Chicago,2028-07,Cyclone,1013.6003464343564,hPa,1011.0,Above,High,6.057109936028926
+Chicago,2028-08,Cyclone,1017.170792823448,hPa,1011.0,Above,High,6.741831459697254
+Chicago,2028-09,Cyclone,1017.9024083452492,hPa,1011.0,Above,High,6.8821368557837665
+Chicago,2028-10,Cyclone,1018.4156264465096,hPa,1011.0,Above,High,6.9805591374745894
+Chicago,2028-11,Cyclone,1009.9771323564056,hPa,1011.0,Below,Medium,5.362268901134619
+Chicago,2028-12,Cyclone,1008.7968059465916,hPa,1011.0,Below,Medium,5.135912079135266
+Chicago,2029-01,Cyclone,1008.8436326196736,hPa,1011.0,Below,Medium,5.144892253445963
+Chicago,2029-02,Cyclone,1013.3759420321196,hPa,1011.0,Above,High,6.014074834119284
+Chicago,2029-03,Cyclone,1001.7135945919036,hPa,1011.0,Below,Medium,3.7775308733385495
+Chicago,2029-04,Cyclone,1008.8340680339842,hPa,1011.0,Below,Medium,5.14305800725576
+Chicago,2029-05,Cyclone,1012.621296637197,hPa,1011.0,Above,High,5.869352889485309
+Chicago,2029-06,Cyclone,1015.4325057428327,hPa,1011.0,Above,High,6.408471860166991
+Chicago,2029-07,Cyclone,1018.3274326150362,hPa,1011.0,Above,High,6.963645786009878
+Chicago,2029-08,Cyclone,1022.1386437318508,hPa,1011.0,Above,High,7.694539909192884
+Chicago,2029-09,Cyclone,1019.5082294264004,hPa,1011.0,Above,High,7.190092819156819
+Chicago,2029-10,Cyclone,1011.1366241458038,hPa,1011.0,Above,High,5.584630168662194
+Chicago,2029-11,Cyclone,1019.4914593053678,hPa,1011.0,Above,High,7.18687673310646
+Chicago,2029-12,Cyclone,1010.1398870285022,hPa,1011.0,Below,Medium,5.393481140422857
+Chicago,2030-01,Cyclone,1025.7615572283712,hPa,1011.0,Above,Very High,8.38932330015346
+Chicago,2030-02,Cyclone,1018.3358009890518,hPa,1011.0,Above,High,6.9652506289852845
+Chicago,2030-03,Cyclone,1010.2569327847356,hPa,1011.0,Below,Medium,5.415927563030363
+Chicago,2030-04,Cyclone,1010.007629435801,hPa,1011.0,Below,Medium,5.368117471424004
+Chicago,2030-05,Cyclone,1010.7290145987436,hPa,1011.0,Below,High,5.5064609428260205
+Chicago,2030-06,Cyclone,1018.2050558773932,hPa,1011.0,Above,High,6.940177015685677
+Chicago,2030-07,Cyclone,1015.5319838840876,hPa,1011.0,Above,High,6.427549257508629
+Chicago,2030-08,Cyclone,1014.5741581201004,hPa,1011.0,Above,High,6.2438624449773314
+Chicago,2030-09,Cyclone,1015.1200432193516,hPa,1011.0,Above,High,6.348549432590171
+Chicago,2030-10,Cyclone,1026.6383791732007,hPa,1011.0,Above,Very High,8.557475624155241
+Chicago,2030-11,Cyclone,1014.9929940711452,hPa,1011.0,Above,High,6.324184611819735
+Chicago,2030-12,Cyclone,1020.0267540364224,hPa,1011.0,Above,High,7.28953275532798
+Chicago,2026-01,Windstorm,12.927970496677574,m/s,11.0,Above,High,6.15112494325425
+Chicago,2026-02,Windstorm,8.207979495653959,m/s,11.0,Below,Medium,4.098535285882205
+Chicago,2026-03,Windstorm,8.963165342520758,m/s,11.0,Below,Medium,4.42694410241096
+Chicago,2026-04,Windstorm,6.467727120387081,m/s,11.0,Below,Medium,3.341749091604447
+Chicago,2026-05,Windstorm,6.16539625502533,m/s,11.0,Below,Low,3.2102740088741433
+Chicago,2026-06,Windstorm,8.501001532202485,m/s,11.0,Below,Medium,4.22596222408424
+Chicago,2026-07,Windstorm,4.064295029441244,m/s,11.0,Below,Low,2.2965649268461616
+Chicago,2026-08,Windstorm,5.576636450712754,m/s,11.0,Below,Low,2.9542391383105553
+Chicago,2026-09,Windstorm,4.444939816259829,m/s,11.0,Below,Low,2.4620965035773406
+Chicago,2026-10,Windstorm,5.8326035620828245,m/s,11.0,Below,Low,3.065551944905242
+Chicago,2026-11,Windstorm,7.628445937160721,m/s,11.0,Below,Medium,3.846512646854872
+Chicago,2026-12,Windstorm,12.887212552607254,m/s,11.0,Above,High,6.133400474195655
+Chicago,2027-01,Windstorm,12.766688550026222,m/s,11.0,Above,High,6.0809880180894345
+Chicago,2027-02,Windstorm,6.803036337926699,m/s,11.0,Below,Medium,3.487565520448077
+Chicago,2027-03,Windstorm,10.014507586402138,m/s,11.0,Below,Medium,4.884142901239442
+Chicago,2027-04,Windstorm,12.74926123964111,m/s,11.0,Above,High,6.07340937714615
+Chicago,2027-05,Windstorm,8.670943276533508,m/s,11.0,Below,Medium,4.299865048622248
+Chicago,2027-06,Windstorm,4.604946685862927,m/s,11.0,Below,Low,2.531678934049045
+Chicago,2027-07,Windstorm,3.756832741899742,m/s,11.0,Below,Low,2.1628583347567334
+Chicago,2027-08,Windstorm,6.988401159857658,m/s,11.0,Below,Medium,3.5681754021731873
+Chicago,2027-09,Windstorm,6.118690766062,m/s,11.0,Below,Low,3.1899631219322306
+Chicago,2027-10,Windstorm,6.350773948692829,m/s,11.0,Below,Medium,3.290889488150878
+Chicago,2027-11,Windstorm,10.053321765934154,m/s,11.0,Below,Medium,4.901022082460237
+Chicago,2027-12,Windstorm,10.501578501227268,m/s,11.0,Below,Medium,5.095956169942706
+Chicago,2028-01,Windstorm,2.894234191395832,m/s,11.0,Below,Low,1.787738792612593
+Chicago,2028-02,Windstorm,5.000688206355136,m/s,11.0,Below,Low,2.703775650288299
+Chicago,2028-03,Windstorm,8.690900531456785,m/s,11.0,Below,Medium,4.308543890390416
+Chicago,2028-04,Windstorm,9.345829900022572,m/s,11.0,Below,Medium,4.593354019887654
+Chicago,2028-05,Windstorm,6.696816599182048,m/s,11.0,Below,Medium,3.4413735812878654
+Chicago,2028-06,Windstorm,5.909328289716154,m/s,11.0,Below,Low,3.098917343773737
+Chicago,2028-07,Windstorm,3.701504019148448,m/s,11.0,Below,Low,2.1387974490367645
+Chicago,2028-08,Windstorm,5.246882028490917,m/s,11.0,Below,Low,2.810838331745786
+Chicago,2028-09,Windstorm,5.191800988875647,m/s,11.0,Below,Low,2.786885156367468
+Chicago,2028-10,Windstorm,8.861445612013249,m/s,11.0,Below,Medium,4.382709088669387
+Chicago,2028-11,Windstorm,9.862983164448858,m/s,11.0,Below,Medium,4.818249245664012
+Chicago,2028-12,Windstorm,6.457402797424522,m/s,11.0,Below,Medium,3.3372593375926876
+Chicago,2029-01,Windstorm,5.049946065038718,m/s,11.0,Below,Low,2.725196490128097
+Chicago,2029-02,Windstorm,7.782392456038084,m/s,11.0,Below,Medium,3.9134596033994034
+Chicago,2029-03,Windstorm,10.067980423147295,m/s,11.0,Below,Medium,4.9073967149924025
+Chicago,2029-04,Windstorm,12.748943481495385,m/s,11.0,Above,High,6.07327119317857
+Chicago,2029-05,Windstorm,5.834177536642718,m/s,11.0,Below,Low,3.0662364216133344
+Chicago,2029-06,Windstorm,7.048736002116974,m/s,11.0,Below,Medium,3.594413306689062
+Chicago,2029-07,Windstorm,6.305835559736436,m/s,11.0,Below,Medium,3.271347062673615
+Chicago,2029-08,Windstorm,6.14252799597357,m/s,11.0,Below,Low,3.200329254318135
+Chicago,2029-09,Windstorm,4.793635476756267,m/s,11.0,Below,Low,2.6137343152067025
+Chicago,2029-10,Windstorm,5.9770560312299335,m/s,11.0,Below,Low,3.1283702096199226
+Chicago,2029-11,Windstorm,10.231306398200612,m/s,11.0,Below,Medium,4.978422529893733
+Chicago,2029-12,Windstorm,8.704256986067493,m/s,11.0,Below,Medium,4.314352232098514
+Chicago,2030-01,Windstorm,14.080967788435515,m/s,11.0,Above,High,6.652530627190317
+Chicago,2030-02,Windstorm,8.769262679076872,m/s,11.0,Below,Medium,4.342621356576171
+Chicago,2030-03,Windstorm,9.518222746356717,m/s,11.0,Below,Medium,4.668322758877549
+Chicago,2030-04,Windstorm,8.256663497214582,m/s,11.0,Below,Medium,4.119706571603121
+Chicago,2030-05,Windstorm,6.153209993454313,m/s,11.0,Below,Low,3.2049745507910083
+Chicago,2030-06,Windstorm,5.091923543684852,m/s,11.0,Below,Low,2.7434513000404306
+Chicago,2030-07,Windstorm,4.599114708115836,m/s,11.0,Below,Low,2.529142773026046
+Chicago,2030-08,Windstorm,6.296895358797713,m/s,11.0,Below,Medium,3.2674592239091615
+Chicago,2030-09,Windstorm,4.834582039561251,m/s,11.0,Below,Low,2.631540809180996
+Chicago,2030-10,Windstorm,9.23780478850921,m/s,11.0,Below,Medium,4.546376975528734
+Chicago,2030-11,Windstorm,7.322984509895128,m/s,11.0,Below,Medium,3.7136761719133973
+Chicago,2030-12,Windstorm,16.040088693558793,m/s,11.0,Above,High,7.504496511558596
+Houston,2026-01,Heatwave,21.771522305718698,°C,32.0,Below,Medium,5.428433775799782
+Houston,2026-02,Heatwave,24.294770023140767,°C,32.0,Below,High,5.927513953289865
+Houston,2026-03,Heatwave,26.079841893594747,°C,32.0,Below,High,6.280588278805922
+Houston,2026-04,Heatwave,30.493126518012627,°C,32.0,Below,High,7.15350410806071
+Houston,2026-05,Heatwave,36.594883710561646,°C,32.0,Above,Very High,8.36038761840032
+Houston,2026-06,Heatwave,40.758125603443006,°C,32.0,Above,Very High,9.183846800979587
+Houston,2026-07,Heatwave,44.76993465852007,°C,32.0,Above,Very High,9.977353661776354
+Houston,2026-08,Heatwave,43.39113794647429,°C,32.0,Above,Very High,9.704637628776787
+Houston,2026-09,Heatwave,37.41418235465221,°C,32.0,Above,Very High,8.522438973836742
+Houston,2026-10,Heatwave,34.23123328032996,°C,32.0,Above,Very High,7.8928746318237355
+Houston,2026-11,Heatwave,25.78156785878477,°C,32.0,Below,High,6.2215918286334695
+Houston,2026-12,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2027-01,Heatwave,13.850354433217904,°C,32.0,Below,Medium,3.86168397139476
+Houston,2027-02,Heatwave,25.64017770820345,°C,32.0,Below,High,6.1936258778628615
+Houston,2027-03,Heatwave,26.081159254196745,°C,32.0,Below,High,6.28084884322
+Houston,2027-04,Heatwave,30.48675103749392,°C,32.0,Below,High,7.152243084053081
+Houston,2027-05,Heatwave,35.683123192353584,°C,32.0,Above,Very High,8.18004797195426
+Houston,2027-06,Heatwave,42.81060593080639,°C,32.0,Above,Very High,9.589812588247584
+Houston,2027-07,Heatwave,44.23156412869135,°C,32.0,Above,Very High,9.870867858687285
+Houston,2027-08,Heatwave,42.57909884725447,°C,32.0,Above,Very High,9.544022158892774
+Houston,2027-09,Heatwave,39.0442626539994,°C,32.0,Above,Very High,8.844857085821584
+Houston,2027-10,Heatwave,34.80467811530872,°C,32.0,Above,Very High,8.006297879190969
+Houston,2027-11,Heatwave,25.542142484896758,°C,32.0,Below,High,6.174235218630176
+Houston,2027-12,Heatwave,16.921004306540677,°C,32.0,Below,Medium,4.469036342391273
+Houston,2028-01,Heatwave,24.16360728242858,°C,32.0,Below,High,5.901570910336634
+Houston,2028-02,Heatwave,25.17892453861826,°C,32.0,Below,High,6.102393331745816
+Houston,2028-03,Heatwave,29.806328394950523,°C,32.0,Below,High,7.017660398863624
+Houston,2028-04,Heatwave,34.73819707043828,°C,32.0,Above,Very High,7.993148408592196
+Houston,2028-05,Heatwave,36.41911932171307,°C,32.0,Above,Very High,8.3256226915256
+Houston,2028-06,Heatwave,40.82620113194877,°C,32.0,Above,Very High,9.197311648927258
+Houston,2028-07,Heatwave,44.879615466092446,°C,32.0,Above,Very High,9.999047733481055
+Houston,2028-08,Heatwave,43.273333916543535,°C,32.0,Above,Very High,9.681336842349463
+Houston,2028-09,Heatwave,38.82823385819143,°C,32.0,Above,Very High,8.802128150009858
+Houston,2028-10,Heatwave,31.291626882827288,°C,32.0,Below,High,7.311441714046042
+Houston,2028-11,Heatwave,25.507615839865355,°C,32.0,Below,High,6.1674060975686835
+Houston,2028-12,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2029-01,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2029-02,Heatwave,23.962020689148336,°C,32.0,Below,High,5.8616985378940605
+Houston,2029-03,Heatwave,28.430133152506524,°C,32.0,Below,High,6.745458917765416
+Houston,2029-04,Heatwave,33.01466058044856,°C,32.0,Above,High,7.652245336969275
+Houston,2029-05,Heatwave,37.43701294954635,°C,32.0,Above,Very High,8.526954700641248
+Houston,2029-06,Heatwave,42.51114903532951,°C,32.0,Above,Very High,9.530582176776957
+Houston,2029-07,Heatwave,44.88442993164063,°C,32.0,Above,Very High,10.0
+Houston,2029-08,Heatwave,43.57267012938342,°C,32.0,Above,Very High,9.740543383665972
+Houston,2029-09,Heatwave,40.72622502106381,°C,32.0,Above,Very High,9.177537096147233
+Houston,2029-10,Heatwave,34.66712294656772,°C,32.0,Above,Very High,7.979090460134994
+Houston,2029-11,Heatwave,25.926575835496937,°C,32.0,Below,High,6.2502733592875135
+Houston,2029-12,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2030-01,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2030-02,Heatwave,25.618234806235886,°C,32.0,Below,High,6.189285730308975
+Houston,2030-03,Heatwave,26.20917917777273,°C,32.0,Below,High,6.306170259638776
+Houston,2030-04,Heatwave,33.70669503301457,°C,32.0,Above,Very High,7.78912475432936
+Houston,2030-05,Heatwave,36.210388091626086,°C,32.0,Above,Very High,8.2843371615159
+Houston,2030-06,Heatwave,40.87510488188182,°C,32.0,Above,Very High,9.20698445751755
+Houston,2030-07,Heatwave,44.657421812389934,°C,32.0,Above,Very High,9.955099433295802
+Houston,2030-08,Heatwave,42.29975660470634,°C,32.0,Above,Very High,9.488770280518407
+Houston,2030-09,Heatwave,37.44451946666867,°C,32.0,Above,Very High,8.528439435521568
+Houston,2030-10,Heatwave,34.66964590545511,°C,32.0,Above,Very High,7.97958948318399
+Houston,2030-11,Heatwave,26.35540620459421,°C,32.0,Below,High,6.33509290960137
+Houston,2030-12,Heatwave,12.57171630859375,°C,32.0,Below,Medium,3.608778583716461
+Houston,2026-01,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-02,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-03,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-04,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-05,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-06,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-07,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-08,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-09,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-10,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-11,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-12,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2026-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-01,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-02,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-03,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-04,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-05,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-06,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-07,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-08,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-09,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-10,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-11,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2027-12,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-01,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-02,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-03,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-04,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-05,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-06,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-07,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-08,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-09,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-10,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-11,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2028-12,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-01,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-02,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-03,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-04,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-05,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-06,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-07,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-08,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-09,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-10,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-11,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2029-12,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2029-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-01,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-02,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-03,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-04,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-05,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-06,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-07,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-08,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-09,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-10,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-11,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2030-12,Drought,0.0,mm,0.0,Above,Low,1.0
+Houston,2030-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Houston,2026-01,Cyclone,1017.5282573330176,hPa,1011.0,Above,High,6.8103841326620795
+Houston,2026-02,Cyclone,1022.461253832853,hPa,1011.0,Above,Very High,7.756408386082465
+Houston,2026-03,Cyclone,1013.1869034329326,hPa,1011.0,Above,High,5.977822000842489
+Houston,2026-04,Cyclone,1007.6227284683632,hPa,1011.0,Below,Medium,4.910753644533555
+Houston,2026-05,Cyclone,1007.612277988706,hPa,1011.0,Below,Medium,4.908749506234251
+Houston,2026-06,Cyclone,1008.8254873945228,hPa,1011.0,Below,Medium,5.141412457123998
+Houston,2026-07,Cyclone,1009.6628419930938,hPa,1011.0,Below,Medium,5.3019959400005146
+Houston,2026-08,Cyclone,1012.9642551312452,hPa,1011.0,Above,High,5.935123674706201
+Houston,2026-09,Cyclone,1011.2965786615018,hPa,1011.0,Above,High,5.615305408610061
+Houston,2026-10,Cyclone,1016.901362664793,hPa,1011.0,Above,High,6.690161553850176
+Houston,2026-11,Cyclone,1021.6167315355729,hPa,1011.0,Above,High,7.594450319457448
+Houston,2026-12,Cyclone,1028.1993408203125,hPa,1011.0,Above,Very High,8.856828680026254
+Houston,2027-01,Cyclone,1022.0863377443252,hPa,1011.0,Above,High,7.684508940632495
+Houston,2027-02,Cyclone,1021.2630793241364,hPa,1011.0,Above,High,7.526628749078098
+Houston,2027-03,Cyclone,1009.6483936665126,hPa,1011.0,Below,Medium,5.299225115539628
+Houston,2027-04,Cyclone,1009.7855371043936,hPa,1011.0,Below,Medium,5.325525766358505
+Houston,2027-05,Cyclone,1007.559445126384,hPa,1011.0,Below,Medium,4.898617496382672
+Houston,2027-06,Cyclone,1009.086536641258,hPa,1011.0,Below,Medium,5.19147511554203
+Houston,2027-07,Cyclone,1008.4105407040806,hPa,1011.0,Below,Medium,5.061836152326713
+Houston,2027-08,Cyclone,1013.256686256538,hPa,1011.0,Above,High,5.991204585566628
+Houston,2027-09,Cyclone,1014.2056512558114,hPa,1011.0,Above,High,6.173192127011184
+Houston,2027-10,Cyclone,1017.1929690858268,hPa,1011.0,Above,High,6.746084307243625
+Houston,2027-11,Cyclone,1021.8505001365728,hPa,1011.0,Above,High,7.639281238401235
+Houston,2027-12,Cyclone,1021.9831864925312,hPa,1011.0,Above,High,7.6647271333737566
+Houston,2028-01,Cyclone,1021.0828187839364,hPa,1011.0,Above,High,7.492059326016581
+Houston,2028-02,Cyclone,1015.4520061056752,hPa,1011.0,Above,High,6.412211537703773
+Houston,2028-03,Cyclone,1015.8807537582576,hPa,1011.0,Above,High,6.494434518797217
+Houston,2028-04,Cyclone,1009.6394625743956,hPa,1011.0,Below,Medium,5.297512357431551
+Houston,2028-05,Cyclone,1009.7540569845348,hPa,1011.0,Below,Medium,5.319488673713503
+Houston,2028-06,Cyclone,1011.144637648695,hPa,1011.0,Above,High,5.586166956310475
+Houston,2028-07,Cyclone,1011.8224037593244,hPa,1011.0,Above,High,5.7161453941267535
+Houston,2028-08,Cyclone,1013.5097220132642,hPa,1011.0,Above,High,6.039730458806859
+Houston,2028-09,Cyclone,1015.3683349328728,hPa,1011.0,Above,High,6.396165518051048
+Houston,2028-10,Cyclone,1017.0567634644386,hPa,1011.0,Above,High,6.7199635059639755
+Houston,2028-11,Cyclone,1012.729780571008,hPa,1011.0,Above,High,5.890157370594309
+Houston,2028-12,Cyclone,1019.429333031672,hPa,1011.0,Above,High,7.174962481455788
+Houston,2029-01,Cyclone,1022.2774773815992,hPa,1011.0,Above,High,7.721164699998468
+Houston,2029-02,Cyclone,1017.2834439744564,hPa,1011.0,Above,High,6.763435107912544
+Houston,2029-03,Cyclone,1005.319318901752,hPa,1011.0,Below,Medium,4.469017812033485
+Houston,2029-04,Cyclone,1011.2688359770495,hPa,1011.0,Above,High,5.609985061768598
+Houston,2029-05,Cyclone,1006.1359073960608,hPa,1011.0,Below,Medium,4.625618880107612
+Houston,2029-06,Cyclone,1007.55526945007,hPa,1011.0,Below,Medium,4.897816707031279
+Houston,2029-07,Cyclone,1012.712020219681,hPa,1011.0,Above,High,5.886751383360155
+Houston,2029-08,Cyclone,1012.7295142921294,hPa,1011.0,Above,High,5.89010630502446
+Houston,2029-09,Cyclone,1011.414796163268,hPa,1011.0,Above,High,5.637976542443881
+Houston,2029-10,Cyclone,1011.7674294117948,hPa,1011.0,Above,High,5.705602701448836
+Houston,2029-11,Cyclone,1015.3870002733032,hPa,1011.0,Above,High,6.399745059359479
+Houston,2029-12,Cyclone,1022.0347472679744,hPa,1011.0,Above,High,7.674615189060801
+Houston,2030-01,Cyclone,1028.1993408203125,hPa,1011.0,Above,Very High,8.856828680026254
+Houston,2030-02,Cyclone,1015.4260867347238,hPa,1011.0,Above,High,6.407240856383751
+Houston,2030-03,Cyclone,1011.7672288486884,hPa,1011.0,Above,High,5.705564238505891
+Houston,2030-04,Cyclone,1007.5655848559842,hPa,1011.0,Below,Medium,4.899794941595001
+Houston,2030-05,Cyclone,1007.9415495424796,hPa,1011.0,Below,Medium,4.971895481675686
+Houston,2030-06,Cyclone,1007.6144243484362,hPa,1011.0,Below,Medium,4.909161123870998
+Houston,2030-07,Cyclone,1011.323324918062,hPa,1011.0,Above,High,5.620434665724871
+Houston,2030-08,Cyclone,1009.059816295078,hPa,1011.0,Below,Medium,5.18635082738433
+Houston,2030-09,Cyclone,1012.9541444076822,hPa,1011.0,Above,High,5.933184693052647
+Houston,2030-10,Cyclone,1020.6549692675223,hPa,1011.0,Above,High,7.410008584777375
+Houston,2030-11,Cyclone,1021.1319150832148,hPa,1011.0,Above,High,7.501474757361831
+Houston,2030-12,Cyclone,1028.1993408203125,hPa,1011.0,Above,Very High,8.856828680026254
+Houston,2026-01,Windstorm,3.23295646489608,m/s,11.0,Below,Low,1.9350394622870424
+Houston,2026-02,Windstorm,10.474520175190667,m/s,11.0,Below,Medium,5.08418927459132
+Houston,2026-03,Windstorm,8.741594363143536,m/s,11.0,Below,Medium,4.330589193991676
+Houston,2026-04,Windstorm,17.763943418782464,m/s,11.0,Above,Very High,8.254151834850244
+Houston,2026-05,Windstorm,13.211534425455506,m/s,11.0,Above,High,6.274438819761036
+Houston,2026-06,Windstorm,9.447624692440185,m/s,11.0,Below,Medium,4.637621675916111
+Houston,2026-07,Windstorm,7.024620552474404,m/s,11.0,Below,Medium,3.5839261844660575
+Houston,2026-08,Windstorm,6.572039323244565,m/s,11.0,Below,Medium,3.3871114977354195
+Houston,2026-09,Windstorm,9.500707568090393,m/s,11.0,Below,Medium,4.66070590669527
+Houston,2026-10,Windstorm,18.145606994628903,m/s,11.0,Above,Very High,8.420126453913742
+Houston,2026-11,Windstorm,12.924600672399627,m/s,11.0,Above,High,6.149659502650958
+Houston,2026-12,Windstorm,5.347159499238779,m/s,11.0,Below,Low,2.8544461477945564
+Houston,2027-01,Windstorm,3.161936044692993,m/s,11.0,Below,Low,1.9041547042568983
+Houston,2027-02,Windstorm,7.001699638237751,m/s,11.0,Below,Medium,3.5739585316697995
+Houston,2027-03,Windstorm,12.106874371390004,m/s,11.0,Above,High,5.794053623815713
+Houston,2027-04,Windstorm,13.895171598468934,m/s,11.0,Above,High,6.5717331557922085
+Houston,2027-05,Windstorm,6.890764160349458,m/s,11.0,Below,Medium,3.5257158518638945
+Houston,2027-06,Windstorm,10.239125687679053,m/s,11.0,Below,Medium,4.981822916188529
+Houston,2027-07,Windstorm,6.471649441642891,m/s,11.0,Below,Medium,3.343454797407874
+Houston,2027-08,Windstorm,6.97125166402035,m/s,11.0,Below,Medium,3.5607175748643707
+Houston,2027-09,Windstorm,7.587049281232206,m/s,11.0,Below,Medium,3.8285104202001534
+Houston,2027-10,Windstorm,9.72596827701499,m/s,11.0,Below,Medium,4.758665373408373
+Houston,2027-11,Windstorm,3.161936044692993,m/s,11.0,Below,Low,1.9041547042568983
+Houston,2027-12,Windstorm,4.10073724480191,m/s,11.0,Below,Low,2.3124126084042
+Houston,2028-01,Windstorm,9.715342878157026,m/s,11.0,Below,Medium,4.754044690064576
+Houston,2028-02,Windstorm,10.72901443634339,m/s,11.0,Below,Medium,5.194861580574389
+Houston,2028-03,Windstorm,10.986009150603431,m/s,11.0,Below,Medium,5.306621262399005
+Houston,2028-04,Windstorm,11.37204354884068,m/s,11.0,Above,Medium,5.474496627635882
+Houston,2028-05,Windstorm,10.69827503971721,m/s,11.0,Below,Medium,5.181493892463316
+Houston,2028-06,Windstorm,8.954014684930472,m/s,11.0,Below,Medium,4.42296474204271
+Houston,2028-07,Windstorm,7.59039370472277,m/s,11.0,Below,Medium,3.829964814724447
+Houston,2028-08,Windstorm,10.62413266336101,m/s,11.0,Below,Medium,5.149251484617896
+Houston,2028-09,Windstorm,9.703188992297996,m/s,11.0,Below,Medium,4.748759311256498
+Houston,2028-10,Windstorm,4.551726300405649,m/s,11.0,Below,Low,2.508534904171176
+Houston,2028-11,Windstorm,5.100435884015236,m/s,11.0,Below,Low,2.7471530744121164
+Houston,2028-12,Windstorm,3.4639519135453334,m/s,11.0,Below,Low,2.0354928039766023
+Houston,2029-01,Windstorm,4.774092070667944,m/s,11.0,Below,Low,2.6052354445101242
+Houston,2029-02,Windstorm,12.240691031441465,m/s,11.0,Above,High,5.852246678070716
+Houston,2029-03,Windstorm,10.48685864483508,m/s,11.0,Below,Medium,5.089554923630572
+Houston,2029-04,Windstorm,9.100814312635446,m/s,11.0,Below,Medium,4.486803719165326
+Houston,2029-05,Windstorm,10.690168150933234,m/s,11.0,Below,Medium,5.177968437421591
+Houston,2029-06,Windstorm,9.67590061324718,m/s,11.0,Below,Medium,4.736892372401316
+Houston,2029-07,Windstorm,6.10759233091577,m/s,11.0,Below,Low,3.1851367285791023
+Houston,2029-08,Windstorm,6.4262658162371205,m/s,11.0,Below,Medium,3.3237187512794533
+Houston,2029-09,Windstorm,7.58563253685478,m/s,11.0,Below,Medium,3.82789431842038
+Houston,2029-10,Windstorm,12.418363842137914,m/s,11.0,Above,High,5.929511523184334
+Houston,2029-11,Windstorm,3.401319884000286,m/s,11.0,Below,Low,2.008255918135823
+Houston,2029-12,Windstorm,6.279123939580921,m/s,11.0,Below,Medium,3.2597309398354635
+Houston,2030-01,Windstorm,10.020104684456417,m/s,11.0,Below,Medium,4.886576919773591
+Houston,2030-02,Windstorm,13.19104186666879,m/s,11.0,Above,High,6.265527189588525
+Houston,2030-03,Windstorm,11.242265871477525,m/s,11.0,Above,Medium,5.41806001191869
+Houston,2030-04,Windstorm,10.687438795457718,m/s,11.0,Below,Medium,5.176781518459433
+Houston,2030-05,Windstorm,11.6708272816749,m/s,11.0,Above,High,5.604429163455025
+Houston,2030-06,Windstorm,7.017698252489052,m/s,11.0,Below,Medium,3.5809158733548547
+Houston,2030-07,Windstorm,6.751269989834651,m/s,11.0,Below,Medium,3.465053810008245
+Houston,2030-08,Windstorm,9.680002303559922,m/s,11.0,Below,Medium,4.738676080699034
+Houston,2030-09,Windstorm,12.559177865460835,m/s,11.0,Above,High,5.990747531435809
+Houston,2030-10,Windstorm,13.132017542355964,m/s,11.0,Above,High,6.23985919200302
+Houston,2030-11,Windstorm,3.845833562441785,m/s,11.0,Below,Low,2.2015622567986624
+Houston,2030-12,Windstorm,10.639215780079487,m/s,11.0,Below,Medium,5.155810702499998
+London,2026-01,Heatwave,8.805791422751584,°C,32.0,Below,Low,2.863905836001995
+London,2026-02,Heatwave,7.936039004507653,°C,32.0,Below,Low,2.691875088377622
+London,2026-03,Heatwave,10.274222343890434,°C,32.0,Below,Low,3.154350868288659
+London,2026-04,Heatwave,12.70411050500844,°C,32.0,Below,Medium,3.634965199714992
+London,2026-05,Heatwave,16.151806839379116,°C,32.0,Below,Medium,4.316894637958017
+London,2026-06,Heatwave,18.776414398503743,°C,32.0,Below,Medium,4.83602306019157
+London,2026-07,Heatwave,28.41708374023437,°C,32.0,Below,High,6.742877838251122
+London,2026-08,Heatwave,28.41708374023437,°C,32.0,Below,High,6.742877838251122
+London,2026-09,Heatwave,28.41708374023437,°C,32.0,Below,High,6.742877838251122
+London,2026-10,Heatwave,18.536047192096227,°C,32.0,Below,Medium,4.788480162517132
+London,2026-11,Heatwave,12.76701009185486,°C,32.0,Below,Medium,3.6474062837792376
+London,2026-12,Heatwave,5.1954004088751375,°C,32.0,Below,Low,2.149796565012548
+London,2027-01,Heatwave,12.241730764813836,°C,32.0,Below,Medium,3.5435098260666575
+London,2027-02,Heatwave,11.052027156816097,°C,32.0,Below,Medium,3.3081950435582126
+London,2027-03,Heatwave,8.217147468257771,°C,32.0,Below,Low,2.7474763125514063
+London,2027-04,Heatwave,12.76271562237964,°C,32.0,Below,Medium,3.6465568687284997
+London,2027-05,Heatwave,16.043530387029797,°C,32.0,Below,Medium,4.295478337575229
+London,2027-06,Heatwave,18.41247686526379,°C,32.0,Below,Medium,4.764038844202556
+London,2027-07,Heatwave,22.127563841510003,°C,32.0,Below,Medium,5.498856220512468
+London,2027-08,Heatwave,19.56581452341115,°C,32.0,Below,Medium,4.992160704438405
+London,2027-09,Heatwave,21.943203457114297,°C,32.0,Below,Medium,5.462391067792403
+London,2027-10,Heatwave,18.410504884332557,°C,32.0,Below,Medium,4.763648800614536
+London,2027-11,Heatwave,13.252915930682454,°C,32.0,Below,Medium,3.743514949849212
+London,2027-12,Heatwave,12.7644264588421,°C,32.0,Below,Medium,3.6468952598263873
+London,2028-01,Heatwave,12.761845318200514,°C,32.0,Below,Medium,3.646384728846557
+London,2028-02,Heatwave,12.45490357008692,°C,32.0,Below,Medium,3.5856738675744193
+London,2028-03,Heatwave,12.761426940312008,°C,32.0,Below,Medium,3.646301976721424
+London,2028-04,Heatwave,12.623542674558642,°C,32.0,Below,Medium,3.619029464652896
+London,2028-05,Heatwave,16.80252233931468,°C,32.0,Below,Medium,4.4456014648625075
+London,2028-06,Heatwave,18.554952487545695,°C,32.0,Below,Medium,4.792219493437072
+London,2028-07,Heatwave,24.01048262531818,°C,32.0,Below,High,5.871283958912442
+London,2028-08,Heatwave,28.41708374023437,°C,32.0,Below,High,6.742877838251122
+London,2028-09,Heatwave,18.84360961524762,°C,32.0,Below,Medium,4.8493137888296936
+London,2028-10,Heatwave,16.451797556434943,°C,32.0,Below,Medium,4.376230635482099
+London,2028-11,Heatwave,12.76355693813364,°C,32.0,Below,Medium,3.646723274909285
+London,2028-12,Heatwave,10.741011344171469,°C,32.0,Below,Low,3.2466783617416963
+London,2029-01,Heatwave,11.063487309584987,°C,32.0,Below,Medium,3.3104617790192097
+London,2029-02,Heatwave,5.389338354372604,°C,32.0,Below,Low,2.188156090156526
+London,2029-03,Heatwave,5.368621417003616,°C,32.0,Below,Low,2.1840584295472345
+London,2029-04,Heatwave,12.452486887280651,°C,32.0,Below,Medium,3.585195865166823
+London,2029-05,Heatwave,16.517863345447395,°C,32.0,Below,Medium,4.389297971470831
+London,2029-06,Heatwave,17.836995516636215,°C,32.0,Below,Medium,4.650212789141772
+London,2029-07,Heatwave,21.27214400603989,°C,32.0,Below,Medium,5.329660354261517
+London,2029-08,Heatwave,21.711308332130525,°C,32.0,Below,Medium,5.4165238866445184
+London,2029-09,Heatwave,18.84794730415223,°C,32.0,Below,Medium,4.850171752371466
+London,2029-10,Heatwave,16.103233152731775,°C,32.0,Below,Medium,4.307287113502166
+London,2029-11,Heatwave,12.76124128410613,°C,32.0,Below,Medium,3.6462652552645727
+London,2029-12,Heatwave,5.763455668641566,°C,32.0,Below,Low,2.2621537933222813
+London,2030-01,Heatwave,4.7743141602658,°C,32.0,Below,Low,2.0665087458089335
+London,2030-02,Heatwave,6.590235428680232,°C,32.0,Below,Low,2.4256848594701896
+London,2030-03,Heatwave,8.892981410439134,°C,32.0,Below,Low,2.8811513859454303
+London,2030-04,Heatwave,12.762650805563906,°C,32.0,Below,Medium,3.6465440484304064
+London,2030-05,Heatwave,16.252926522772643,°C,32.0,Below,Medium,4.336895381122205
+London,2030-06,Heatwave,18.23236212868565,°C,32.0,Below,Medium,4.7284134499618995
+London,2030-07,Heatwave,21.087335423300416,°C,32.0,Below,Medium,5.29310655114561
+London,2030-08,Heatwave,22.13021565468186,°C,32.0,Below,Medium,5.499380730008441
+London,2030-09,Heatwave,17.996329288378973,°C,32.0,Below,Medium,4.681727858602642
+London,2030-10,Heatwave,16.756457480098195,°C,32.0,Below,Medium,4.436490168355595
+London,2030-11,Heatwave,13.4896143596898,°C,32.0,Below,Medium,3.7903321898470757
+London,2030-12,Heatwave,12.563243618244972,°C,32.0,Below,Medium,3.607102746748933
+London,2026-01,Drought,0.0702484142572991,mm,0.0118871893843536,Above,Low,1.1147563114167136
+London,2026-01,Flood,0.0702484142572991,mm,50.0,Below,Low,1.1147563114167136
+London,2026-02,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-03,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-04,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2026-04,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2026-05,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-06,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-07,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-08,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2026-09,Drought,0.0101923031223582,mm,0.0118871893843536,Below,Low,1.0166499290201607
+London,2026-09,Flood,0.0101923031223582,mm,50.0,Below,Low,1.0166499290201607
+London,2026-10,Drought,0.6141075789052325,mm,0.0118871893843536,Above,Low,2.0031930444734636
+London,2026-10,Flood,0.6141075789052325,mm,50.0,Below,Low,2.0031930444734636
+London,2026-11,Drought,0.3368949206447726,mm,0.0118871893843536,Above,Low,1.5503443577618343
+London,2026-11,Flood,0.3368949206447726,mm,50.0,Below,Low,1.5503443577618343
+London,2026-12,Drought,0.5621336959383427,mm,0.0118871893843536,Above,Low,1.9182896176510633
+London,2026-12,Flood,0.5621336959383427,mm,50.0,Below,Low,1.9182896176510633
+London,2027-01,Drought,0.0668778976036585,mm,0.0118871893843536,Above,Low,1.1092503072907884
+London,2027-01,Flood,0.0668778976036585,mm,50.0,Below,Low,1.1092503072907884
+London,2027-02,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2027-02,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2027-03,Drought,0.0097572184251881,mm,0.0118871893843536,Below,Low,1.0159391839374572
+London,2027-03,Flood,0.0097572184251881,mm,50.0,Below,Low,1.0159391839374572
+London,2027-04,Drought,0.000934171255422,mm,0.0118871893843536,Below,Low,1.0015260422407701
+London,2027-04,Flood,0.000934171255422,mm,50.0,Below,Low,1.0015260422407701
+London,2027-05,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2027-06,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2027-07,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2027-08,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2027-08,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2027-09,Drought,0.0032655645847817,mm,0.0118871893843536,Below,Low,1.0053345566644398
+London,2027-09,Flood,0.0032655645847817,mm,50.0,Below,Low,1.0053345566644398
+London,2027-10,Drought,0.0662906299429941,mm,0.0118871893843536,Above,Low,1.1082909593643664
+London,2027-10,Flood,0.0662906299429941,mm,50.0,Below,Low,1.1082909593643664
+London,2027-11,Drought,0.2647953282589194,mm,0.0118871893843536,Above,Low,1.4325640012324428
+London,2027-11,Flood,0.2647953282589194,mm,50.0,Below,Low,1.4325640012324428
+London,2027-12,Drought,0.000980972518661,mm,0.0118871893843536,Below,Low,1.0016024957863159
+London,2027-12,Flood,0.000980972518661,mm,50.0,Below,Low,1.0016024957863159
+London,2028-01,Drought,0.0631629537735984,mm,0.0118871893843536,Above,Low,1.1031816542747002
+London,2028-01,Flood,0.0631629537735984,mm,50.0,Below,Low,1.1031816542747002
+London,2028-02,Drought,0.0647304930061267,mm,0.0118871893843536,Above,Low,1.1057423529356987
+London,2028-02,Flood,0.0647304930061267,mm,50.0,Below,Low,1.1057423529356987
+London,2028-03,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2028-03,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2028-04,Drought,0.0005590589025706,mm,0.0118871893843536,Below,Low,1.0009132667007783
+London,2028-04,Flood,0.0005590589025706,mm,50.0,Below,Low,1.0009132667007783
+London,2028-05,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2028-06,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2028-06,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2028-07,Drought,0.0122354365400518,mm,0.0118871893843536,Above,Low,1.0199875481995486
+London,2028-07,Flood,0.0122354365400518,mm,50.0,Below,Low,1.0199875481995486
+London,2028-08,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2028-09,Drought,0.095911558704407,mm,0.0118871893843536,Above,Low,1.1566790768946322
+London,2028-09,Flood,0.095911558704407,mm,50.0,Below,Low,1.1566790768946322
+London,2028-10,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2028-10,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2028-11,Drought,0.5506193865947295,mm,0.0118871893843536,Above,Low,1.899480087460896
+London,2028-11,Flood,0.5506193865947295,mm,50.0,Below,Low,1.899480087460896
+London,2028-12,Drought,0.0181963413028366,mm,0.0118871893843536,Above,Low,1.0297251550980904
+London,2028-12,Flood,0.0181963413028366,mm,50.0,Below,Low,1.0297251550980904
+London,2029-01,Drought,0.142634215078927,mm,0.0118871893843536,Above,Low,1.2330042119431208
+London,2029-01,Flood,0.142634215078927,mm,50.0,Below,Low,1.2330042119431208
+London,2029-02,Drought,0.0649932594659875,mm,0.0118871893843536,Above,Low,1.1061716026207833
+London,2029-02,Flood,0.0649932594659875,mm,50.0,Below,Low,1.1061716026207833
+London,2029-03,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2029-03,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2029-04,Drought,0.006539503331307,mm,0.0118871893843536,Below,Low,1.010682793180917
+London,2029-04,Flood,0.006539503331307,mm,50.0,Below,Low,1.010682793180917
+London,2029-05,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2029-06,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2029-07,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2029-08,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2029-08,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2029-09,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2029-10,Drought,0.3894703838068131,mm,0.0118871893843536,Above,Low,1.636230513161765
+London,2029-10,Flood,0.3894703838068131,mm,50.0,Below,Low,1.636230513161765
+London,2029-11,Drought,0.0665602968147831,mm,0.0118871893843536,Above,Low,1.1087314814152194
+London,2029-11,Flood,0.0665602968147831,mm,50.0,Below,Low,1.1087314814152194
+London,2029-12,Drought,0.0472648312931368,mm,0.0118871893843536,Above,Low,1.077210820433147
+London,2029-12,Flood,0.0472648312931368,mm,50.0,Below,Low,1.077210820433147
+London,2030-01,Drought,0.0640890988464936,mm,0.0118871893843536,Above,Low,1.1046945851148602
+London,2030-01,Flood,0.0640890988464936,mm,50.0,Below,Low,1.1046945851148602
+London,2030-02,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-03,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-04,Drought,0.000344310118378,mm,0.0118871893843536,Below,Low,1.0005624576666428
+London,2030-04,Flood,0.000344310118378,mm,50.0,Below,Low,1.0005624576666428
+London,2030-05,Drought,0.0009536743164062,mm,0.0118871893843536,Below,Low,1.0015579020252725
+London,2030-05,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+London,2030-06,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-06,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-07,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-07,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-08,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-09,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-10,Drought,0.0,mm,0.0118871893843536,Below,Low,1.0
+London,2030-10,Flood,0.0,mm,50.0,Below,Low,1.0
+London,2030-11,Drought,0.162243693380604,mm,0.0118871893843536,Above,Low,1.2650378375060312
+London,2030-11,Flood,0.162243693380604,mm,50.0,Below,Low,1.2650378375060312
+London,2030-12,Drought,0.1358816117003809,mm,0.0118871893843536,Above,Low,1.2219733030695945
+London,2030-12,Flood,0.1358816117003809,mm,50.0,Below,Low,1.2219733030695945
+London,2026-01,Cyclone,1004.9226708901368,hPa,1011.0,Below,Medium,4.392950732101145
+London,2026-02,Cyclone,1025.2606158481235,hPa,1011.0,Above,Very High,8.293255383772005
+London,2026-03,Cyclone,1012.9187527044782,hPa,1011.0,Above,High,5.926397457423758
+London,2026-04,Cyclone,1011.2452428962504,hPa,1011.0,Above,High,5.605460504200056
+London,2026-05,Cyclone,1022.097905031321,hPa,1011.0,Above,High,7.686727254398723
+London,2026-06,Cyclone,1019.6913861624274,hPa,1011.0,Above,High,7.225217659497713
+London,2026-07,Cyclone,1021.7897379302816,hPa,1011.0,Above,High,7.627628580459003
+London,2026-08,Cyclone,1021.1411994519012,hPa,1011.0,Above,High,7.503255265001623
+London,2026-09,Cyclone,1022.4472886238344,hPa,1011.0,Above,Very High,7.753730211379502
+London,2026-10,Cyclone,1021.775237656992,hPa,1011.0,Above,High,7.6248477939302335
+London,2026-11,Cyclone,1014.3637292056986,hPa,1011.0,Above,High,6.203507488988286
+London,2026-12,Cyclone,1018.7021984150066,hPa,1011.0,Above,High,7.0355164099068
+London,2027-01,Cyclone,999.1394077767612,hPa,1011.0,Below,Medium,3.283866797144509
+London,2027-02,Cyclone,1014.6448774072325,hPa,1011.0,Above,High,6.257424619775911
+London,2027-03,Cyclone,1018.3568722714396,hPa,1011.0,Above,High,6.969291569251543
+London,2027-04,Cyclone,1006.6294300395556,hPa,1011.0,Below,Medium,4.720264069978265
+London,2027-05,Cyclone,1017.4524943151124,hPa,1011.0,Above,High,6.795854697570651
+London,2027-06,Cyclone,1025.475144016183,hPa,1011.0,Above,Very High,8.334396473175369
+London,2027-07,Cyclone,1021.7401115496264,hPa,1011.0,Above,High,7.618111492881322
+London,2027-08,Cyclone,1022.803492987329,hPa,1011.0,Above,Very High,7.822041220124657
+London,2027-09,Cyclone,1021.8691322619418,hPa,1011.0,Above,High,7.642854409899008
+London,2027-10,Cyclone,999.3677887165502,hPa,1011.0,Below,Medium,3.327664498615918
+London,2027-11,Cyclone,1012.6388295103924,hPa,1011.0,Above,High,5.872715252153823
+London,2027-12,Cyclone,992.0587768554688,hPa,1011.0,Below,Low,1.925980453360468
+London,2028-01,Cyclone,993.9763822707176,hPa,1011.0,Below,Low,2.293728784699489
+London,2028-02,Cyclone,1012.9378417656268,hPa,1011.0,Above,High,5.93005825767412
+London,2028-03,Cyclone,1006.242140725382,hPa,1011.0,Below,Medium,4.645991752065415
+London,2028-04,Cyclone,1014.4617808721032,hPa,1011.0,Above,High,6.222311324448151
+London,2028-05,Cyclone,1021.679099787422,hPa,1011.0,Above,High,7.606410976412047
+London,2028-06,Cyclone,1022.7370618529724,hPa,1011.0,Above,Very High,7.8093014048246205
+London,2028-07,Cyclone,1025.7209139469644,hPa,1011.0,Above,Very High,8.381528944339362
+London,2028-08,Cyclone,1025.5272986472294,hPa,1011.0,Above,Very High,8.344398415382223
+London,2028-09,Cyclone,1018.7890846975072,hPa,1011.0,Above,High,7.05217900647216
+London,2028-10,Cyclone,1014.6239878202496,hPa,1011.0,Above,High,6.2534185241035525
+London,2028-11,Cyclone,999.3771953926372,hPa,1011.0,Below,Medium,3.3294684617289394
+London,2028-12,Cyclone,1001.80382267628,hPa,1011.0,Below,Medium,3.794834343179352
+London,2029-01,Cyclone,992.0587768554688,hPa,1011.0,Below,Low,1.925980453360468
+London,2029-02,Cyclone,1011.3814851774846,hPa,1011.0,Above,High,5.631588335913131
+London,2029-03,Cyclone,1014.4573497475916,hPa,1011.0,Above,High,6.221461546578243
+London,2029-04,Cyclone,1012.641631804257,hPa,1011.0,Above,High,5.8732526614062435
+London,2029-05,Cyclone,1014.6824107301854,hPa,1011.0,Above,High,6.264622564032746
+London,2029-06,Cyclone,1021.1336200887636,hPa,1011.0,Above,High,7.501801734403345
+London,2029-07,Cyclone,1026.4049220009465,hPa,1011.0,Above,Very High,8.512704429386538
+London,2029-08,Cyclone,1031.0149643595155,hPa,1011.0,Above,Very High,9.396794227675889
+London,2029-09,Cyclone,1031.399789523449,hPa,1011.0,Above,Very High,9.470593983751078
+London,2029-10,Cyclone,1021.848405487891,hPa,1011.0,Above,High,7.638879537638737
+London,2029-11,Cyclone,1013.8936205684956,hPa,1011.0,Above,High,6.113352514714277
+London,2029-12,Cyclone,1001.6085865975908,hPa,1011.0,Below,Medium,3.7573929897162386
+London,2030-01,Cyclone,1012.5757081793256,hPa,1011.0,Above,High,5.860610173607883
+London,2030-02,Cyclone,1004.7286162864424,hPa,1011.0,Below,Medium,4.355735955729633
+London,2030-03,Cyclone,1006.5989921833724,hPa,1011.0,Below,Medium,4.714426857206599
+London,2030-04,Cyclone,1015.2201569849824,hPa,1011.0,Above,High,6.367748726648283
+London,2030-05,Cyclone,1026.0598730601344,hPa,1011.0,Above,Very High,8.446532749224957
+London,2030-06,Cyclone,1022.1163515059802,hPa,1011.0,Above,High,7.690264822774917
+London,2030-07,Cyclone,1025.6482759877165,hPa,1011.0,Above,Very High,8.367598816643188
+London,2030-08,Cyclone,1033.1228830929372,hPa,1011.0,Above,Very High,9.801039851227944
+London,2030-09,Cyclone,1019.6728263146766,hPa,1011.0,Above,High,7.221658349023314
+London,2030-10,Cyclone,1019.6406365014996,hPa,1011.0,Above,High,7.2154851551076895
+London,2030-11,Cyclone,999.101199327314,hPa,1011.0,Below,Medium,3.2765393806616765
+London,2030-12,Cyclone,999.307353608086,hPa,1011.0,Below,Medium,3.31607456978319
+London,2026-01,Windstorm,12.5649871444863,m/s,11.0,Above,High,5.9932738214312495
+London,2026-02,Windstorm,4.350987021124041,m/s,11.0,Below,Low,2.4212391088206364
+London,2026-03,Windstorm,11.134186323465116,m/s,11.0,Above,Medium,5.371059294676727
+London,2026-04,Windstorm,10.952956736596368,m/s,11.0,Below,Medium,5.2922477089054984
+London,2026-05,Windstorm,7.0699109083322,m/s,11.0,Below,Medium,3.6036216703244524
+London,2026-06,Windstorm,9.495860146489612,m/s,11.0,Below,Medium,4.658597901099385
+London,2026-07,Windstorm,7.113321898477102,m/s,11.0,Below,Medium,3.6224998735600904
+London,2026-08,Windstorm,3.19304072863609,m/s,11.0,Below,Low,1.9176812454184344
+London,2026-09,Windstorm,4.383560219279622,m/s,11.0,Below,Low,2.435404264988768
+London,2026-10,Windstorm,7.708971156660285,m/s,11.0,Below,Medium,3.8815307713950613
+London,2026-11,Windstorm,7.660641627530189,m/s,11.0,Below,Medium,3.8605136356385352
+London,2026-12,Windstorm,16.387673800448574,m/s,11.0,Above,High,7.655651375053843
+London,2027-01,Windstorm,11.760182358960428,m/s,11.0,Above,High,5.6432871416651915
+London,2027-02,Windstorm,10.94543926661425,m/s,11.0,Below,Medium,5.2889785753136005
+London,2027-03,Windstorm,7.319443696819688,m/s,11.0,Below,Medium,3.7121363731519676
+London,2027-04,Windstorm,9.927205741413282,m/s,11.0,Below,Medium,4.846177815277464
+London,2027-05,Windstorm,8.308973846446136,m/s,11.0,Below,Medium,4.142454852644954
+London,2027-06,Windstorm,5.250946115119457,m/s,11.0,Below,Low,2.8126056872722263
+London,2027-07,Windstorm,6.322885813258629,m/s,11.0,Below,Medium,3.278761732326086
+London,2027-08,Windstorm,7.09415261498183,m/s,11.0,Below,Medium,3.6141636981239307
+London,2027-09,Windstorm,7.064161013349482,m/s,11.0,Below,Medium,3.6011212047578987
+London,2027-10,Windstorm,8.881133661614657,m/s,11.0,Below,Medium,4.3912708607102475
+London,2027-11,Windstorm,11.391688296850807,m/s,11.0,Above,Medium,5.483039569047958
+London,2027-12,Windstorm,21.778573229989203,m/s,11.0,Above,Very High,10.0
+London,2028-01,Windstorm,11.027196499740068,m/s,11.0,Above,Medium,5.324532467491154
+London,2028-02,Windstorm,14.419614455861092,m/s,11.0,Above,High,6.799798417936212
+London,2028-03,Windstorm,8.972657043890143,m/s,11.0,Below,Medium,4.431071773005552
+London,2028-04,Windstorm,7.38108099579822,m/s,11.0,Below,Medium,3.7389406790000606
+London,2028-05,Windstorm,4.465911904282504,m/s,11.0,Below,Low,2.4712166673572087
+London,2028-06,Windstorm,4.394505611556621,m/s,11.0,Below,Low,2.4401641043568465
+London,2028-07,Windstorm,3.869055440978566,m/s,11.0,Below,Low,2.2116607903973513
+London,2028-08,Windstorm,5.511678493265376,m/s,11.0,Below,Low,2.9259907726692678
+London,2028-09,Windstorm,7.705591796620003,m/s,11.0,Below,Medium,3.8800611839603154
+London,2028-10,Windstorm,9.08329846806233,m/s,11.0,Below,Medium,4.479186577225199
+London,2028-11,Windstorm,11.455844138139122,m/s,11.0,Above,High,5.510939117216554
+London,2028-12,Windstorm,19.86339446339218,m/s,11.0,Above,Very High,9.167143300170896
+London,2029-01,Windstorm,9.730338656444635,m/s,11.0,Below,Medium,4.76056592695056
+London,2029-02,Windstorm,11.346091830375132,m/s,11.0,Above,Medium,5.463210964400113
+London,2029-03,Windstorm,21.141430826183623,m/s,11.0,Above,Very High,9.722924914890543
+London,2029-04,Windstorm,15.610430175541488,m/s,11.0,Above,High,7.317650259077847
+London,2029-05,Windstorm,5.74184826650778,m/s,11.0,Below,Low,3.0260850516402593
+London,2029-06,Windstorm,5.108409932978409,m/s,11.0,Below,Low,2.750620761199155
+London,2029-07,Windstorm,3.1998755538779786,m/s,11.0,Below,Low,1.9206535162550533
+London,2029-08,Windstorm,3.208913643779957,m/s,11.0,Below,Low,1.9245839241416736
+London,2029-09,Windstorm,6.231975665091334,m/s,11.0,Below,Low,3.239227498079054
+London,2029-10,Windstorm,10.922271649856432,m/s,11.0,Below,Medium,5.278903638617166
+London,2029-11,Windstorm,7.7514843172630625,m/s,11.0,Below,Medium,3.9000185341337055
+London,2029-12,Windstorm,10.921856713379062,m/s,11.0,Below,Medium,5.278723194560868
+London,2030-01,Windstorm,10.861937601500598,m/s,11.0,Below,Medium,5.252666079347305
+London,2030-02,Windstorm,11.406395207984378,m/s,11.0,Above,Medium,5.489435185835809
+London,2030-03,Windstorm,7.092321176510999,m/s,11.0,Below,Medium,3.613367257693742
+London,2030-04,Windstorm,12.65848772029715,m/s,11.0,Above,High,6.033934558883093
+London,2030-05,Windstorm,7.678287940457057,m/s,11.0,Below,Medium,3.8681875145498688
+London,2030-06,Windstorm,3.4497147641211607,m/s,11.0,Below,Low,2.029301473176993
+London,2030-07,Windstorm,5.314491362106799,m/s,11.0,Below,Low,2.840239705369524
+London,2030-08,Windstorm,4.379173023521122,m/s,11.0,Below,Low,2.433496398504105
+London,2030-09,Windstorm,8.594257645517695,m/s,11.0,Below,Medium,4.2665166517592095
+London,2030-10,Windstorm,7.24384995839833,m/s,11.0,Below,Medium,3.6792628092803166
+London,2030-11,Windstorm,10.9203061894969,m/s,11.0,Below,Medium,5.278048915884628
+London,2030-12,Windstorm,15.428190589687494,m/s,11.0,Above,High,7.238399453513482
+Vancouver,2026-01,Heatwave,7.516310385262402,°C,32.0,Below,Low,2.6088557984584364
+Vancouver,2026-02,Heatwave,7.3322139723883,°C,32.0,Below,Low,2.5724428573991394
+Vancouver,2026-03,Heatwave,9.44785122719562,°C,32.0,Below,Low,2.9909006288432476
+Vancouver,2026-04,Heatwave,14.357759268764102,°C,32.0,Below,Medium,3.96204498376593
+Vancouver,2026-05,Heatwave,15.942158394318737,°C,32.0,Below,Medium,4.275427689450024
+Vancouver,2026-06,Heatwave,18.184686994715264,°C,32.0,Below,Medium,4.718983652736872
+Vancouver,2026-07,Heatwave,28.51864624023437,°C,32.0,Below,High,6.762966167342379
+Vancouver,2026-08,Heatwave,26.290558070654747,°C,32.0,Below,High,6.3222664169930765
+Vancouver,2026-09,Heatwave,24.786904362005476,°C,32.0,Below,High,6.024854571689593
+Vancouver,2026-10,Heatwave,16.57865097223482,°C,32.0,Below,Medium,4.4013213250864105
+Vancouver,2026-11,Heatwave,14.848372211871904,°C,32.0,Below,Medium,4.059084681071328
+Vancouver,2026-12,Heatwave,6.985321044921875,°C,32.0,Below,Low,2.5038299413486786
+Vancouver,2027-01,Heatwave,13.975748584223332,°C,32.0,Below,Medium,3.8864860289604537
+Vancouver,2027-02,Heatwave,12.327262925470084,°C,32.0,Below,Medium,3.560427469794893
+Vancouver,2027-03,Heatwave,7.60957282476255,°C,32.0,Below,Low,2.6273024355196783
+Vancouver,2027-04,Heatwave,15.337674754035891,°C,32.0,Below,Medium,4.155865190532779
+Vancouver,2027-05,Heatwave,16.145650810891446,°C,32.0,Below,Medium,4.31567701997741
+Vancouver,2027-06,Heatwave,17.987767509135992,°C,32.0,Below,Medium,4.680034400495175
+Vancouver,2027-07,Heatwave,24.171258693842816,°C,32.0,Below,High,5.903084304261575
+Vancouver,2027-08,Heatwave,18.300763539621357,°C,32.0,Below,Medium,4.741942755100929
+Vancouver,2027-09,Heatwave,22.29391803133888,°C,32.0,Below,High,5.531759877974541
+Vancouver,2027-10,Heatwave,17.250153364058633,°C,32.0,Below,Medium,4.534139649098941
+Vancouver,2027-11,Heatwave,15.22233130300306,°C,32.0,Below,Medium,4.133051088842994
+Vancouver,2027-12,Heatwave,14.883170477151774,°C,32.0,Below,Medium,4.065967526656529
+Vancouver,2028-01,Heatwave,14.077362364452114,°C,32.0,Below,Medium,3.9065845009106557
+Vancouver,2028-02,Heatwave,13.244647913524794,°C,32.0,Below,Medium,3.7418795957608904
+Vancouver,2028-03,Heatwave,14.825596379894098,°C,32.0,Below,Medium,4.054579785976216
+Vancouver,2028-04,Heatwave,13.985165617531107,°C,32.0,Below,Medium,3.8883486501459297
+Vancouver,2028-05,Heatwave,16.80681583061449,°C,32.0,Below,Medium,4.4464506864372115
+Vancouver,2028-06,Heatwave,18.83707701923889,°C,32.0,Below,Medium,4.848021688512711
+Vancouver,2028-07,Heatwave,26.402339856524907,°C,32.0,Below,High,6.3443760470333785
+Vancouver,2028-08,Heatwave,28.51864624023437,°C,32.0,Below,High,6.762966167342379
+Vancouver,2028-09,Heatwave,17.55728102732887,°C,32.0,Below,Medium,4.594887283046523
+Vancouver,2028-10,Heatwave,15.6780910613688,°C,32.0,Below,Medium,4.223197077890159
+Vancouver,2028-11,Heatwave,13.98579554352012,°C,32.0,Below,Medium,3.8884732449577
+Vancouver,2028-12,Heatwave,9.926222615742416,°C,32.0,Below,Low,3.0855190350558694
+Vancouver,2029-01,Heatwave,11.70283391540584,°C,32.0,Below,Medium,3.4369199207654964
+Vancouver,2029-02,Heatwave,6.99473060258891,°C,32.0,Below,Low,2.5056910839063997
+Vancouver,2029-03,Heatwave,7.098450757106384,°C,32.0,Below,Low,2.526206181480238
+Vancouver,2029-04,Heatwave,14.01841250342073,°C,32.0,Below,Medium,3.8949246440906458
+Vancouver,2029-05,Heatwave,16.28320223542716,°C,32.0,Below,Medium,4.3428836984566175
+Vancouver,2029-06,Heatwave,17.0138327172334,°C,32.0,Below,Medium,4.487397131688638
+Vancouver,2029-07,Heatwave,21.833608913176988,°C,32.0,Below,Medium,5.440714058411787
+Vancouver,2029-08,Heatwave,22.11317067100348,°C,32.0,Below,Medium,5.496009355323037
+Vancouver,2029-09,Heatwave,17.773839917423363,°C,32.0,Below,Medium,4.637721067680177
+Vancouver,2029-10,Heatwave,15.688846454263022,°C,32.0,Below,Medium,4.225324416937198
+Vancouver,2029-11,Heatwave,13.979048987338723,°C,32.0,Below,Medium,3.8871388248636243
+Vancouver,2029-12,Heatwave,7.001639188379204,°C,32.0,Below,Low,2.5070575522870575
+Vancouver,2030-01,Heatwave,6.985321044921875,°C,32.0,Below,Low,2.5038299413486786
+Vancouver,2030-02,Heatwave,7.29011277598901,°C,32.0,Below,Low,2.5641155447748485
+Vancouver,2030-03,Heatwave,12.214419383089332,°C,32.0,Below,Medium,3.538107831984011
+Vancouver,2030-04,Heatwave,15.18990327467603,°C,32.0,Below,Medium,4.12663705901098
+Vancouver,2030-05,Heatwave,16.41523282732713,°C,32.0,Below,Medium,4.368998396107818
+Vancouver,2030-06,Heatwave,17.813470444007944,°C,32.0,Below,Medium,4.645559699656456
+Vancouver,2030-07,Heatwave,20.60487109829758,°C,32.0,Below,Medium,5.197678591658121
+Vancouver,2030-08,Heatwave,24.079777209015436,°C,32.0,Below,High,5.884989927173878
+Vancouver,2030-09,Heatwave,17.13559581579007,°C,32.0,Below,Medium,4.511480993300724
+Vancouver,2030-10,Heatwave,16.151556478039076,°C,32.0,Below,Medium,4.31684511829288
+Vancouver,2030-11,Heatwave,15.603601542678266,°C,32.0,Below,Medium,4.2084635890010045
+Vancouver,2030-12,Heatwave,13.981401975157556,°C,32.0,Below,Medium,3.8876042288626635
+Vancouver,2026-01,Drought,0.1965784557972454,mm,0.017498252703758,Above,Low,1.3211263731685081
+Vancouver,2026-01,Flood,0.1965784557972454,mm,50.0,Below,Low,1.3211263731685081
+Vancouver,2026-02,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-03,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-04,Drought,0.1231279233793027,mm,0.017498252703758,Above,Low,1.2011391498127715
+Vancouver,2026-04,Flood,0.1231279233793027,mm,50.0,Below,Low,1.2011391498127715
+Vancouver,2026-05,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-06,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-07,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-08,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-09,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2026-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2026-10,Drought,0.0408551309561316,mm,0.017498252703758,Above,Low,1.0667400706555497
+Vancouver,2026-10,Flood,0.0408551309561316,mm,50.0,Below,Low,1.0667400706555497
+Vancouver,2026-11,Drought,0.0635180268479884,mm,0.017498252703758,Above,Low,1.1037616940767538
+Vancouver,2026-11,Flood,0.0635180268479884,mm,50.0,Below,Low,1.1037616940767538
+Vancouver,2026-12,Drought,0.4430062615778172,mm,0.017498252703758,Above,Low,1.7236855813851464
+Vancouver,2026-12,Flood,0.4430062615778172,mm,50.0,Below,Low,1.7236855813851464
+Vancouver,2027-01,Drought,0.1758242910790728,mm,0.017498252703758,Above,Low,1.2872228122871332
+Vancouver,2027-01,Flood,0.1758242910790728,mm,50.0,Below,Low,1.2872228122871332
+Vancouver,2027-02,Drought,0.0118473144864403,mm,0.017498252703758,Below,Low,1.0193535202898394
+Vancouver,2027-02,Flood,0.0118473144864403,mm,50.0,Below,Low,1.0193535202898394
+Vancouver,2027-03,Drought,0.0008855267155456,mm,0.017498252703758,Below,Low,1.0014465775578187
+Vancouver,2027-03,Flood,0.0008855267155456,mm,50.0,Below,Low,1.0014465775578187
+Vancouver,2027-04,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-05,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-06,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-07,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-08,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-09,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2027-10,Drought,0.0032702267795604,mm,0.017498252703758,Below,Low,1.0053421727264045
+Vancouver,2027-10,Flood,0.0032702267795604,mm,50.0,Below,Low,1.0053421727264045
+Vancouver,2027-11,Drought,0.0555798964960958,mm,0.017498252703758,Above,Low,1.090794133622055
+Vancouver,2027-11,Flood,0.0555798964960958,mm,50.0,Below,Low,1.090794133622055
+Vancouver,2027-12,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2028-01,Drought,0.0418047179232135,mm,0.017498252703758,Above,Low,1.0682912956741326
+Vancouver,2028-01,Flood,0.0418047179232135,mm,50.0,Below,Low,1.0682912956741326
+Vancouver,2028-02,Drought,0.0085588556670076,mm,0.017498252703758,Below,Low,1.0139815640919152
+Vancouver,2028-02,Flood,0.0085588556670076,mm,50.0,Below,Low,1.0139815640919152
+Vancouver,2028-03,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2028-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2028-04,Drought,0.0498838306171367,mm,0.017498252703758,Above,Low,1.0814891618761906
+Vancouver,2028-04,Flood,0.0498838306171367,mm,50.0,Below,Low,1.0814891618761906
+Vancouver,2028-05,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2028-06,Drought,0.0022064169448626,mm,0.017498252703758,Below,Low,1.0036043556671952
+Vancouver,2028-06,Flood,0.0022064169448626,mm,50.0,Below,Low,1.0036043556671952
+Vancouver,2028-07,Drought,0.0020489563002482,mm,0.017498252703758,Below,Low,1.0033471313161506
+Vancouver,2028-07,Flood,0.0020489563002482,mm,50.0,Below,Low,1.0033471313161506
+Vancouver,2028-08,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2028-09,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2028-10,Drought,0.0014974320163351,mm,0.017498252703758,Below,Low,1.002446173007728
+Vancouver,2028-10,Flood,0.0014974320163351,mm,50.0,Below,Low,1.002446173007728
+Vancouver,2028-11,Drought,0.1134380100257854,mm,0.017498252703758,Above,Low,1.1853099140050514
+Vancouver,2028-11,Flood,0.1134380100257854,mm,50.0,Below,Low,1.1853099140050514
+Vancouver,2028-12,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-01,Drought,0.0638998715007866,mm,0.017498252703758,Above,Low,1.1043854673583657
+Vancouver,2029-01,Flood,0.0638998715007866,mm,50.0,Below,Low,1.1043854673583657
+Vancouver,2029-02,Drought,0.117218348787416,mm,0.017498252703758,Above,Low,1.1914853947867443
+Vancouver,2029-02,Flood,0.117218348787416,mm,50.0,Below,Low,1.1914853947867443
+Vancouver,2029-03,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-04,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-05,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-06,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-07,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-08,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-09,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2029-10,Drought,0.0704451359788133,mm,0.017498252703758,Above,Low,1.115077671825702
+Vancouver,2029-10,Flood,0.0704451359788133,mm,50.0,Below,Low,1.115077671825702
+Vancouver,2029-11,Drought,0.0872796361151765,mm,0.017498252703758,Above,Low,1.1425781522367953
+Vancouver,2029-11,Flood,0.0872796361151765,mm,50.0,Below,Low,1.1425781522367953
+Vancouver,2029-12,Drought,0.0400220832105162,mm,0.017498252703758,Above,Low,1.065379221623845
+Vancouver,2029-12,Flood,0.0400220832105162,mm,50.0,Below,Low,1.065379221623845
+Vancouver,2030-01,Drought,0.0362565851277577,mm,0.017498252703758,Above,Low,1.0592279842586658
+Vancouver,2030-01,Flood,0.0362565851277577,mm,50.0,Below,Low,1.0592279842586658
+Vancouver,2030-02,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2030-03,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2030-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2030-04,Drought,0.0016939563383744,mm,0.017498252703758,Below,Low,1.0027672109491441
+Vancouver,2030-04,Flood,0.0016939563383744,mm,50.0,Below,Low,1.0027672109491441
+Vancouver,2030-05,Drought,0.0021918136472968,mm,0.017498252703758,Below,Low,1.0035805000317208
+Vancouver,2030-05,Flood,0.0021918136472968,mm,50.0,Below,Low,1.0035805000317208
+Vancouver,2030-06,Drought,0.0033808236769367,mm,0.017498252703758,Below,Low,1.0055228414593749
+Vancouver,2030-06,Flood,0.0033808236769367,mm,50.0,Below,Low,1.0055228414593749
+Vancouver,2030-07,Drought,0.0094142804627975,mm,0.017498252703758,Below,Low,1.015378967795573
+Vancouver,2030-07,Flood,0.0094142804627975,mm,50.0,Below,Low,1.015378967795573
+Vancouver,2030-08,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2030-09,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2030-10,Drought,0.0,mm,0.017498252703758,Below,Low,1.0
+Vancouver,2030-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Vancouver,2030-11,Drought,0.0654420651668733,mm,0.017498252703758,Above,Low,1.1069047620425436
+Vancouver,2030-11,Flood,0.0654420651668733,mm,50.0,Below,Low,1.1069047620425436
+Vancouver,2030-12,Drought,0.0838468907369836,mm,0.017498252703758,Above,Low,1.1369704925935278
+Vancouver,2030-12,Flood,0.0838468907369836,mm,50.0,Below,Low,1.1369704925935278
+Vancouver,2026-01,Cyclone,995.4550170898438,hPa,1011.0,Below,Low,2.5772936323315183
+Vancouver,2026-02,Cyclone,1032.98752146108,hPa,1011.0,Above,Very High,9.775080905843783
+Vancouver,2026-03,Cyclone,1017.6298899245552,hPa,1011.0,Above,High,6.829874699204296
+Vancouver,2026-04,Cyclone,1007.6315308093932,hPa,1011.0,Below,Medium,4.912441711431946
+Vancouver,2026-05,Cyclone,1021.7893962328816,hPa,1011.0,Above,High,7.627563051519796
+Vancouver,2026-06,Cyclone,1022.5484093584764,hPa,1011.0,Above,Very High,7.77312261668492
+Vancouver,2026-07,Cyclone,1022.24999983217,hPa,1011.0,Above,High,7.715895199364241
+Vancouver,2026-08,Cyclone,1021.9650212295442,hPa,1011.0,Above,High,7.661243494300409
+Vancouver,2026-09,Cyclone,1025.0409425197054,hPa,1011.0,Above,Very High,8.251127582440688
+Vancouver,2026-10,Cyclone,1022.9309515658748,hPa,1011.0,Above,Very High,7.8464845593029455
+Vancouver,2026-11,Cyclone,1019.8959490149388,hPa,1011.0,Above,High,7.264447652835646
+Vancouver,2026-12,Cyclone,1022.7551756321742,hPa,1011.0,Above,Very High,7.812775170607061
+Vancouver,2027-01,Cyclone,1006.6406394391046,hPa,1011.0,Below,Medium,4.72241374996283
+Vancouver,2027-02,Cyclone,1018.3183524565244,hPa,1011.0,Above,High,6.961904440728702
+Vancouver,2027-03,Cyclone,1021.7095954094792,hPa,1011.0,Above,High,7.6122592672207245
+Vancouver,2027-04,Cyclone,1012.4796852011132,hPa,1011.0,Above,High,5.842195389352989
+Vancouver,2027-05,Cyclone,1007.6019932169036,hPa,1011.0,Below,Medium,4.9067771465201755
+Vancouver,2027-06,Cyclone,1025.339288686404,hPa,1011.0,Above,Very High,8.308342848987358
+Vancouver,2027-07,Cyclone,1024.8531679642208,hPa,1011.0,Above,Very High,8.21511716085017
+Vancouver,2027-08,Cyclone,1026.3726054436245,hPa,1011.0,Above,Very High,8.506506929142073
+Vancouver,2027-09,Cyclone,1027.7392083746718,hPa,1011.0,Above,Very High,8.76858688756273
+Vancouver,2027-10,Cyclone,1007.4236688929212,hPa,1011.0,Below,Medium,4.872579040872276
+Vancouver,2027-11,Cyclone,1010.8496914093822,hPa,1011.0,Below,High,5.529603710045376
+Vancouver,2027-12,Cyclone,1003.4903657211396,hPa,1011.0,Below,Medium,4.118270742318876
+Vancouver,2028-01,Cyclone,995.4550170898438,hPa,1011.0,Below,Low,2.5772936323315183
+Vancouver,2028-02,Cyclone,1018.8070974208134,hPa,1011.0,Above,High,7.0556333922837915
+Vancouver,2028-03,Cyclone,1012.5183266108212,hPa,1011.0,Above,High,5.849605836688875
+Vancouver,2028-04,Cyclone,1018.4057790390672,hPa,1011.0,Above,High,6.978670653208659
+Vancouver,2028-05,Cyclone,1022.1530881746418,hPa,1011.0,Above,High,7.697309988840786
+Vancouver,2028-06,Cyclone,1022.035005315112,hPa,1011.0,Above,High,7.674664675990452
+Vancouver,2028-07,Cyclone,1025.2211932039704,hPa,1011.0,Above,Very High,8.285695115382593
+Vancouver,2028-08,Cyclone,1023.1855263763708,hPa,1011.0,Above,Very High,7.895305584220998
+Vancouver,2028-09,Cyclone,1018.3637546489696,hPa,1011.0,Above,High,6.970611435597447
+Vancouver,2028-10,Cyclone,1011.9986565208098,hPa,1011.0,Above,High,5.749946226359882
+Vancouver,2028-11,Cyclone,1006.3190041714146,hPa,1011.0,Below,Medium,4.660732221504367
+Vancouver,2028-12,Cyclone,1007.2068276812416,hPa,1011.0,Below,Medium,4.830994368068069
+Vancouver,2029-01,Cyclone,1006.3666951952026,hPa,1011.0,Below,Medium,4.669878156470153
+Vancouver,2029-02,Cyclone,1007.411890321328,hPa,1011.0,Below,Medium,4.87032020805165
+Vancouver,2029-03,Cyclone,1010.608750774488,hPa,1011.0,Below,Medium,5.483397375973986
+Vancouver,2029-04,Cyclone,1006.6770161145004,hPa,1011.0,Below,Medium,4.729389878404105
+Vancouver,2029-05,Cyclone,1017.5271598577953,hPa,1011.0,Above,High,6.810173664607244
+Vancouver,2029-06,Cyclone,1022.4480028025966,hPa,1011.0,Above,Very High,7.753867172845087
+Vancouver,2029-07,Cyclone,1026.300267813225,hPa,1011.0,Above,Very High,8.49263439694077
+Vancouver,2029-08,Cyclone,1033.5315513798316,hPa,1011.0,Above,Very High,9.879412116648934
+Vancouver,2029-09,Cyclone,1033.009866652473,hPa,1011.0,Above,Very High,9.779366149712457
+Vancouver,2029-10,Cyclone,1025.1382607817234,hPa,1011.0,Above,Very High,8.269790769445347
+Vancouver,2029-11,Cyclone,1017.6046343622174,hPa,1011.0,Above,High,6.82503131962637
+Vancouver,2029-12,Cyclone,1006.9156387956906,hPa,1011.0,Below,Medium,4.775151687444451
+Vancouver,2030-01,Cyclone,1014.8516334863424,hPa,1011.0,Above,High,6.297075218633346
+Vancouver,2030-02,Cyclone,1007.4622000404626,hPa,1011.0,Below,Medium,4.879968342706858
+Vancouver,2030-03,Cyclone,1007.572502827918,hPa,1011.0,Below,Medium,4.901121634049396
+Vancouver,2030-04,Cyclone,1014.945466681879,hPa,1011.0,Above,High,6.315070057826222
+Vancouver,2030-05,Cyclone,1022.9578835088864,hPa,1011.0,Above,Very High,7.851649426393683
+Vancouver,2030-06,Cyclone,1024.1438961994245,hPa,1011.0,Above,Very High,8.079096733552891
+Vancouver,2030-07,Cyclone,1025.118023404424,hPa,1011.0,Above,Very High,8.265909751132973
+Vancouver,2030-08,Cyclone,1025.6035391082287,hPa,1011.0,Above,Very High,8.359019412011698
+Vancouver,2030-09,Cyclone,1021.9777111874446,hPa,1011.0,Above,High,7.663677108017565
+Vancouver,2030-10,Cyclone,1025.3002862634703,hPa,1011.0,Above,Very High,8.30086316842431
+Vancouver,2030-11,Cyclone,1006.5300031658948,hPa,1011.0,Below,Medium,4.701196504467516
+Vancouver,2030-12,Cyclone,1006.717344663804,hPa,1011.0,Below,Medium,4.737123876542524
+Vancouver,2026-01,Windstorm,17.334726149926137,m/s,11.0,Above,Very High,8.06749746906249
+Vancouver,2026-02,Windstorm,4.483840246441925,m/s,11.0,Below,Low,2.4790131927493704
+Vancouver,2026-03,Windstorm,7.53648947144247,m/s,11.0,Below,Medium,3.8065233989048584
+Vancouver,2026-04,Windstorm,7.923870146009193,m/s,11.0,Below,Medium,3.9749842213744393
+Vancouver,2026-05,Windstorm,7.319025325243046,m/s,11.0,Below,Medium,3.7119544352688303
+Vancouver,2026-06,Windstorm,10.692336588049752,m/s,11.0,Below,Medium,5.178911428964809
+Vancouver,2026-07,Windstorm,8.016242882746067,m/s,11.0,Below,Medium,4.015154493734734
+Vancouver,2026-08,Windstorm,6.294821025001467,m/s,11.0,Below,Medium,3.2665571552197963
+Vancouver,2026-09,Windstorm,5.655626837519264,m/s,11.0,Below,Low,2.9885898078257513
+Vancouver,2026-10,Windstorm,12.14476127121936,m/s,11.0,Above,High,5.810529557503459
+Vancouver,2026-11,Windstorm,7.916979795641921,m/s,11.0,Below,Medium,3.9719878042421897
+Vancouver,2026-12,Windstorm,19.810680389404297,m/s,11.0,Above,Very High,9.144219450730928
+Vancouver,2027-01,Windstorm,17.3773620131845,m/s,11.0,Above,Very High,8.08603859169138
+Vancouver,2027-02,Windstorm,11.154052314819836,m/s,11.0,Above,Medium,5.379698448518186
+Vancouver,2027-03,Windstorm,13.141621785239996,m/s,11.0,Above,High,6.244035803697063
+Vancouver,2027-04,Windstorm,12.037895210108408,m/s,11.0,Above,High,5.7640565511539
+Vancouver,2027-05,Windstorm,8.1555453043064,m/s,11.0,Below,Medium,4.075733149431241
+Vancouver,2027-06,Windstorm,4.134481077026921,m/s,11.0,Below,Low,2.327086839988568
+Vancouver,2027-07,Windstorm,7.731761220424526,m/s,11.0,Below,Medium,3.89144152104759
+Vancouver,2027-08,Windstorm,6.269464265701,m/s,11.0,Below,Medium,3.255530222780026
+Vancouver,2027-09,Windstorm,7.957235026267678,m/s,11.0,Below,Medium,3.989493657541409
+Vancouver,2027-10,Windstorm,8.143790254449545,m/s,11.0,Below,Medium,4.0706212130413535
+Vancouver,2027-11,Windstorm,17.563827715548296,m/s,11.0,Above,Very High,8.167127214962811
+Vancouver,2027-12,Windstorm,19.18497512351652,m/s,11.0,Above,Very High,8.872118051163438
+Vancouver,2028-01,Windstorm,9.229829684576377,m/s,11.0,Below,Medium,4.542908829965437
+Vancouver,2028-02,Windstorm,10.467606054213489,m/s,11.0,Below,Medium,5.081182520297827
+Vancouver,2028-03,Windstorm,7.265355142129628,m/s,11.0,Below,Medium,3.688614801200889
+Vancouver,2028-04,Windstorm,9.906799114557508,m/s,11.0,Below,Medium,4.837303554454313
+Vancouver,2028-05,Windstorm,6.295710048876695,m/s,11.0,Below,Medium,3.266943766383049
+Vancouver,2028-06,Windstorm,5.613976769957677,m/s,11.0,Below,Low,2.9704773796691675
+Vancouver,2028-07,Windstorm,2.9582319259643555,m/s,11.0,Below,Low,1.8155695846717523
+Vancouver,2028-08,Windstorm,7.210893999169171,m/s,11.0,Below,Medium,3.6649312012226156
+Vancouver,2028-09,Windstorm,7.989660554092265,m/s,11.0,Below,Medium,4.003594596088356
+Vancouver,2028-10,Windstorm,10.307799733113146,m/s,11.0,Below,Medium,5.011687302658196
+Vancouver,2028-11,Windstorm,12.423630054017323,m/s,11.0,Above,High,5.9318016487449245
+Vancouver,2028-12,Windstorm,13.195762659331216,m/s,11.0,Above,High,6.267580127865609
+Vancouver,2029-01,Windstorm,10.321808692332224,m/s,11.0,Below,Medium,5.017779400036642
+Vancouver,2029-02,Windstorm,9.956496156937598,m/s,11.0,Below,Medium,4.858915382775433
+Vancouver,2029-03,Windstorm,13.829428505692505,m/s,11.0,Above,High,6.543143357157574
+Vancouver,2029-04,Windstorm,19.76050431576444,m/s,11.0,Above,Very High,9.122399305358114
+Vancouver,2029-05,Windstorm,6.243067660211652,m/s,11.0,Below,Low,3.24405109084833
+Vancouver,2029-06,Windstorm,7.075643633370565,m/s,11.0,Below,Medium,3.6061146691712205
+Vancouver,2029-07,Windstorm,3.818872824538936,m/s,11.0,Below,Low,2.1898377997472602
+Vancouver,2029-08,Windstorm,7.034144040212147,m/s,11.0,Below,Medium,3.588067678046948
+Vancouver,2029-09,Windstorm,7.21106611895693,m/s,11.0,Below,Medium,3.665006051216208
+Vancouver,2029-10,Windstorm,10.314097039483082,m/s,11.0,Below,Medium,5.014425821846353
+Vancouver,2029-11,Windstorm,10.58761025198034,m/s,11.0,Below,Medium,5.133368928094802
+Vancouver,2029-12,Windstorm,10.821631245386126,m/s,11.0,Below,Medium,5.235137993029136
+Vancouver,2030-01,Windstorm,12.046678057699712,m/s,11.0,Above,High,5.767875961429105
+Vancouver,2030-02,Windstorm,10.89664445493913,m/s,11.0,Below,Medium,5.267759101429849
+Vancouver,2030-03,Windstorm,7.984853199885925,m/s,11.0,Below,Medium,4.001504014661164
+Vancouver,2030-04,Windstorm,12.22150159674813,m/s,11.0,Above,High,5.84390173945244
+Vancouver,2030-05,Windstorm,9.863486266741107,m/s,11.0,Below,Medium,4.818468030522171
+Vancouver,2030-06,Windstorm,4.343309194518434,m/s,11.0,Below,Low,2.4179002407002637
+Vancouver,2030-07,Windstorm,6.245089120014764,m/s,11.0,Below,Low,3.244930166143974
+Vancouver,2030-08,Windstorm,5.771198252356629,m/s,11.0,Below,Low,3.038848524575758
+Vancouver,2030-09,Windstorm,8.09892541300973,m/s,11.0,Below,Medium,4.051110771284361
+Vancouver,2030-10,Windstorm,10.263378633195464,m/s,11.0,Below,Medium,4.992369831451079
+Vancouver,2030-11,Windstorm,13.393228875509193,m/s,11.0,Above,High,6.353452561291734
+Vancouver,2030-12,Windstorm,11.847053158255394,m/s,11.0,Above,High,5.681064778131408
+Toronto,2026-01,Heatwave,9.31126645566934,°C,32.0,Below,Low,2.963885147348857
+Toronto,2026-02,Heatwave,9.515953666670866,°C,32.0,Below,Low,3.0043707995863476
+Toronto,2026-03,Heatwave,8.504709465216028,°C,32.0,Below,Low,2.8043539989911492
+Toronto,2026-04,Heatwave,18.372654884523957,°C,32.0,Below,Medium,4.756162343976907
+Toronto,2026-05,Heatwave,21.148025917039647,°C,32.0,Below,Medium,5.3051106925456795
+Toronto,2026-06,Heatwave,23.455559485304565,°C,32.0,Below,High,5.761524169059426
+Toronto,2026-07,Heatwave,25.640531499124894,°C,32.0,Below,High,6.193695855152309
+Toronto,2026-08,Heatwave,23.61074183220034,°C,32.0,Below,High,5.792218116664062
+Toronto,2026-09,Heatwave,22.81948774152045,°C,32.0,Below,High,5.63571377137539
+Toronto,2026-10,Heatwave,20.97811345622033,°C,32.0,Below,Medium,5.27150323477688
+Toronto,2026-11,Heatwave,16.16978483702858,°C,32.0,Below,Medium,4.320450556069369
+Toronto,2026-12,Heatwave,6.85491943359375,°C,32.0,Below,Low,2.4780374442913047
+Toronto,2027-01,Heatwave,16.172191550107115,°C,32.0,Below,Medium,4.320926586536816
+Toronto,2027-02,Heatwave,16.010273295355425,°C,32.0,Below,Medium,4.2889003249999895
+Toronto,2027-03,Heatwave,8.12912107164947,°C,32.0,Below,Low,2.730065326963369
+Toronto,2027-04,Heatwave,18.45410772790922,°C,32.0,Below,Medium,4.772273128206734
+Toronto,2027-05,Heatwave,20.95714388911996,°C,32.0,Below,Medium,5.267355605831024
+Toronto,2027-06,Heatwave,23.685296612874478,°C,32.0,Below,High,5.806964513902299
+Toronto,2027-07,Heatwave,36.302437818995344,°C,32.0,Above,Very High,8.302543932874958
+Toronto,2027-08,Heatwave,23.543288560308515,°C,32.0,Below,High,5.778876346581157
+Toronto,2027-09,Heatwave,23.56241396324406,°C,32.0,Below,High,5.782659213172391
+Toronto,2027-10,Heatwave,21.15045922061439,°C,32.0,Below,Medium,5.305591982421256
+Toronto,2027-11,Heatwave,17.214739543844136,°C,32.0,Below,Medium,4.527135051192752
+Toronto,2027-12,Heatwave,17.07113899682484,°C,32.0,Below,Medium,4.498731899968549
+Toronto,2028-01,Heatwave,10.43232497047947,°C,32.0,Below,Low,3.1856224261285373
+Toronto,2028-02,Heatwave,9.112744210020685,°C,32.0,Below,Low,2.9246188807393754
+Toronto,2028-03,Heatwave,19.97913317669944,°C,32.0,Below,Medium,5.073912149379305
+Toronto,2028-04,Heatwave,17.093441204685938,°C,32.0,Below,Medium,4.503143115633538
+Toronto,2028-05,Heatwave,21.15084722688778,°C,32.0,Below,Medium,5.305668727260241
+Toronto,2028-06,Heatwave,24.48841747405763,°C,32.0,Below,High,5.965816020703536
+Toronto,2028-07,Heatwave,38.469818115234375,°C,32.0,Above,Very High,8.731236104264543
+Toronto,2028-08,Heatwave,33.61844030247401,°C,32.0,Above,Very High,7.771668605938381
+Toronto,2028-09,Heatwave,21.153570239233392,°C,32.0,Below,Medium,5.306207319438636
+Toronto,2028-10,Heatwave,20.25395203426148,°C,32.0,Below,Medium,5.12826933486794
+Toronto,2028-11,Heatwave,13.562741012400403,°C,32.0,Below,Medium,3.8047961136870034
+Toronto,2028-12,Heatwave,9.34302379820134,°C,32.0,Below,Low,2.970166520373808
+Toronto,2029-01,Heatwave,15.034741013394685,°C,32.0,Below,Medium,4.095947084195835
+Toronto,2029-02,Heatwave,6.85491943359375,°C,32.0,Below,Low,2.4780374442913047
+Toronto,2029-03,Heatwave,8.810453682004006,°C,32.0,Below,Low,2.8648279972147597
+Toronto,2029-04,Heatwave,18.409331560653133,°C,32.0,Below,Medium,4.763416725663616
+Toronto,2029-05,Heatwave,21.149996517674573,°C,32.0,Below,Medium,5.3055004631210565
+Toronto,2029-06,Heatwave,22.189532954981484,°C,32.0,Below,High,5.511113263662336
+Toronto,2029-07,Heatwave,38.469818115234375,°C,32.0,Above,Very High,8.731236104264543
+Toronto,2029-08,Heatwave,32.20075798288092,°C,32.0,Above,High,7.491261280568859
+Toronto,2029-09,Heatwave,22.892527091192758,°C,32.0,Below,High,5.6501604273047805
+Toronto,2029-10,Heatwave,21.08767480503502,°C,32.0,Below,Medium,5.293173678401953
+Toronto,2029-11,Heatwave,16.06478258471643,°C,32.0,Below,Medium,4.299681868810099
+Toronto,2029-12,Heatwave,9.396643454841833,°C,32.0,Below,Low,2.9807721012560666
+Toronto,2030-01,Heatwave,9.303961748822664,°C,32.0,Below,Low,2.962440329083737
+Toronto,2030-02,Heatwave,13.90872749277399,°C,32.0,Below,Medium,3.8732297410481866
+Toronto,2030-03,Heatwave,16.563763767984874,°C,32.0,Below,Medium,4.398376743590074
+Toronto,2030-04,Heatwave,18.57473680941448,°C,32.0,Below,Medium,4.796132689435077
+Toronto,2030-05,Heatwave,21.15151474913549,°C,32.0,Below,Medium,5.30580075834049
+Toronto,2030-06,Heatwave,21.150371778289724,°C,32.0,Below,Medium,5.305574686960881
+Toronto,2030-07,Heatwave,22.97711468879144,°C,32.0,Below,High,5.66689124328116
+Toronto,2030-08,Heatwave,34.12915051309132,°C,32.0,Above,Very High,7.872683397629658
+Toronto,2030-09,Heatwave,21.38738531333105,°C,32.0,Below,Medium,5.352454252656804
+Toronto,2030-10,Heatwave,21.148786391054863,°C,32.0,Below,Medium,5.305261108814312
+Toronto,2030-11,Heatwave,19.83905151989855,°C,32.0,Below,Medium,5.0462050092294986
+Toronto,2030-12,Heatwave,14.533474231427874,°C,32.0,Below,Medium,3.996800134498215
+Toronto,2026-01,Drought,0.0009536743164062,mm,0.0492117484755135,Below,Low,1.0015579020252725
+Toronto,2026-01,Flood,0.0009536743164062,mm,50.0,Below,Low,1.0015579020252725
+Toronto,2026-02,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-03,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-04,Drought,0.9672470825753494,mm,0.0492117484755135,Above,Low,2.5800742066343716
+Toronto,2026-04,Flood,0.9672470825753494,mm,50.0,Below,Low,2.5800742066343716
+Toronto,2026-05,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-06,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-07,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-08,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2026-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2026-09,Drought,1.1858587456195908,mm,0.0492117484755135,Above,Low,2.937193557282547
+Toronto,2026-09,Flood,1.1858587456195908,mm,50.0,Below,Low,2.937193557282547
+Toronto,2026-10,Drought,0.0292066802871685,mm,0.0492117484755135,Below,Low,1.0477114100569815
+Toronto,2026-10,Flood,0.0292066802871685,mm,50.0,Below,Low,1.0477114100569815
+Toronto,2026-11,Drought,0.0016076609721558,mm,0.0492117484755135,Below,Low,1.00262624067922
+Toronto,2026-11,Flood,0.0016076609721558,mm,50.0,Below,Low,1.00262624067922
+Toronto,2026-12,Drought,0.0015990792001757,mm,0.0492117484755135,Below,Low,1.0026122216795277
+Toronto,2026-12,Flood,0.0015990792001757,mm,50.0,Below,Low,1.0026122216795277
+Toronto,2027-01,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-02,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-03,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-03,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-04,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-05,Drought,0.0127907433653243,mm,0.0492117484755135,Below,Low,1.0208946855868695
+Toronto,2027-05,Flood,0.0127907433653243,mm,50.0,Below,Low,1.0208946855868695
+Toronto,2027-06,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-07,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2027-08,Drought,1.1813332354912238,mm,0.0492117484755135,Above,Low,2.9298007804476387
+Toronto,2027-08,Flood,1.1813332354912238,mm,50.0,Below,Low,2.9298007804476387
+Toronto,2027-09,Drought,0.0012080007101329,mm,0.0492117484755135,Below,Low,1.001973364198313
+Toronto,2027-09,Flood,0.0012080007101329,mm,50.0,Below,Low,1.001973364198313
+Toronto,2027-10,Drought,0.0012150849310913,mm,0.0492117484755135,Below,Low,1.001984936830593
+Toronto,2027-10,Flood,0.0012150849310913,mm,50.0,Below,Low,1.001984936830593
+Toronto,2027-11,Drought,0.0001763228364716,mm,0.0492117484755135,Below,Low,1.0002880372254084
+Toronto,2027-11,Flood,0.0001763228364716,mm,50.0,Below,Low,1.0002880372254084
+Toronto,2027-12,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2027-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2028-01,Drought,0.047908299080057,mm,0.0492117484755135,Below,Low,1.0782619756872993
+Toronto,2028-01,Flood,0.047908299080057,mm,50.0,Below,Low,1.0782619756872993
+Toronto,2028-02,Drought,0.0135227591774548,mm,0.0492117484755135,Below,Low,1.0220904910066348
+Toronto,2028-02,Flood,0.0135227591774548,mm,50.0,Below,Low,1.0220904910066348
+Toronto,2028-03,Drought,0.2529415080712112,mm,0.0492117484755135,Above,Low,1.4131998533677523
+Toronto,2028-03,Flood,0.2529415080712112,mm,50.0,Below,Low,1.4131998533677523
+Toronto,2028-04,Drought,1.0077957879042765,mm,0.0492117484755135,Above,Low,2.646313706920137
+Toronto,2028-04,Flood,1.0077957879042765,mm,50.0,Below,Low,2.646313706920137
+Toronto,2028-05,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2028-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2028-06,Drought,1.1861855419586185,mm,0.0492117484755135,Above,Low,2.9377274048127404
+Toronto,2028-06,Flood,1.1861855419586185,mm,50.0,Below,Low,2.9377274048127404
+Toronto,2028-07,Drought,1.0407176358668728,mm,0.0492117484755135,Above,Low,2.700094135662226
+Toronto,2028-07,Flood,1.0407176358668728,mm,50.0,Below,Low,2.700094135662226
+Toronto,2028-08,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2028-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2028-09,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2028-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2028-10,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2028-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2028-11,Drought,0.2740352369672931,mm,0.0492117484755135,Above,Low,1.447658119048632
+Toronto,2028-11,Flood,0.2740352369672931,mm,50.0,Below,Low,1.447658119048632
+Toronto,2028-12,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2028-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-01,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-02,Drought,0.0278655572479039,mm,0.0492117484755135,Below,Low,1.0455205800607585
+Toronto,2029-02,Flood,0.0278655572479039,mm,50.0,Below,Low,1.0455205800607585
+Toronto,2029-03,Drought,0.0312838452340161,mm,0.0492117484755135,Below,Low,1.0511046224166407
+Toronto,2029-03,Flood,0.0312838452340161,mm,50.0,Below,Low,1.0511046224166407
+Toronto,2029-04,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-04,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-05,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-05,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-06,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-06,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-07,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-07,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-08,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-09,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-10,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2029-11,Drought,0.1322865603754182,mm,0.0492117484755135,Above,Low,1.2161005038930122
+Toronto,2029-11,Flood,0.1322865603754182,mm,50.0,Below,Low,1.2161005038930122
+Toronto,2029-12,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2029-12,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-01,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-01,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-02,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-02,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-03,Drought,0.0014822396228679,mm,0.0492117484755135,Below,Low,1.0024213550377523
+Toronto,2030-03,Flood,0.0014822396228679,mm,50.0,Below,Low,1.0024213550377523
+Toronto,2030-04,Drought,1.1810830673938435,mm,0.0492117484755135,Above,Low,2.9293921111788297
+Toronto,2030-04,Flood,1.1810830673938435,mm,50.0,Below,Low,2.9293921111788297
+Toronto,2030-05,Drought,0.0475403085511588,mm,0.0492117484755135,Below,Low,1.0776608342070382
+Toronto,2030-05,Flood,0.0475403085511588,mm,50.0,Below,Low,1.0776608342070382
+Toronto,2030-06,Drought,0.7975043657006426,mm,0.0492117484755135,Above,Low,2.3027861242721572
+Toronto,2030-06,Flood,0.7975043657006426,mm,50.0,Below,Low,2.3027861242721572
+Toronto,2030-07,Drought,0.0015694089833135,mm,0.0492117484755135,Below,Low,1.002563753046007
+Toronto,2030-07,Flood,0.0015694089833135,mm,50.0,Below,Low,1.002563753046007
+Toronto,2030-08,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-08,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-09,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-09,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-10,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-10,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-11,Drought,0.0,mm,0.0492117484755135,Below,Low,1.0
+Toronto,2030-11,Flood,0.0,mm,50.0,Below,Low,1.0
+Toronto,2030-12,Drought,0.5894320530959429,mm,0.0492117484755135,Above,Low,1.9628836317403815
+Toronto,2030-12,Flood,0.5894320530959429,mm,50.0,Below,Low,1.9628836317403815
+Toronto,2026-01,Cyclone,1005.8241524054896,hPa,1011.0,Below,Medium,4.5658321394896015
+Toronto,2026-02,Cyclone,1029.5320997434712,hPa,1011.0,Above,Very High,9.112418211726238
+Toronto,2026-03,Cyclone,1008.9023417531432,hPa,1011.0,Below,Medium,5.156151183826596
+Toronto,2026-04,Cyclone,1015.4942324894972,hPa,1011.0,Above,High,6.420309492614385
+Toronto,2026-05,Cyclone,1016.3725822607162,hPa,1011.0,Above,High,6.588754815165717
+Toronto,2026-06,Cyclone,1016.1418898792654,hPa,1011.0,Above,High,6.544513837508617
+Toronto,2026-07,Cyclone,1022.0451759935958,hPa,1011.0,Above,High,7.676615155484951
+Toronto,2026-08,Cyclone,1014.716280994232,hPa,1011.0,Above,High,6.271118026021993
+Toronto,2026-09,Cyclone,1022.3512815280023,hPa,1011.0,Above,High,7.735318472964397
+Toronto,2026-10,Cyclone,1022.3199632144764,hPa,1011.0,Above,High,7.729312410691138
+Toronto,2026-11,Cyclone,1027.2781979999666,hPa,1011.0,Above,Very High,8.68017673045759
+Toronto,2026-12,Cyclone,1027.6099744517496,hPa,1011.0,Above,Very High,8.743803082130658
+Toronto,2027-01,Cyclone,1011.9708266980374,hPa,1011.0,Above,High,5.74460916858739
+Toronto,2027-02,Cyclone,1026.4201819966534,hPa,1011.0,Above,Very High,8.515630911504712
+Toronto,2027-03,Cyclone,1022.374430449736,hPa,1011.0,Above,High,7.739757852031723
+Toronto,2027-04,Cyclone,1010.9877337751952,hPa,1011.0,Below,High,5.556076752558786
+Toronto,2027-05,Cyclone,1008.218619238349,hPa,1011.0,Below,Medium,5.025030457990587
+Toronto,2027-06,Cyclone,1019.878398599836,hPa,1011.0,Above,High,7.261081926071936
+Toronto,2027-07,Cyclone,1022.3942505870384,hPa,1011.0,Above,High,7.743558854240996
+Toronto,2027-08,Cyclone,1023.8923105690452,hPa,1011.0,Above,Very High,8.030848957954674
+Toronto,2027-09,Cyclone,1027.5338434403068,hPa,1011.0,Above,Very High,8.729203075164355
+Toronto,2027-10,Cyclone,1013.5751481271212,hPa,1011.0,Above,High,6.052277536534941
+Toronto,2027-11,Cyclone,1018.3390454915916,hPa,1011.0,Above,High,6.9658728427032655
+Toronto,2027-12,Cyclone,1007.8558655220232,hPa,1011.0,Below,Medium,4.955463448633497
+Toronto,2028-01,Cyclone,1007.934421747562,hPa,1011.0,Below,Medium,4.970528550467517
+Toronto,2028-02,Cyclone,1022.5456218833287,hPa,1011.0,Above,Very High,7.772588049288493
+Toronto,2028-03,Cyclone,1017.5636779560944,hPa,1011.0,Above,High,6.817176914392824
+Toronto,2028-04,Cyclone,1016.9025554929444,hPa,1011.0,Above,High,6.690390308190748
+Toronto,2028-05,Cyclone,1015.9694050769464,hPa,1011.0,Above,High,6.511435604765977
+Toronto,2028-06,Cyclone,1015.865567935782,hPa,1011.0,Above,High,6.491522261233174
+Toronto,2028-07,Cyclone,1016.4962599548858,hPa,1011.0,Above,High,6.612473076124438
+Toronto,2028-08,Cyclone,1021.6163020034198,hPa,1011.0,Above,High,7.594367946028966
+Toronto,2028-09,Cyclone,1022.0756653442272,hPa,1011.0,Above,High,7.682462243592425
+Toronto,2028-10,Cyclone,1022.4004643179773,hPa,1011.0,Above,High,7.744750491042799
+Toronto,2028-11,Cyclone,1009.226210163448,hPa,1011.0,Below,Medium,5.218260972689247
+Toronto,2028-12,Cyclone,1007.9938620712838,hPa,1011.0,Below,Medium,4.981927704688252
+Toronto,2029-01,Cyclone,1008.2850349563048,hPa,1011.0,Below,Medium,5.0377673168139445
+Toronto,2029-02,Cyclone,1016.21980027537,hPa,1011.0,Above,High,6.559455085553489
+Toronto,2029-03,Cyclone,1004.1905248776148,hPa,1011.0,Below,Medium,4.252543601280371
+Toronto,2029-04,Cyclone,1008.22556141642,hPa,1011.0,Below,Medium,5.026361792571287
+Toronto,2029-05,Cyclone,1015.670476299115,hPa,1011.0,Above,High,6.454108608105173
+Toronto,2029-06,Cyclone,1018.9089628609004,hPa,1011.0,Above,High,7.075168613302256
+Toronto,2029-07,Cyclone,1022.2928102910024,hPa,1011.0,Above,High,7.724105165123762
+Toronto,2029-08,Cyclone,1026.183849130722,hPa,1011.0,Above,Very High,8.470308231251654
+Toronto,2029-09,Cyclone,1023.9023605339024,hPa,1011.0,Above,Very High,8.032776287621594
+Toronto,2029-10,Cyclone,1011.6858243755208,hPa,1011.0,Above,High,5.689952914647051
+Toronto,2029-11,Cyclone,1023.8989801831848,hPa,1011.0,Above,Very High,8.03212802165099
+Toronto,2029-12,Cyclone,1009.9102095132604,hPa,1011.0,Below,Medium,5.3494347884963185
+Toronto,2030-01,Cyclone,1027.4877128332564,hPa,1011.0,Above,Very High,8.72035638875456
+Toronto,2030-02,Cyclone,1022.3092140147496,hPa,1011.0,Above,High,7.727250985420164
+Toronto,2030-03,Cyclone,1010.3187723551472,hPa,1011.0,Below,Medium,5.427786832225555
+Toronto,2030-04,Cyclone,1009.2783699803916,hPa,1011.0,Below,Medium,5.2282639094203684
+Toronto,2030-05,Cyclone,1011.0184014104158,hPa,1011.0,Above,High,5.5619580311517565
+Toronto,2030-06,Cyclone,1022.1863347454738,hPa,1011.0,Above,High,7.703685842209263
+Toronto,2030-07,Cyclone,1019.3150424721318,hPa,1011.0,Above,High,7.153044436051633
+Toronto,2030-08,Cyclone,1017.9939202313026,hPa,1011.0,Above,High,6.899686526391804
+Toronto,2030-09,Cyclone,1018.247810462228,hPa,1011.0,Above,High,6.948376266222347
+Toronto,2030-10,Cyclone,1027.755195138158,hPa,1011.0,Above,Very High,8.771652745402294
+Toronto,2030-11,Cyclone,1018.2311531789258,hPa,1011.0,Above,High,6.945181819601401
+Toronto,2030-12,Cyclone,1024.1029420760356,hPa,1011.0,Above,Very High,8.071242766090156
+Toronto,2026-01,Windstorm,11.938321588238432,m/s,11.0,Above,High,5.7207548189359665
+Toronto,2026-02,Windstorm,6.246120713421937,m/s,11.0,Below,Low,3.24537877673618
+Toronto,2026-03,Windstorm,9.66998872939971,m/s,11.0,Below,Medium,4.7343214624910495
+Toronto,2026-04,Windstorm,5.177952813814699,m/s,11.0,Below,Low,2.780862979440136
+Toronto,2026-05,Windstorm,4.862697782709943,m/s,11.0,Below,Low,2.6437675451183775
+Toronto,2026-06,Windstorm,7.322975141482153,m/s,11.0,Below,Medium,3.713672097857414
+Toronto,2026-07,Windstorm,4.827087278996878,m/s,11.0,Below,Low,2.6282815512680937
+Toronto,2026-08,Windstorm,4.878392122380415,m/s,11.0,Below,Low,2.650592566454204
+Toronto,2026-09,Windstorm,4.633038626208147,m/s,11.0,Below,Low,2.543895318825119
+Toronto,2026-10,Windstorm,7.325936252243085,m/s,11.0,Below,Medium,3.7149598005926316
+Toronto,2026-11,Windstorm,9.488740965998296,m/s,11.0,Below,Medium,4.655501972263446
+Toronto,2026-12,Windstorm,12.383196428791434,m/s,11.0,Above,High,5.914218216714923
+Toronto,2027-01,Windstorm,10.074449257749103,m/s,11.0,Below,Medium,4.910209826923346
+Toronto,2027-02,Windstorm,7.433161851943143,m/s,11.0,Below,Medium,3.761589160034657
+Toronto,2027-03,Windstorm,7.929870691447765,m/s,11.0,Below,Medium,3.9775936876855265
+Toronto,2027-04,Windstorm,7.735835809997489,m/s,11.0,Below,Medium,3.8932134440054273
+Toronto,2027-05,Windstorm,8.169834527720433,m/s,11.0,Below,Medium,4.081947125725933
+Toronto,2027-06,Windstorm,2.9999701976776123,m/s,11.0,Below,Low,1.833720370301775
+Toronto,2027-07,Windstorm,4.827342425502663,m/s,11.0,Below,Low,2.628392507216691
+Toronto,2027-08,Windstorm,6.082196667542315,m/s,11.0,Below,Low,3.174092877866008
+Toronto,2027-09,Windstorm,5.743724573708682,m/s,11.0,Below,Low,3.0269010042032596
+Toronto,2027-10,Windstorm,5.1818027282978,m/s,11.0,Below,Low,2.7825371976003117
+Toronto,2027-11,Windstorm,12.34445525781332,m/s,11.0,Above,High,5.897370784834881
+Toronto,2027-12,Windstorm,12.384448596230952,m/s,11.0,Above,High,5.914762748671677
+Toronto,2028-01,Windstorm,3.0845246457816398,m/s,11.0,Below,Low,1.8704906916065167
+Toronto,2028-02,Windstorm,6.024626905730278,m/s,11.0,Below,Low,3.149057428085037
+Toronto,2028-03,Windstorm,8.009121278446509,m/s,11.0,Below,Medium,4.012057510853623
+Toronto,2028-04,Windstorm,9.276527206915068,m/s,11.0,Below,Medium,4.563216252449189
+Toronto,2028-05,Windstorm,7.092781319693189,m/s,11.0,Below,Medium,3.6135673608584447
+Toronto,2028-06,Windstorm,3.1677672089086606,m/s,11.0,Below,Low,1.906690511498251
+Toronto,2028-07,Windstorm,3.744060450787454,m/s,11.0,Below,Low,2.1573040291166716
+Toronto,2028-08,Windstorm,4.853354368835081,m/s,11.0,Below,Low,2.639704360531812
+Toronto,2028-09,Windstorm,4.967480569475872,m/s,11.0,Below,Low,2.6893345947885408
+Toronto,2028-10,Windstorm,10.516816882912115,m/s,11.0,Below,Medium,5.102582908136618
+Toronto,2028-11,Windstorm,9.616556799371882,m/s,11.0,Below,Medium,4.7110854379044005
+Toronto,2028-12,Windstorm,8.230063821062807,m/s,11.0,Below,Medium,4.108139130023943
+Toronto,2029-01,Windstorm,3.512955286900309,m/s,11.0,Below,Low,2.056802975394927
+Toronto,2029-02,Windstorm,6.2508191648152165,m/s,11.0,Below,Low,3.2474219994316087
+Toronto,2029-03,Windstorm,9.832597348106226,m/s,11.0,Below,Medium,4.805035319548016
+Toronto,2029-04,Windstorm,12.089369478477122,m/s,11.0,Above,High,5.78644124444071
+Toronto,2029-05,Windstorm,5.192011954864728,m/s,11.0,Below,Low,2.7869768994676454
+Toronto,2029-06,Windstorm,5.686562407219872,m/s,11.0,Below,Low,3.0020428060197326
+Toronto,2029-07,Windstorm,6.326063296607632,m/s,11.0,Below,Medium,3.280143529337398
+Toronto,2029-08,Windstorm,7.152717613260148,m/s,11.0,Below,Medium,3.639631947898987
+Toronto,2029-09,Windstorm,3.9930313416059904,m/s,11.0,Below,Low,2.2655743786512375
+Toronto,2029-10,Windstorm,5.203087043775363,m/s,11.0,Below,Low,2.7917931402078326
+Toronto,2029-11,Windstorm,9.43023499876754,m/s,11.0,Below,Medium,4.630059393409725
+Toronto,2029-12,Windstorm,9.643897188538164,m/s,11.0,Below,Medium,4.72297499447751
+Toronto,2030-01,Windstorm,9.746748632067083,m/s,11.0,Below,Medium,4.767702157980038
+Toronto,2030-02,Windstorm,8.537757052924286,m/s,11.0,Below,Medium,4.24194615322066
+Toronto,2030-03,Windstorm,8.07987396386017,m/s,11.0,Below,Medium,4.042825838649138
+Toronto,2030-04,Windstorm,4.92846300864516,m/s,11.0,Below,Low,2.6723669688333986
+Toronto,2030-05,Windstorm,3.348369785860376,m/s,11.0,Below,Low,1.985229428514287
+Toronto,2030-06,Windstorm,3.2924189873358656,m/s,11.0,Below,Low,1.9608980197577424
+Toronto,2030-07,Windstorm,3.478431708590451,m/s,11.0,Below,Low,2.041789654446027
+Toronto,2030-08,Windstorm,6.35469687455848,m/s,11.0,Below,Medium,3.2925954568819042
+Toronto,2030-09,Windstorm,4.866484848754264,m/s,11.0,Below,Low,2.6454144322824993
+Toronto,2030-10,Windstorm,9.793721331135414,m/s,11.0,Below,Medium,4.788129246986267
+Toronto,2030-11,Windstorm,9.258575098703869,m/s,11.0,Below,Medium,4.555409391877985
+Toronto,2030-12,Windstorm,12.20010745220848,m/s,11.0,Above,High,5.834598035313835
