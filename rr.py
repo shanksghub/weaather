@@ -3,6 +3,7 @@ import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 import pandas as pd
 import os
+import dash
 
 # ---------------------- DATA ----------------------
 city_coords = {
@@ -52,142 +53,150 @@ def load_disaster_data():
             df["Year"] = year
             df["Month_num"] = df["Month"].str.split("-").str[1].astype(int)
             all_dfs.append(df)
-
     if all_dfs:
         return pd.concat(all_dfs, ignore_index=True)
     return pd.DataFrame()
 
 df = load_disaster_data()
 
-# ---------------------- LAYOUT ----------------------
-def create_map_layout():
-    return html.Div([
-        html.H2("Global Disaster Map (2026–2030)", style={"fontSize": 26}),
+# ---------------------- DASH APP ----------------------
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
-        dcc.Dropdown(
-            id="year-dropdown-map",
-            options=[{"label": y, "value": y} for y in sorted(df["Year"].unique())],
-            value=sorted(df["Year"].unique())[0] if not df.empty else None,
-            style={"width": "30%", "fontSize": 18}
-        ),
+app.layout = html.Div([
+    html.H2("Global Disaster Map (2026–2030)", style={"fontSize": 26}),
 
-        dcc.Dropdown(
-            id="city-dropdown-map",
-            options=[{"label": "All Cities", "value": "All"}] +
-                    [{"label": c, "value": c} for c in sorted(city_coords.keys())],
-            value="All",
-            style={"width": "40%", "fontSize": 18}
-        ),
+    dcc.Dropdown(
+        id="year-dropdown-map",
+        options=[{"label": y, "value": y} for y in sorted(df["Year"].unique())],
+        value=sorted(df["Year"].unique())[0] if not df.empty else None,
+        style={"width": "30%", "fontSize": 18}
+    ),
 
-        dcc.Graph(
-            id="city-map",
-            config={"scrollZoom": True, "displayModeBar": True},
-            style={"height": "80vh"}
-        ),
+    dcc.Dropdown(
+        id="city-dropdown-map",
+        options=[{"label": "All Cities", "value": "All"}] +
+                [{"label": c, "value": c} for c in sorted(city_coords.keys())],
+        value="All",
+        style={"width": "40%", "fontSize": 18}
+    ),
 
-        html.Button(
-            "Play",
-            id="playpause-btn",
-            n_clicks=0,
-            style={
-                "marginTop":"15px","padding":"12px 28px","fontSize":"20px",
-                "backgroundColor":"#0066FF","color":"white",
-                "borderRadius":"10px","border":"none"
-            }
-        ),
+    dcc.Graph(
+        id="city-map",
+        config={"scrollZoom": True, "displayModeBar": True},
+        style={"height": "80vh"}
+    ),
 
-        dcc.Slider(
-            id="month-slider",
-            min=1, max=12, value=1, step=1,
-            marks={i: month_names[i] for i in range(1,13)},
-            tooltip={"placement":"bottom","always_visible":True}
-        ),
+    html.Button(
+        "Play",
+        id="playpause-btn",
+        n_clicks=0,
+        style={
+            "marginTop":"15px","padding":"12px 28px","fontSize":"20px",
+            "backgroundColor":"#0066FF","color":"white",
+            "borderRadius":"10px","border":"none"
+        }
+    ),
 
-        dcc.Interval(id="auto-interval", interval=1000, n_intervals=0, disabled=True),
-        dcc.Interval(id="blink-interval", interval=500, n_intervals=0)
-    ])
+    dcc.Slider(
+        id="month-slider",
+        min=1, max=12, value=1, step=1,
+        marks={i: month_names[i] for i in range(1,13)},
+        tooltip={"placement":"bottom","always_visible":True}
+    ),
+
+    dcc.Interval(id="auto-interval", interval=1000, n_intervals=0, disabled=True),
+    dcc.Interval(id="blink-interval", interval=500, n_intervals=0)
+])
 
 # ---------------------- CALLBACKS ----------------------
-def register_map_callbacks(app):
+@app.callback(
+    Output("auto-interval", "disabled"),
+    Input("playpause-btn", "n_clicks"),
+    State("auto-interval", "disabled")
+)
+def toggle_play(n, disabled):
+    return not disabled if n else disabled
 
-    @app.callback(
-        Output("auto-interval", "disabled"),
-        Input("playpause-btn", "n_clicks"),
-        State("auto-interval", "disabled")
+@app.callback(
+    Output("playpause-btn", "children"),
+    Input("auto-interval", "disabled")
+)
+def update_btn(disabled):
+    return "Play" if disabled else "Pause"
+
+@app.callback(
+    Output("month-slider", "value"),
+    Input("auto-interval", "n_intervals"),
+    State("month-slider", "value")
+)
+def advance_month(n, current):
+    return 1 if current == 12 else current + 1
+
+@app.callback(
+    Output("city-map", "figure"),
+    Input("year-dropdown-map", "value"),
+    Input("city-dropdown-map", "value"),
+    Input("month-slider", "value"),
+    Input("blink-interval", "n_intervals"),
+    State("city-map", "relayoutData")
+)
+def update_map(year, city, month, blink, relayout):
+    opacity = 1 if blink % 2 == 0 else 0.2
+    year_df = df[df["Year"] == year]
+
+    if city == "All":
+        month_df = year_df[year_df["Month_num"] == month]
+        cities = month_df["City"].unique()
+    else:
+        month_df = year_df[(year_df["City"] == city) & (year_df["Month_num"] == month)]
+        cities = [city]
+
+    fig = go.Figure()
+
+    for c in cities:
+        if c not in city_coords:
+            continue
+        cdata = month_df[month_df["City"] == c]
+        coords = city_coords[c]
+
+        hover_blocks = []
+        for _, r in cdata.iterrows():
+            hover_blocks.append(
+                f"<b>Disaster:</b> {r['Disaster']}<br>"
+                f"<b>Severity:</b> {r['Severity']}<br>"
+                f"<b>Scale:</b> {r['Scale']}<br>"
+                f"<b>Value:</b> {r['Value']} {r['Unit']}<br>"
+                "------------------------"
+            )
+
+        fig.add_trace(go.Scattermapbox(
+            lat=[coords["lat"]],
+            lon=[coords["lon"]],
+            mode="markers+text",
+            marker=dict(size=18, color="red", opacity=opacity),
+            text=[c],
+            textposition="top center",
+            textfont=dict(color="orange", size=14),
+            hovertext="<br>".join(hover_blocks),
+            hoverinfo="text"
+        ))
+
+    # ---- Retain zoom/pan or zoom to city ----
+    if city != "All" and city in city_coords:
+        map_center = city_coords[city]
+        map_zoom = 5
+    elif relayout and "mapbox.center" in relayout:
+        map_center = relayout["mapbox.center"]
+        map_zoom = relayout.get("mapbox.zoom", 1)
+    else:
+        map_center = dict(lat=0, lon=0)
+        map_zoom = 1
+
+    fig.update_layout(
+        mapbox_style="carto-darkmatter",
+        mapbox=dict(center=map_center, zoom=map_zoom),
+        margin=dict(l=0, r=0, t=0, b=0),
+        showlegend=False
     )
-    def toggle_play(n, disabled):
-        return not disabled if n else disabled
 
-    @app.callback(
-        Output("playpause-btn", "children"),
-        Input("auto-interval", "disabled")
-    )
-    def update_btn(disabled):
-        return "Play" if disabled else "Pause"
-
-    @app.callback(
-        Output("month-slider", "value"),
-        Input("auto-interval", "n_intervals"),
-        State("month-slider", "value")
-    )
-    def advance_month(n, current):
-        return 1 if current == 12 else current + 1
-
-    @app.callback(
-        Output("city-map", "figure"),
-        Input("year-dropdown-map", "value"),
-        Input("city-dropdown-map", "value"),
-        Input("month-slider", "value"),
-        Input("blink-interval", "n_intervals")
-    )
-    def update_map(year, city, month, blink):
-
-        opacity = 1 if blink % 2 == 0 else 0.2
-        year_df = df[df["Year"] == year]
-
-        if city == "All":
-            month_df = year_df[year_df["Month_num"] == month]
-            cities = month_df["City"].unique()
-        else:
-            month_df = year_df[(year_df["City"] == city) & (year_df["Month_num"] == month)]
-            cities = [city]
-
-        fig = go.Figure()
-
-        for c in cities:
-            if c not in city_coords:
-                continue
-
-            cdata = month_df[month_df["City"] == c]
-            coords = city_coords[c]
-
-            hover_blocks = []
-            for _, r in cdata.iterrows():
-                hover_blocks.append(
-                    f"<b>Disaster:</b> {r['Disaster']}<br>"
-                    f"<b>Severity:</b> {r['Severity']}<br>"
-                    f"<b>Scale:</b> {r['Scale']}<br>"
-                    f"<b>Value:</b> {r['Value']} {r['Unit']}<br>"
-                    "------------------------"
-                )
-
-            fig.add_trace(go.Scattermapbox(
-                lat=[coords["lat"]],
-                lon=[coords["lon"]],
-                mode="markers+text",
-                marker=dict(size=18, color="red", opacity=opacity),
-                text=[c],
-                textposition="top center",
-                textfont=dict(color="orange", size=14),   # <<< ONLY CHANGE: ORANGE CITY NAMES
-                hovertext="<br>".join(hover_blocks),
-                hoverinfo="text"
-            ))
-
-        fig.update_layout(
-            mapbox_style="carto-darkmatter",
-            mapbox=dict(center=dict(lat=0, lon=0), zoom=1),
-            margin=dict(l=0, r=0, t=0, b=0),
-            showlegend=False
-        )
-
-        return fig
+    return fig
