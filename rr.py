@@ -181,7 +181,7 @@ def update_map(year, city, month, blink, relayout):
             hoverinfo="text"
         ))
 
-    # ---- Retain zoom/pan or zoom to city ----
+    # ---- MAP CENTER LOGIC ----
     if city != "All" and city in city_coords:
         map_center = city_coords[city]
         map_zoom = 5
