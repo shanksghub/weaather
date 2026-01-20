@@ -37,8 +37,12 @@ city_coords = {
     "Osaka": {"lat": 34.69, "lon": 135.50},
     "Fukuoka": {"lat": 33.59, "lon": 130.40},
     "Shanghai": {"lat": 31.23, "lon": 121.47},
-    "Hong Kong": {"lat": 22.32, "lon": 114.17}
-}
+    "Hong Kong": {"lat": 22.32, "lon": 114.17},
+    "Philippines": {"lat": 12.88, "lon": 121.77},
+    "Manila": {"lat": 14.60, "lon": 120.98},
+    "Indonesia": {"lat": -2.55, "lon": 118.01},
+    "Taiwan": {"lat": 23.70, "lon": 121.00}
+    }
 
 month_names = {1:"Jan",2:"Feb",3:"Mar",4:"Apr",5:"May",6:"Jun",
                7:"Jul",8:"Aug",9:"Sep",10:"Oct",11:"Nov",12:"Dec"}
