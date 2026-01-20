@@ -8,3 +8,4 @@ pycountry
 dash
 dash-bootstrap-components
 gunicorn
+reportlab
