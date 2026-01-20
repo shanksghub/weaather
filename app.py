@@ -1,7 +1,7 @@
 import dash
 from dash import html, dcc, Input, Output, State
 import dash_bootstrap_components as dbc
-
+import os
 from bar_charts import create_bar_layout, register_bar_callbacks
 from pie_chart import create_pie_layout, register_pie_callbacks
 from surface_plots import create_surface_layout, register_surface_callbacks
@@ -162,6 +162,8 @@ register_treemap_callbacks(app)
 register_map_callbacks(app)
 
 # ---------------------- RUN ----------------------
-
 if __name__ == "__main__":
-    app.run(debug=True, port=9091)
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 8050)),
+        debug=False)
